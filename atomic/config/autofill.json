@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "name": "email",
+      "type": "persona_field",
+      "source": "email_personal"
+    },
+    {
+      "name": "first-name",
+      "type": "persona_field",
+      "source": "first_name"
+    },
+    {
+      "name": "last-name",
+      "type": "persona_field",
+      "source": "last_name"
+    },
+    {
+      "name": "phone",
+      "type": "generated",
+      "generator": "phone"
+    },
+    {
+      "name": "address",
+      "type": "generated",
+      "generator": "address"
+    },
+    {
+      "name": "city",
+      "type": "persona_field",
+      "source": "city"
+    }
+  ]
+}
