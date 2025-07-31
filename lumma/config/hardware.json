@@ -1,0 +1,194 @@
+{
+  "Gaming_Rig": {
+    "High": {
+      "cpu": [
+        "Intel(R) Core(TM) i9-13900K @ 5.80GHz",
+        "AMD Ryzen 9 7950X @ 4.50GHz",
+        "Intel(R) Core(TM) i9-14900K @ 6.00GHz"
+      ],
+      "gpu": [
+        "NVIDIA GeForce RTX 4090",
+        "NVIDIA GeForce RTX 4080",
+        "AMD Radeon RX 7900 XTX"
+      ],
+      "ram": [
+        32768,
+        65536
+      ],
+      "resolution": [
+        "2560x1440",
+        "3840x2160",
+        "3440x1440"
+      ]
+    },
+    "Medium": {
+      "cpu": [
+        "Intel(R) Core(TM) i7-13700K @ 5.40GHz",
+        "AMD Ryzen 7 7700X @ 4.50GHz",
+        "Intel(R) Core(TM) i5-13600K @ 5.10GHz"
+      ],
+      "gpu": [
+        "NVIDIA GeForce RTX 4070 Ti",
+        "NVIDIA GeForce RTX 4070",
+        "AMD Radeon RX 7800 XT"
+      ],
+      "ram": [
+        16384,
+        32768
+      ],
+      "resolution": [
+        "1920x1080",
+        "2560x1440"
+      ]
+    }
+  },
+  "Business_Laptop": {
+    "High": {
+      "cpu": [
+        "Intel(R) Core(TM) i7-1365U @ 5.20GHz",
+        "Intel(R) Core(TM) i7-1355U @ 5.00GHz",
+        "AMD Ryzen 7 7840U @ 3.30GHz",
+        "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz"
+      ],
+      "gpu": [
+        "Intel Iris Xe Graphics",
+        "NVIDIA GeForce MX550",
+        "AMD Radeon 780M",
+        "Intel(R) UHD Graphics 630"
+      ],
+      "ram": [
+        16384,
+        32768
+      ],
+      "resolution": [
+        "1920x1080",
+        "2560x1440"
+      ]
+    },
+    "Medium": {
+      "cpu": [
+        "Intel(R) Core(TM) i5-1335U @ 4.60GHz",
+        "Intel(R) Core(TM) i5-1235U @ 4.40GHz",
+        "AMD Ryzen 5 7530U @ 2.00GHz"
+      ],
+      "gpu": [
+        "Intel Iris Xe Graphics",
+        "Intel UHD Graphics",
+        "AMD Radeon Graphics"
+      ],
+      "ram": [
+        8192,
+        16384
+      ],
+      "resolution": [
+        "1920x1080",
+        "1366x768"
+      ]
+    }
+  },
+  "Personal_Laptop": {
+    "High": {
+      "cpu": [
+        "Intel(R) Core(TM) i7-1255U @ 4.70GHz",
+        "AMD Ryzen 7 5800U @ 1.90GHz",
+        "Intel(R) Core(TM) i5-1240P @ 4.40GHz",
+        "Intel(R) Xeon(R) CPU E5-1650 v4 @ 3.60GHz"
+      ],
+      "gpu": [
+        "Intel Iris Xe Graphics",
+        "NVIDIA GeForce GTX 1650",
+        "AMD Radeon Graphics",
+        "NVIDIA GeForce GTX 1660 SUPER"
+      ],
+      "ram": [
+        16384
+      ],
+      "resolution": [
+        "1920x1080"
+      ]
+    },
+    "Medium": {
+      "cpu": [
+        "Intel(R) Core(TM) i5-10400 @ 2.90GHz",
+        "AMD Ryzen 5 3600 @ 3.60GHz",
+        "Intel(R) Core(TM) i3-10100 @ 3.60GHz",
+        "Intel(R) Core(TM) i3-7350K CPU @ 4.20GHz"
+      ],
+      "gpu": [
+        "Intel UHD Graphics 630",
+        "NVIDIA GeForce GTX 1650",
+        "AMD Radeon RX 6500 XT",
+        "NVIDIA GeForce GTX 1060 3GB"
+      ],
+      "ram": [
+        8192,
+        16384
+      ],
+      "resolution": [
+        "1920x1080",
+        "1366x768"
+      ]
+    },
+    "Low": {
+      "cpu": [
+        "Intel(R) Core(TM) i3-10100 @ 3.60GHz",
+        "AMD Ryzen 3 3200G @ 3.60GHz",
+        "Intel(R) Celeron(R) N5095 @ 2.00GHz"
+      ],
+      "gpu": [
+        "Intel UHD Graphics 630",
+        "Intel UHD Graphics",
+        "AMD Radeon Vega 8"
+      ],
+      "ram": [
+        4096,
+        8192
+      ],
+      "resolution": [
+        "1366x768",
+        "1920x1080"
+      ]
+    }
+  },
+  "Budget_Desktop": {
+    "Low": {
+      "cpu": [
+        "Intel(R) Core(TM) i3-10100 @ 3.60GHz",
+        "AMD Ryzen 3 3200G @ 3.60GHz",
+        "Intel(R) Pentium(R) Gold G6400 @ 4.00GHz"
+      ],
+      "gpu": [
+        "Intel UHD Graphics 630",
+        "AMD Radeon Vega 8",
+        "Intel UHD Graphics 610"
+      ],
+      "ram": [
+        4096,
+        8192
+      ],
+      "resolution": [
+        "1366x768",
+        "1920x1080"
+      ]
+    },
+    "Medium": {
+      "cpu": [
+        "Intel(R) Core(TM) i5-10400 @ 2.90GHz",
+        "AMD Ryzen 5 3600 @ 3.60GHz",
+        "Intel(R) Core(TM) i3-12100 @ 3.30GHz"
+      ],
+      "gpu": [
+        "NVIDIA GeForce GTX 1650",
+        "AMD Radeon RX 6500 XT",
+        "Intel UHD Graphics 730"
+      ],
+      "ram": [
+        8192,
+        16384
+      ],
+      "resolution": [
+        "1920x1080"
+      ]
+    }
+  }
+}

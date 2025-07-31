@@ -1,0 +1,106 @@
+{
+  "windows_base": [
+    "Microsoft Edge",
+    "Microsoft Edge WebView2 Runtime",
+    "Microsoft Visual C++ 2015-2022 Redistributable (x64)",
+    "Microsoft Visual C++ 2015-2022 Redistributable (x86)",
+    "Microsoft Visual C++ 2013 Redistributable (x64)",
+    "Microsoft Visual C++ 2010 Redistributable (x64)",
+    "Microsoft .NET Framework 4.8",
+    ".NET Runtime 6.0.25",
+    ".NET Runtime 7.0.14",
+    "Windows Security"
+  ],
+  "browsers": {
+    "Chrome": "Google Chrome",
+    "Firefox": "Mozilla Firefox",
+    "Brave": "Brave Browser",
+    "Edge": "Microsoft Edge",
+    "Opera": "Opera Stable",
+    "Vivaldi": "Vivaldi"
+  },
+  "common": [
+    "WinRAR",
+    "7-Zip",
+    "VLC media player",
+    "Notepad++",
+    "Java 8 Update 391",
+    "Python 3.11.5",
+    "Git version 2.42.0",
+    "Node.js",
+    "Adobe Acrobat Reader DC",
+    "CCleaner",
+    "Malwarebytes"
+  ],
+  "archetype": {
+    "Gaming_Enthusiast": [
+      "Steam",
+      "Discord",
+      "Epic Games Launcher",
+      "NVIDIA GeForce Experience",
+      "OBS Studio",
+      "Razer Synapse 3",
+      "MSI Afterburner",
+      "Origin",
+      "Battle.net",
+      "GOG Galaxy",
+      "Twitch Studio"
+    ],
+    "Remote_Worker": [
+      "Microsoft Office Professional Plus 2021",
+      "Zoom",
+      "Slack",
+      "Microsoft Teams",
+      "Adobe Acrobat Pro DC",
+      "TeamViewer",
+      "AnyDesk",
+      "Dropbox",
+      "OneDrive",
+      "1Password",
+      "NordVPN"
+    ],
+    "Corporate_Executive": [
+      "Microsoft Office Professional Plus 2021",
+      "Microsoft Teams",
+      "Zoom",
+      "Adobe Acrobat Pro DC",
+      "Salesforce for Outlook",
+      "Power BI Desktop",
+      "Tableau Desktop",
+      "Bloomberg Terminal",
+      "Cisco Webex Meetings",
+      "GlobalProtect"
+    ],
+    "Student": [
+      "Spotify",
+      "Discord",
+      "Adobe Creative Cloud",
+      "Microsoft Office 365",
+      "Grammarly for Microsoft Office",
+      "Mendeley Desktop",
+      "MATLAB",
+      "Visual Studio Code",
+      "Anki",
+      "f.lux"
+    ],
+    "Small_Business_Owner": [
+      "QuickBooks Desktop 2024",
+      "Adobe Acrobat Pro DC",
+      "TeamViewer",
+      "Microsoft Office Professional 2021",
+      "Square Point of Sale",
+      "Mailchimp",
+      "Canva",
+      "FileZilla",
+      "TurboTax Business"
+    ],
+    "Casual_Gamer": [
+      "Steam",
+      "Discord",
+      "Epic Games Launcher",
+      "Minecraft Launcher",
+      "Roblox Player",
+      "GeForce Experience"
+    ]
+  }
+}

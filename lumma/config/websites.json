@@ -1,0 +1,93 @@
+{
+  "common_sites": [
+    "google.com",
+    "facebook.com",
+    "amazon.com",
+    "netflix.com",
+    "spotify.com",
+    "twitter.com",
+    "instagram.com",
+    "linkedin.com",
+    "github.com",
+    "gmail.com",
+    "outlook.com",
+    "paypal.com",
+    "youtube.com",
+    "reddit.com",
+    "wikipedia.org",
+    "ebay.com"
+  ],
+  "archetype_sites": {
+    "Gaming_Enthusiast": [
+      "steam.com",
+      "discord.com",
+      "twitch.tv",
+      "epicgames.com",
+      "nvidia.com",
+      "razer.com",
+      "corsair.com",
+      "pcgamer.com",
+      "ign.com",
+      "gamespot.com",
+      "nexusmods.com"
+    ],
+    "Remote_Worker": [
+      "slack.com",
+      "zoom.us",
+      "salesforce.com",
+      "office.com",
+      "dropbox.com",
+      "asana.com",
+      "trello.com",
+      "notion.so",
+      "1password.com",
+      "lastpass.com",
+      "teamviewer.com"
+    ],
+    "Corporate_Executive": [
+      "salesforce.com",
+      "office.com",
+      "teams.microsoft.com",
+      "concur.com",
+      "workday.com",
+      "linkedin.com",
+      "bloomberg.com",
+      "wsj.com",
+      "forbes.com",
+      "harvard.edu"
+    ],
+    "Student": [
+      "canvas.instructure.com",
+      "quizlet.com",
+      "chegg.com",
+      "coursera.org",
+      "khanacademy.org",
+      "grammarly.com",
+      "turnitin.com",
+      "jstor.org",
+      "scholar.google.com"
+    ],
+    "Casual_Gamer": [
+      "steam.com",
+      "epicgames.com",
+      "minecraft.net",
+      "roblox.com",
+      "leagueoflegends.com",
+      "blizzard.com",
+      "ea.com"
+    ],
+    "Small_Business_Owner": [
+      "quickbooks.com",
+      "square.com",
+      "shopify.com",
+      "wix.com",
+      "mailchimp.com",
+      "yelp.com",
+      "indeed.com",
+      "adp.com",
+      "stamps.com",
+      "vistaprint.com",
+      "godaddy.com"
+    ]
+  }
+}

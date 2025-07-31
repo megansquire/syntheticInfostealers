@@ -1,0 +1,65 @@
+{
+  "product_id": {
+    "min": 10000,
+    "max": 99999
+  },
+  "install_date_days": {
+    "min": 180,
+    "max": 1095
+  },
+  "street_number": {
+    "min": 100,
+    "max": 9999
+  },
+  "password_count": {
+    "browser_storage": {
+      "min": 50,
+      "max": 150
+    },
+    "default": {
+      "min": 20,
+      "max": 80
+    }
+  },
+  "autofill_count": {
+    "min": 50,
+    "max": 100
+  },
+  "history_days": {
+    "min": 14,
+    "max": 28
+  },
+  "history_entries": {
+    "min": 50,
+    "max": 100
+  },
+  "history_bug_entries": {
+    "min": 10,
+    "max": 20
+  },
+  "cookie_count": {
+    "min": 50,
+    "max": 100
+  },
+  "cookie_expiry_days": {
+    "min": 30,
+    "max": 365
+  },
+  "svchost_count": {
+    "min": 20,
+    "max": 40
+  },
+  "chrome_processes": {
+    "min": 5,
+    "max": 15
+  },
+  "software_count": {
+    "max": 100
+  },
+  "credit_card": {
+    "prefix": {
+      "min": 4000,
+      "max": 5999
+    }
+  }
+}

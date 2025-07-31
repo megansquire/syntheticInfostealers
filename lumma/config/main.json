@@ -1,0 +1,136 @@
+{
+  "output_directory": "lumma_logs",
+  "file_structure": {
+    "system_info": "System.txt",
+    "debug": "Debug.txt",
+    "passwords": "Passwords.txt",
+    "autofills": "Autofills.txt",
+    "history": "History.txt",
+    "cookies": "Cookies_dev.txt",
+    "all_passwords": "All Passwords.txt",
+    "brute": "Brute.txt",
+    "software": "Software.txt",
+    "processes": "Processes.txt",
+    "clipboard": "Clipboard.txt",
+    "cookies_dir": "Cookies",
+    "google_accounts_dir": "GoogleAccounts",
+    "google_restore": "Restore_Chrome_Default.txt",
+    "screenshot": "Screen.png"
+  },
+  "lumma_campaigns": [
+    "hRjzG3--GUNNAR",
+    "xKj9Lm--STORM",
+    "pQr4Yx--SHADOW",
+    "mNb8Kl--PHOENIX",
+    "vCx2Qw--DRAGON",
+    "zAs5Ty--VIPER",
+    "@ArhontCloud--@hydroshot",
+    "hRjzG3--AEX"
+  ],
+  "build_dates": [
+    "Oct 21 2024",
+    "Nov 15 2024",
+    "Nov 21 2024",
+    "Dec 12 2024"
+  ],
+  "buy_headers": [
+    [
+      "# Buy now: TG @lummanowork",
+      "# Buy&Sell logs: @lummamarketplace_bot"
+    ],
+    [
+      "# Buy now: TG @lummanowork",
+      "# Buy&Sell logs: @lummamarketbot"
+    ],
+    [
+      "# Buy now: ARHONT CLOUD || t.me/ArhontCloud",
+      "# Buy&Sell logs: TG @ArhontSupport"
+    ]
+  ],
+  "marketing_messages": [
+    [
+      "Automated log store >> t.me/lummamarketplace_bot",
+      "Tens of thousands of logs for sale, rating system, search by filters and countries, hundreds of sellers with their own storefronts. Unique development based on MaaS from LummaC2.",
+      "Purchase quality material right now - t.me/lummamarketplace_bot"
+    ],
+    [
+      "Automated log store >> t.me/lummamarketbot",
+      "Tens of thousands of logs for sale, rating system, search by filters and countries, hundreds of sellers with their own storefronts. Unique development based on MaaS from LummaC2.",
+      "Purchase quality material right now - t.me/lummamarketbot"
+    ]
+  ],
+  "additional_marketing": [
+    [
+      "",
+      "------------------------------------",
+      "",
+      "",
+      "LIT ENERGY — это для тех, кто готов залетать в самый лютый движ, газовать до отсечки и с непоколебимой волей двигаться вперед, чтобы забирать свое.",
+      "Увеличенное содержание энергетических веществ для максимальной подростки заряда и только лучшие ингредиенты: натуральные соки, не вызывающие изжогу.",
+      "Линейка вкусов на выбор: Classic, Original, Blueberry, Mango Coconut.",
+      "",
+      "Приобрести: litenergy.ru",
+      ""
+    ],
+    [
+      "",
+      "------------------------------------",
+      "",
+      "Italiano - это пример достойного сервиса. Качественный брут и отработка папки Wallets (Metamask, Exodus, Phantom, .dat и другие).",
+      "В наличии около 500 видеокарт, ≈50.000.000 паролей в секунду. Опыт работы в этой сфере более 5 лет. Онлайн 20 часов в сутки.",
+      "Общий депозит на форумах 1.5btc.",
+      "",
+      "",
+      "Принимаю балансы от 5.000$",
+      "Процент за работу - 70/30 (70% Клиенту)",
+      "",
+      "",
+      "Заработать вместе >> https://t.me/milan_brute"
+    ]
+  ],
+  "execution_paths": [
+    "C:\\Users\\{username}\\AppData\\Local\\Temp\\Setup.exe",
+    "C:\\Users\\{username}\\Downloads\\Installer.exe",
+    "C:\\Users\\{username}\\Desktop\\Setup_2024.exe",
+    "C:\\Temp\\RarSFX0\\Setup.exe",
+    "C:\\Users\\{username}\\AppData\\Local\\Temp\\Rar$EXb{random}.{random}\\Setup.exe",
+    "C:\\Users\\{username}\\AppData\\Local\\Temp\\{random}\\Author.com",
+    "C:\\WINDOWS\\SysWOW64\\msiexec.exe"
+  ],
+  "malware_filenames": [
+    "Setup_2024.zip",
+    "Crack_v2.5.zip",
+    "Installer_Fixed.zip",
+    "Game_Patch.zip",
+    "Software_Activator.zip"
+  ],
+  "debug_codes": [
+    "reg",
+    "bcp",
+    "prc",
+    "acp - 0",
+    "efd",
+    "epf",
+    "eas",
+    "esv",
+    "ese",
+    "ebp",
+    "epl",
+    "erc - 0",
+    "msg - 1/0",
+    "ext",
+    "aps",
+    "apa",
+    "fin"
+  ],
+  "debug_optional_codes": [
+    "bps",
+    "bpa"
+  ],
+  "generator_settings": {
+    "computer_id_length": 8,
+    "hwid_length": 16,
+    "google_token_length": 200,
+    "max_browser_profiles": 4
+  }
+}

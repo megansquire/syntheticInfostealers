@@ -1,0 +1,5 @@
+{
+  "password_entry": "SOFT: {browser} {profile} ({version})\nURL: https://{site}/\nUSER: {username}\nPASS: {password}\n",
+  "autofill_entry": "FORM: {field}\nVALUE: {value}\n",
+  "history_entry": "URL: {url}\nTITLE: {title}\nTIME: {timestamp}\n"
+}

@@ -1,0 +1,66 @@
+{
+  "country_ip_ranges": {
+    "US": {
+      "start": 1,
+      "end": 255
+    },
+    "GB": "81.128",
+    "DE": "84.128",
+    "FR": "82.64",
+    "JP": "126",
+    "BR": "200.128",
+    "IN": "117.192",
+    "RU": "94.25",
+    "ES": "37.133",
+    "NO": "146.70",
+    "CW": "190.104",
+    "default": "192.168"
+  },
+  "country_timezones": {
+    "US": "(UTC-05:00) Eastern Time (US & Canada)",
+    "GB": "(UTC+00:00) London",
+    "DE": "(UTC+01:00) Berlin",
+    "FR": "(UTC+01:00) Paris",
+    "JP": "(UTC+09:00) Tokyo",
+    "BR": "(UTC-03:00) Brasilia",
+    "IN": "(UTC+05:30) New Delhi",
+    "RU": "(UTC+03:00) Moscow",
+    "ES": "UTC+1",
+    "NO": "UTC+1",
+    "CW": "UTC-4"
+  },
+  "country_languages": {
+    "US": "English (United States)",
+    "GB": "English (United Kingdom)",
+    "DE": "German (Germany)",
+    "FR": "French (France)",
+    "JP": "Japanese (Japan)",
+    "BR": "Portuguese (Brazil)",
+    "IN": "English (India)",
+    "RU": "Russian (Russia)",
+    "ES": "English (Belgium)",
+    "NO": "Norwegian (Norway)",
+    "CW": "English (United States)"
+  },
+  "street_names": [
+    "Main St",
+    "Oak Ave",
+    "Elm St",
+    "Park Rd",
+    "First Ave",
+    "Second St",
+    "Maple Dr",
+    "Cedar Ln",
+    "Pine St",
+    "Washington Blvd",
+    "Broadway",
+    "Market St",
+    "Church St",
+    "High St",
+    "King St"
+  ],
+  "phone_formats": {
+    "US": "({200-999}) {200-999}-{1000-9999}",
+    "default": "+{1-99} {100-999} {100-999} {1000-9999}"
+  }
+}
