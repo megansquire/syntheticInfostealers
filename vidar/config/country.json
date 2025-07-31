@@ -1,0 +1,211 @@
+{
+  "timezones": {
+    "Eastern": "-5",
+    "Central": "-6",
+    "Mountain": "-7",
+    "Pacific": "-8",
+    "UTC": "0",
+    "GMT": "0",
+    "Berlin": "1",
+    "Paris": "1",
+    "London": "0",
+    "Tokyo": "9",
+    "Sydney": "10"
+  },
+  "languages": {
+    "US": "English (United States)",
+    "GB": "English (United Kingdom)",
+    "CA": "English (Canada) / English (United States)",
+    "DE": "German (Germany)",
+    "FR": "French (France)",
+    "ES": "Spanish (Spain, International Sort) / English (United States) / English (United States)",
+    "JP": "Japanese (Japan)",
+    "BR": "Portuguese (Brazil)",
+    "IN": "English (India)",
+    "RU": "Russian (Russia)"
+  },
+  "ip_patterns": {
+    "US": {
+      "prefixes": [
+        47,
+        72,
+        98
+      ],
+      "ranges": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          1,
+          254
+        ]
+      ]
+    },
+    "GB": {
+      "prefixes": [
+        81,
+        86
+      ],
+      "ranges": [
+        [
+          128,
+          191
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          1,
+          254
+        ]
+      ]
+    },
+    "CA": {
+      "static": "70.68.30.96"
+    },
+    "DE": {
+      "prefixes": [
+        84
+      ],
+      "ranges": [
+        [
+          128,
+          191
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          1,
+          254
+        ]
+      ]
+    },
+    "FR": {
+      "prefixes": [
+        82
+      ],
+      "ranges": [
+        [
+          64,
+          127
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          1,
+          254
+        ]
+      ]
+    },
+    "ES": {
+      "static": "193.177.209.14"
+    },
+    "JP": {
+      "prefixes": [
+        126
+      ],
+      "ranges": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          1,
+          254
+        ]
+      ]
+    },
+    "BR": {
+      "prefixes": [
+        200
+      ],
+      "ranges": [
+        [
+          128,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          1,
+          254
+        ]
+      ]
+    },
+    "IN": {
+      "prefixes": [
+        117
+      ],
+      "ranges": [
+        [
+          192,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          1,
+          254
+        ]
+      ]
+    },
+    "RU": {
+      "prefixes": [
+        94
+      ],
+      "ranges": [
+        [
+          25,
+          29
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          1,
+          254
+        ]
+      ]
+    },
+    "default": {
+      "prefixes": [],
+      "ranges": [
+        [
+          1,
+          223
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          1,
+          254
+        ]
+      ]
+    }
+  }
+}

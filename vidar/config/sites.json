@@ -1,0 +1,60 @@
+{
+  "common": [
+    "google.com",
+    "facebook.com",
+    "amazon.com",
+    "netflix.com",
+    "spotify.com",
+    "twitter.com",
+    "instagram.com",
+    "linkedin.com",
+    "github.com",
+    "gmail.com",
+    "outlook.com",
+    "paypal.com",
+    "youtube.com",
+    "reddit.com",
+    "discord.com",
+    "twitch.tv",
+    "microsoft.com",
+    "apple.com",
+    "steam.com",
+    "ebay.com"
+  ],
+  "gaming": [
+    "steam.com",
+    "steamcommunity.com",
+    "epicgames.com",
+    "battle.net",
+    "roblox.com",
+    "minecraft.net",
+    "arcgames.com",
+    "elitedangerous.com"
+  ],
+  "student": [
+    "coursehero.com",
+    "quizlet.com",
+    "khanacademy.org",
+    "chegg.com",
+    "grammarly.com"
+  ],
+  "corporate": [
+    "slack.com",
+    "zoom.us",
+    "teams.microsoft.com",
+    "salesforce.com",
+    "hubspot.com"
+  ],
+  "crypto": [
+    "binance.com",
+    "coinbase.com",
+    "cointiply.com",
+    "crypto.com",
+    "metamask.io"
+  ],
+  "social_heavy": [
+    "tiktok.com",
+    "snapchat.com",
+    "pinterest.com"
+  ]
+}

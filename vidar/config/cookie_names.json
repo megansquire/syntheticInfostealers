@@ -1,0 +1,26 @@
+{
+  "google": [
+    "__cfduid",
+    "NID",
+    "SID",
+    "HSID",
+    "1P_JAR"
+  ],
+  "facebook": [
+    "c_user",
+    "xs",
+    "datr",
+    "fr"
+  ],
+  "coursehero": [
+    "ki_s",
+    "ki_t",
+    "__cfduid"
+  ],
+  "default": [
+    "__cfduid",
+    "session_id",
+    "auth_token",
+    "user_pref"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "base": [
+    "weather today",
+    "youtube",
+    "facebook",
+    "gmail login",
+    "amazon",
+    "netflix",
+    "news",
+    "translate"
+  ],
+  "gaming": [
+    "steam sale",
+    "baldurs gate",
+    "gaming pc build",
+    "discord download",
+    "twitch",
+    "best fps games 2024"
+  ],
+  "student": [
+    "essay template",
+    "citation generator",
+    "student discount",
+    "online courses",
+    "homework help",
+    "study tips"
+  ],
+  "corporate": [
+    "invoice template",
+    "business plan template",
+    "tax calculator",
+    "linkedin",
+    "zoom download",
+    "microsoft teams"
+  ],
+  "image": [
+    "cat meme funny",
+    "desktop wallpaper 4k",
+    "british old guy selfie",
+    "recipe chocolate cake",
+    "vacation photos beach",
+    "car wallpaper"
+  ]
+}

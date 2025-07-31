@@ -1,0 +1,80 @@
+{
+  "cpu": {
+    "Gaming_Rig": [
+      "Intel(R) Core(TM) i9-13900K @ 3.00GHz",
+      "AMD Ryzen 9 7950X 16-Core Processor",
+      "Intel(R) Core(TM) i7-13700K @ 3.40GHz",
+      "13th Gen Intel(R) Core(TM) i7-13700KF",
+      "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz"
+    ],
+    "Business_Laptop": [
+      "Intel(R) Core(TM) i7-1265U @ 1.80GHz",
+      "Intel(R) Core(TM) i5-1235U @ 1.30GHz",
+      "AMD Ryzen 7 PRO 6850U with Radeon Graphics"
+    ],
+    "default": [
+      "Intel(R) Core(TM) i5-10400 @ 2.90GHz",
+      "Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz",
+      "AMD Ryzen 5 5600X 6-Core Processor",
+      "Intel(R) Core(TM) i3-10100 @ 3.60GHz"
+    ]
+  },
+  "gpu": {
+    "Gaming_Rig": [
+      "NVIDIA GeForce RTX 4080",
+      "NVIDIA GeForce RTX 4070 Ti",
+      "AMD Radeon RX 7900 XTX",
+      "NVIDIA GeForce RTX 3080 Ti"
+    ],
+    "laptop": [
+      "Intel(R) UHD Graphics",
+      "NVIDIA GeForce GTX 1650",
+      "AMD Radeon(TM) Graphics"
+    ],
+    "default": [
+      "NVIDIA GeForce GTX 1050 Ti",
+      "NVIDIA GeForce GTX 1660",
+      "AMD Radeon RX 580"
+    ]
+  },
+  "ram_mb": {
+    "Gaming_Rig": [
+      16384,
+      32768,
+      65536,
+      32702,
+      16082
+    ],
+    "high_income": [
+      16384,
+      32768,
+      65536
+    ],
+    "default": [
+      8192,
+      16335,
+      16384
+    ]
+  },
+  "resolution": {
+    "Gaming_Rig": [
+      "2560x1440",
+      "3840x2160",
+      "1920x1080",
+      "2048x1152"
+    ],
+    "default": [
+      "1920x1080",
+      "1366x768",
+      "1600x900"
+    ]
+  },
+  "cpu_cores": {
+    "Gaming_Rig": [
+      8,
+      12,
+      16
+    ],
+    "default": 4
+  }
+}

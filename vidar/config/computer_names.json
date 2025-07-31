@@ -1,0 +1,20 @@
+{
+  "Business_Laptop": [
+    "CORP",
+    "WORK",
+    "LAPTOP",
+    "OFFICE"
+  ],
+  "Gaming_Rig": [
+    "GAMING-PC",
+    "DESKTOP",
+    "BATTLESTATION",
+    "LEMONDEMON"
+  ],
+  "default": [
+    "DESKTOP",
+    "HOME-PC",
+    "PC",
+    "LAPTOP"
+  ]
+}

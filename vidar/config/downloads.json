@@ -1,0 +1,82 @@
+{
+  "common": [
+    [
+      "Firefox Installer.exe",
+      "https://www.mozilla.org/en-US/firefox/download/thanks/"
+    ],
+    [
+      "Chrome Setup.exe",
+      "https://www.google.com/chrome/"
+    ],
+    [
+      "Discord-Setup.exe",
+      "https://discord.com/download"
+    ],
+    [
+      "Steam Setup.exe",
+      "https://store.steampowered.com/about/"
+    ],
+    [
+      "vlc-3.0.20-win64.exe",
+      "https://www.videolan.org/vlc/download-windows.html"
+    ],
+    [
+      "7z2301-x64.exe",
+      "https://www.7-zip.org/download.html"
+    ],
+    [
+      "qbittorrent_4.6.5_x64_setup.exe",
+      "https://www.qbittorrent.org/download.php"
+    ],
+    [
+      "OBS-Studio-30.1.2-Full-Installer-x64.exe",
+      "https://obsproject.com/download"
+    ],
+    [
+      "winrar-x64-623.exe",
+      "https://www.win-rar.com/download.html"
+    ]
+  ],
+  "gaming": [
+    [
+      "epic_games_launcher.exe",
+      "https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi"
+    ],
+    [
+      "steamcmd.zip",
+      "https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip"
+    ],
+    [
+      "nvidia-geforce-now.exe",
+      "https://download.nvidia.com/gfnpc/GeForceNOW-release.exe"
+    ]
+  ],
+  "student": [
+    [
+      "essay_template.docx",
+      "https://www.google.com/search?q=essay+template+download"
+    ],
+    [
+      "lecture_notes.pdf",
+      "https://www.coursehero.com/file/123456/lecture-notes/"
+    ],
+    [
+      "zoom_installer.exe",
+      "https://zoom.us/client/latest/ZoomInstaller.exe"
+    ]
+  ],
+  "corporate": [
+    [
+      "quarterly_report_template.xlsx",
+      "https://templates.office.com/en-us/quarterly-report"
+    ],
+    [
+      "invoice_template.docx",
+      "https://www.google.com/search?q=invoice+template"
+    ],
+    [
+      "TeamViewerQS.exe",
+      "https://download.teamviewer.com/download/TeamViewerQS.exe"
+    ]
+  ]
+}

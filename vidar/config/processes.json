@@ -1,0 +1,99 @@
+{
+  "base": [
+    "System",
+    "Registry",
+    "smss.exe",
+    "csrss.exe",
+    "wininit.exe",
+    "services.exe",
+    "lsass.exe",
+    "fontdrvhost.exe",
+    "winlogon.exe",
+    "dwm.exe",
+    "sihost.exe",
+    "taskhostw.exe",
+    "explorer.exe",
+    "ctfmon.exe",
+    "SearchApp.exe",
+    "RuntimeBroker.exe",
+    "TextInputHost.exe",
+    "SecurityHealthSystray.exe",
+    "spoolsv.exe",
+    "SearchIndexer.exe",
+    "audiodg.exe",
+    "Memory Compression"
+  ],
+  "svchost_count": [
+    40,
+    60
+  ],
+  "browser": {
+    "Chrome": {
+      "processes": [
+        "chrome.exe"
+      ],
+      "count": [
+        8,
+        12
+      ]
+    },
+    "Edge": {
+      "processes": [
+        "msedge.exe",
+        "MicrosoftEdgeUpdate.exe"
+      ],
+      "count": [
+        6,
+        10
+      ]
+    },
+    "Firefox": {
+      "processes": [
+        "firefox.exe"
+      ],
+      "count": [
+        8,
+        14
+      ]
+    }
+  },
+  "nvidia": [
+    "NVDisplay.Container.exe",
+    "nvcontainer.exe",
+    "NVIDIA Web Helper.exe",
+    "NvBackend.exe"
+  ],
+  "gaming": [
+    "steam.exe",
+    "steamservice.exe",
+    "steamwebhelper.exe",
+    "Discord.exe",
+    "DiscordCrashHandler.exe"
+  ],
+  "corporate": [
+    "OUTLOOK.EXE",
+    "OneDrive.exe",
+    "Teams.exe"
+  ],
+  "antivirus": {
+    "Norton": [
+      "NortonSecurity.exe",
+      "nsWscSvc.exe"
+    ],
+    "McAfee": [
+      "McAfee.exe",
+      "McAfeeSvc.exe"
+    ],
+    "Avast": [
+      "AvastSvc.exe",
+      "AvastUI.exe"
+    ]
+  },
+  "ending": [
+    "SearchProtocolHost.exe",
+    "SearchFilterHost.exe",
+    "WmiPrvSE.exe",
+    "conhost.exe",
+    "dllhost.exe"
+  ]
+}
