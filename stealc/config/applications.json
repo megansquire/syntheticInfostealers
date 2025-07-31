@@ -1,0 +1,86 @@
+{
+  "discord_probability": {
+    "Gaming_Enthusiast": 0.8,
+    "Digital_Nomad_Student": 0.6,
+    "default": 0.2
+  },
+  "steam_probability": {
+    "gaming": 0.7,
+    "default": 0.3
+  },
+  "telegram_probability": {
+    "heavy_user": 0.5
+  },
+  "google_token_prefixes": [
+    "1//03",
+    "1//04",
+    "1//09",
+    "1//0g"
+  ],
+  "outlook_domains": [
+    "outlook.com",
+    "hotmail.com",
+    "live.com"
+  ],
+  "telegram_files": {
+    "A7FDF864FBC10B77s": {
+      "min": 100,
+      "max": 300
+    },
+    "D877F783D5D3EF8Cs": {
+      "min": 200,
+      "max": 400
+    },
+    "key_datas": {
+      "min": 50,
+      "max": 150
+    },
+    "D877F783D5D3EF8C/maps": {
+      "min": 100,
+      "max": 200
+    }
+  },
+  "crypto_wallets": {
+    "MetaMask": "nkbihfbeogaeaoehlefnkodbefgpgknn",
+    "Binance Wallet": "fhbohimaelbohpjbbldcngcnapndodjp",
+    "Coinbase Wallet": "hnfanknocfeofbddgcijnmhnfnkdnaad",
+    "Trust Wallet": "egjidjbpglichdcondbcbdnbeeppgdph"
+  },
+  "crypto_wallet_files": {
+    "MetaMask": {
+      "000003.log": "empty",
+      "CURRENT": "manifest",
+      "LOCK": "empty",
+      "LOG": "log_current",
+      "LOG.old": "log_old",
+      "MANIFEST-000001": {
+        "size": 100
+      }
+    },
+    "Binance Wallet": {
+      "000003.log": "empty",
+      "CURRENT": "manifest",
+      "LOCK": "empty",
+      "LOG": "log_current",
+      "LOG.old": "log_old",
+      "MANIFEST-000001": {
+        "size": 100
+      }
+    }
+  },
+  "steam_dialog_resolutions": [
+    "1000x800",
+    "1024x768",
+    "1280x768",
+    "1366x768",
+    "1440x810",
+    "1600x900",
+    "1769x995",
+    "1842x1036",
+    "1842x1048",
+    "1842x973",
+    "1846x1017",
+    "1920x1080",
+    "2560x1440"
+  ]
+}
