@@ -1,0 +1,151 @@
+{
+  "system": [
+    [
+      "System",
+      ""
+    ],
+    [
+      "Registry",
+      ""
+    ],
+    [
+      "smss.exe",
+      ""
+    ],
+    [
+      "csrss.exe",
+      ""
+    ],
+    [
+      "wininit.exe",
+      ""
+    ],
+    [
+      "winlogon.exe",
+      ""
+    ],
+    [
+      "services.exe",
+      ""
+    ],
+    [
+      "lsass.exe",
+      ""
+    ],
+    [
+      "explorer.exe",
+      "C:\\WINDOWS\\Explorer.EXE"
+    ],
+    [
+      "dwm.exe",
+      ""
+    ],
+    [
+      "taskhostw.exe",
+      "taskhostw.exe"
+    ],
+    [
+      "SearchHost.exe",
+      "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\SearchHost.exe"
+    ],
+    [
+      "RuntimeBroker.exe",
+      "C:\\Windows\\System32\\RuntimeBroker.exe"
+    ],
+    [
+      "MpCmdRun.exe",
+      "C:\\Program Files\\Windows Defender\\MpCmdRun.exe"
+    ]
+  ],
+  "svchost_services": [
+    "-k LocalService -p",
+    "-k NetworkService -p",
+    "-k LocalServiceNetworkRestricted -p",
+    "-k netsvcs -p",
+    "-k DcomLaunch -p",
+    "-k LocalSystemNetworkRestricted -p",
+    "-k utcsvc -p"
+  ],
+  "browsers": {
+    "Chrome": {
+      "count": {
+        "min": 5,
+        "max": 15
+      },
+      "gpu_cmdline": "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\" --type=gpu-process"
+    },
+    "Edge": {
+      "count": {
+        "min": 3,
+        "max": 8
+      },
+      "renderer_cmdline": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer"
+    }
+  },
+  "nvidia": [
+    [
+      "nvcontainer.exe",
+      "C:\\Program Files\\NVIDIA Corporation\\NvContainer\\nvcontainer.exe"
+    ],
+    [
+      "NVIDIA Web Helper.exe",
+      "\"C:\\Program Files\\NVIDIA Corporation\\NvNode\\NVIDIA Web Helper.exe\""
+    ],
+    [
+      "nvidia-smi.exe",
+      ""
+    ]
+  ],
+  "archetype": {
+    "Gaming": [
+      [
+        "steam.exe",
+        "\"C:\\Program Files (x86)\\Steam\\steam.exe\" -silent"
+      ],
+      [
+        "steamwebhelper.exe",
+        "\"C:\\Program Files (x86)\\Steam\\bin\\cef\\cef.win7x64\\steamwebhelper.exe\""
+      ],
+      [
+        "Discord.exe",
+        "C:\\Users\\{username}\\AppData\\Local\\Discord\\app-1.0.9036\\Discord.exe"
+      ],
+      [
+        "GameBar.exe",
+        ""
+      ]
+    ],
+    "Professional": [
+      [
+        "Teams.exe",
+        "\"C:\\Users\\{username}\\AppData\\Local\\Microsoft\\Teams\\current\\Teams.exe\""
+      ],
+      [
+        "OUTLOOK.EXE",
+        "\"C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE\""
+      ],
+      [
+        "OneDrive.exe",
+        "\"C:\\Users\\{username}\\AppData\\Local\\Microsoft\\OneDrive\\OneDrive.exe\" /background"
+      ],
+      [
+        "slack.exe",
+        ""
+      ]
+    ],
+    "Student": [
+      [
+        "Zoom.exe",
+        ""
+      ],
+      [
+        "Notion.exe",
+        ""
+      ],
+      [
+        "chrome.exe",
+        ""
+      ]
+    ]
+  }
+}

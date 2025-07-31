@@ -1,0 +1,12 @@
+{
+  "output_directory": "redline_logs",
+  "meta_header": "META_DATA\n",
+  "redline_builds": [
+    "falcon",
+    "sparrow",
+    "eagle"
+  ],
+  "generator_settings": {
+    "computer_id_length": 8
+  }
+}

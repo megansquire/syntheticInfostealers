@@ -1,0 +1,65 @@
+{
+  "metamask_probability": 0.7,
+  "other_wallets": [
+    "Exodus",
+    "Atomic",
+    "Trust Wallet",
+    "Coinomi"
+  ],
+  "wallet_files": {
+    "Metamask": [
+      {
+        "name": "000005.ldb",
+        "size": 0
+      },
+      {
+        "name": "000008.log",
+        "content": ""
+      },
+      {
+        "name": "CURRENT",
+        "content": "MANIFEST-000007\n"
+      },
+      {
+        "name": "LOCK",
+        "content": ""
+      },
+      {
+        "name": "LOG",
+        "content": ""
+      },
+      {
+        "name": "LOG.old",
+        "content": ""
+      },
+      {
+        "name": "MANIFEST-000007",
+        "size": 100
+      }
+    ],
+    "Exodus": [
+      {
+        "name": "info.seco",
+        "size": 256
+      },
+      {
+        "name": "wallet.seco",
+        "size": 1024
+      },
+      {
+        "name": "seed.seco",
+        "size": 512
+      }
+    ],
+    "Atomic": [
+      {
+        "name": "indexedDB",
+        "size": 0
+      },
+      {
+        "name": "Local Storage",
+        "size": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "windows_base": [
+    [
+      "Microsoft Visual C++ 2015-2022 Redistributable (x64)",
+      "14.34.31931"
+    ],
+    [
+      "Microsoft Visual C++ 2015-2022 Redistributable (x86)",
+      "14.34.31931"
+    ],
+    [
+      "Microsoft Edge",
+      "126.0.2592.87"
+    ],
+    [
+      "Microsoft Edge WebView2 Runtime",
+      "126.0.2592.87"
+    ],
+    [
+      "Microsoft OneDrive",
+      "24.116.0602.0002"
+    ]
+  ],
+  "amd_chipset": [
+    [
+      "AMD Chipset Software",
+      "3.10.22.706"
+    ],
+    [
+      "AMD Ryzen Master",
+      "2.9.0.2093"
+    ]
+  ],
+  "intel_chipset": [
+    [
+      "Intel(R) Management Engine Components",
+      "2144.15.0.2298"
+    ],
+    [
+      "Intel(R) Chipset Device Software",
+      "10.1.18383.8213"
+    ]
+  ],
+  "archetype": {
+    "Gaming": [
+      [
+        "Steam",
+        "2.10.91.91"
+      ],
+      [
+        "Discord",
+        "1.0.9036"
+      ],
+      [
+        "NVIDIA GeForce Experience",
+        "3.27.0.120"
+      ],
+      [
+        "Epic Games Launcher",
+        "1.3.23.0"
+      ]
+    ],
+    "Professional": [
+      [
+        "Microsoft Office Professional Plus 2021",
+        "16.0.17328.20068"
+      ],
+      [
+        "Adobe Acrobat Reader DC",
+        "2024.002.20736"
+      ],
+      [
+        "Zoom",
+        "5.16.10.25689"
+      ],
+      [
+        "Microsoft Teams",
+        "24152.2302.2790.8046"
+      ]
+    ],
+    "Student": [
+      [
+        "Zoom",
+        "5.16.10.25689"
+      ],
+      [
+        "Microsoft Office 365",
+        "16.0.17328.20068"
+      ],
+      [
+        "Google Drive",
+        "84.0.11.0"
+      ],
+      [
+        "Notion",
+        "3.1.0"
+      ]
+    ]
+  },
+  "crypto": [
+    [
+      "MetaMask",
+      "11.7.1"
+    ],
+    [
+      "Exodus Wallet",
+      "23.12.11"
+    ],
+    [
+      "Ledger Live",
+      "2.77.2"
+    ]
+  ],
+  "security": [
+    [
+      "Malwarebytes",
+      "4.5.31.286"
+    ],
+    [
+      "NordVPN",
+      "7.13.0"
+    ],
+    [
+      "Bitwarden",
+      "2024.6.2"
+    ]
+  ]
+}

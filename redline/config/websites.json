@@ -1,0 +1,29 @@
+{
+  "common_domains": [
+    ".google.com",
+    ".youtube.com",
+    ".facebook.com",
+    ".amazon.com",
+    ".microsoft.com",
+    ".apple.com",
+    ".twitter.com",
+    ".reddit.com"
+  ],
+  "archetype_domains": {
+    "Gaming": [
+      ".steampowered.com",
+      ".epicgames.com",
+      ".twitch.tv"
+    ],
+    "Professional": [
+      ".salesforce.com",
+      ".slack.com",
+      ".zoom.us"
+    ],
+    "Student": [
+      ".edu",
+      ".coursera.org",
+      ".khanacademy.org"
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "inclusion_probability": {
+    "high_value": 0.3,
+    "crypto_user": 0.4,
+    "business_access": 0.5,
+    "default": 0.8
+  },
+  "crypto_files": [
+    "wallet.dat",
+    "seed.txt",
+    "recovery_phrase.txt",
+    "metamask_backup.json",
+    "private_keys.txt"
+  ],
+  "business_files": [
+    "company_passwords.xlsx",
+    "vpn_config.ovpn",
+    "ssh_keys.txt",
+    "database_credentials.txt",
+    "api_keys.json"
+  ],
+  "generic_files": [
+    "passwords.txt",
+    "login_info.docx",
+    "accounts.xlsx",
+    "backup_codes.txt",
+    "important.txt"
+  ],
+  "file_headers": {
+    ".png": "PNG_HEADER",
+    ".jpg": "\\xFF\\xD8\\xFF",
+    ".pdf": "%PDF-",
+    ".xlsx": "PK\\x03\\x04",
+    ".docx": "PK\\x03\\x04"
+  },
+  "archetype_files": {
+    "Gaming": {
+      "desktop": [
+        "game_accounts.txt",
+        "steam_backup.txt",
+        "discord_tokens.txt"
+      ],
+      "documents": [
+        "minecraft_login.txt",
+        "epic_games_info.txt",
+        "game_keys.txt"
+      ]
+    },
+    "Professional": {
+      "desktop": [
+        "work_passwords.xlsx",
+        "vpn_settings.txt",
+        "meeting_notes.docx"
+      ],
+      "documents": [
+        "project_credentials.txt",
+        "client_info.xlsx",
+        "invoice_template.docx"
+      ]
+    },
+    "Student": {
+      "desktop": [
+        "homework_tracker.xlsx",
+        "class_schedule.txt",
+        "wifi_passwords.txt"
+      ],
+      "documents": [
+        "essay_draft.docx",
+        "research_notes.txt",
+        "textbook_codes.txt"
+      ]
+    }
+  },
+  "general_user_files": {
+    "desktop": [
+      "notes.txt",
+      "todo.txt",
+      "screenshot.png",
+      "important.txt"
+    ],
+    "documents": [
+      "resume.docx",
+      "budget.xlsx",
+      "contacts.txt",
+      "passwords.docx"
+    ]
+  }
+}

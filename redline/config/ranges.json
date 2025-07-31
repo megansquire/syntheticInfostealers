@@ -1,0 +1,64 @@
+{
+  "autofill_entries": {
+    "min": 50,
+    "max": 100
+  },
+  "important_autofill_entries": {
+    "min": 10,
+    "max": 20
+  },
+  "cookie_count": {
+    "min": 45,
+    "max": 55
+  },
+  "cookie_expiry_days": {
+    "min": 30,
+    "max": 730
+  },
+  "password_entries": {
+    "min": 20,
+    "max": 50
+  },
+  "restore_cookies": {
+    "min": 3,
+    "max": 8
+  },
+  "oauth_tokens": {
+    "min": 1,
+    "max": 3
+  },
+  "svchost_count": {
+    "min": 20,
+    "max": 40
+  },
+  "archetype_software": {
+    "Gaming": {
+      "min": 5,
+      "max": 10
+    },
+    "Professional": {
+      "min": 4,
+      "max": 8
+    },
+    "Student": {
+      "min": 3,
+      "max": 6
+    },
+    "default": {
+      "min": 3,
+      "max": 6
+    }
+  },
+  "crypto_software": {
+    "min": 1,
+    "max": 4
+  },
+  "security_software": {
+    "min": 1,
+    "max": 3
+  },
+  "additional_wallets": {
+    "min": 1,
+    "max": 2
+  }
+}

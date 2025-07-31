@@ -1,0 +1,153 @@
+{
+  "site_specific": {
+    "google": {
+      "names": [
+        "SID",
+        "HSID",
+        "SSID",
+        "APISID",
+        "SAPISID",
+        "NID",
+        "OTZ"
+      ],
+      "value_type": "google_auth"
+    },
+    "facebook": {
+      "names": [
+        "c_user",
+        "xs",
+        "fr",
+        "datr",
+        "sb"
+      ],
+      "value_type": "fb_auth"
+    },
+    "amazon": {
+      "names": [
+        "session-id",
+        "session-id-time",
+        "ubid-main",
+        "x-main"
+      ],
+      "value_type": "session"
+    },
+    "microsoft": {
+      "names": [
+        "MSPAuth",
+        "MSPProf",
+        "MSPOK",
+        "PPLState"
+      ],
+      "value_type": "ms_auth"
+    }
+  },
+  "generic_names": [
+    "session_id",
+    "auth_token",
+    "user_token",
+    "PHPSESSID"
+  ],
+  "extension_names": [
+    "ext_session",
+    "extension_id",
+    "sync_token"
+  ],
+  "value_types": {
+    "generic": {
+      "charset": "alphanumeric",
+      "min_length": 16,
+      "max_length": 64,
+      "numeric": false
+    },
+    "google_auth": {
+      "charset": "google_auth",
+      "min_length": 50,
+      "max_length": 150,
+      "numeric": false
+    },
+    "fb_auth": {
+      "charset": "alphanumeric",
+      "min_length": 80,
+      "max_length": 200,
+      "numeric": false
+    },
+    "session": {
+      "charset": "session_id",
+      "min_length": 20,
+      "max_length": 50,
+      "numeric": false
+    },
+    "ms_auth": {
+      "charset": "base64url",
+      "min_length": 100,
+      "max_length": 300,
+      "numeric": false
+    }
+  },
+  "auth_sites": {
+    "accounts.google.com": {
+      "cookies": [
+        "SID",
+        "HSID",
+        "SSID"
+      ]
+    },
+    ".facebook.com": {
+      "cookies": [
+        "c_user",
+        "xs"
+      ]
+    },
+    ".amazon.com": {
+      "cookies": [
+        "session-id",
+        "ubid-main"
+      ]
+    },
+    ".microsoft.com": {
+      "cookies": [
+        "MSPAuth",
+        "MSPProf"
+      ]
+    }
+  },
+  "crypto_auth_sites": {
+    ".binance.com": {
+      "cookies": [
+        "p20t",
+        "bnc-uuid"
+      ]
+    },
+    ".coinbase.com": {
+      "cookies": [
+        "cb_session",
+        "__cf_bm"
+      ]
+    },
+    ".kraken.com": {
+      "cookies": [
+        "session",
+        "cf_clearance"
+      ]
+    }
+  },
+  "gaming_auth_sites": {
+    ".steampowered.com": {
+      "cookies": [
+        "steamLoginSecure",
+        "sessionid"
+      ]
+    },
+    ".epicgames.com": {
+      "cookies": [
+        "EPIC_SSO",
+        "EPIC_BEARER_TOKEN"
+      ]
+    },
+    ".roblox.com": {
+      "cookies": [
+        ".ROBLOSECURITY"
+      ]
+    }
+  }
+}

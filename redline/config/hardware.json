@@ -1,0 +1,164 @@
+{
+  "Personal_Laptop": {
+    "Low": {
+      "cpu": [
+        "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "AMD Ryzen 3 3200G"
+      ],
+      "gpu": [
+        "Intel(R) UHD Graphics 630",
+        "AMD Radeon Vega 8"
+      ],
+      "ram": [
+        "4096 MB",
+        "8192 MB"
+      ],
+      "resolution": [
+        "1366x768x32",
+        "1920x1080x32"
+      ]
+    },
+    "Medium": {
+      "cpu": [
+        "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "AMD Ryzen 5 5600X"
+      ],
+      "gpu": [
+        "NVIDIA GeForce GTX 1650",
+        "Intel(R) UHD Graphics 730"
+      ],
+      "ram": [
+        "8192 MB",
+        "16384 MB"
+      ],
+      "resolution": [
+        "1920x1080x32",
+        "2560x1440x32"
+      ]
+    },
+    "High": {
+      "cpu": [
+        "Intel(R) Core(TM) i7-13700K CPU @ 3.40GHz",
+        "AMD Ryzen 7 7700X"
+      ],
+      "gpu": [
+        "NVIDIA GeForce RTX 4070",
+        "NVIDIA GeForce RTX 3080"
+      ],
+      "ram": [
+        "32768 MB",
+        "65536 MB"
+      ],
+      "resolution": [
+        "2560x1440x32",
+        "3840x2160x32"
+      ]
+    }
+  },
+  "Gaming_Rig": {
+    "Low": {
+      "cpu": [
+        "Intel(R) Core(TM) i5-11400F CPU @ 2.60GHz",
+        "AMD Ryzen 5 5500"
+      ],
+      "gpu": [
+        "NVIDIA GeForce GTX 1660 Ti",
+        "AMD Radeon RX 6600"
+      ],
+      "ram": [
+        "16384 MB"
+      ],
+      "resolution": [
+        "1920x1080x32",
+        "2560x1440x32"
+      ]
+    },
+    "Medium": {
+      "cpu": [
+        "Intel(R) Core(TM) i7-12700K CPU @ 3.60GHz",
+        "AMD Ryzen 7 5800X"
+      ],
+      "gpu": [
+        "NVIDIA GeForce RTX 3070",
+        "NVIDIA GeForce RTX 4060 Ti"
+      ],
+      "ram": [
+        "32768 MB"
+      ],
+      "resolution": [
+        "2560x1440x32",
+        "3440x1440x32"
+      ]
+    },
+    "High": {
+      "cpu": [
+        "Intel(R) Core(TM) i9-13900K CPU @ 3.00GHz",
+        "AMD Ryzen 9 7950X"
+      ],
+      "gpu": [
+        "NVIDIA GeForce RTX 4090",
+        "NVIDIA GeForce RTX 4080"
+      ],
+      "ram": [
+        "65536 MB",
+        "131072 MB"
+      ],
+      "resolution": [
+        "3840x2160x32",
+        "5120x1440x32"
+      ]
+    }
+  },
+  "Office_Desktop": {
+    "Low": {
+      "cpu": [
+        "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "AMD Ryzen 3 4300G"
+      ],
+      "gpu": [
+        "Intel(R) UHD Graphics 630",
+        "AMD Radeon Graphics"
+      ],
+      "ram": [
+        "8192 MB"
+      ],
+      "resolution": [
+        "1920x1080x32"
+      ]
+    },
+    "Medium": {
+      "cpu": [
+        "Intel(R) Core(TM) i5-11500 CPU @ 2.70GHz",
+        "AMD Ryzen 5 5600G"
+      ],
+      "gpu": [
+        "Intel(R) UHD Graphics 750",
+        "NVIDIA GeForce GT 1030"
+      ],
+      "ram": [
+        "16384 MB"
+      ],
+      "resolution": [
+        "1920x1080x32",
+        "2560x1440x32"
+      ]
+    },
+    "High": {
+      "cpu": [
+        "Intel(R) Core(TM) i7-12700 CPU @ 2.10GHz",
+        "AMD Ryzen 7 5700G"
+      ],
+      "gpu": [
+        "NVIDIA Quadro T1000",
+        "Intel(R) UHD Graphics 770"
+      ],
+      "ram": [
+        "32768 MB"
+      ],
+      "resolution": [
+        "2560x1440x32",
+        "3840x2160x32"
+      ]
+    }
+  }
+}

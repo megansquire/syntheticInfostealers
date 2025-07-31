@@ -1,0 +1,10 @@
+{
+  "categories": {
+    "google.com": "Social",
+    "facebook.com": "Social",
+    "amazon.com": "Shop",
+    "paypal.com": "Finance",
+    "netflix.com": "Stream",
+    "steampowered.com": "Game"
+  }
+}

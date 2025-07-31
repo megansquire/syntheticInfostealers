@@ -1,0 +1,85 @@
+{
+  "browser_mapping": {
+    "Chrome": "Google_[Chrome]",
+    "Firefox": "Mozilla_[Firefox]",
+    "Edge": "Microsoft_[Edge]",
+    "Opera": "Opera_[Opera]",
+    "Brave": "Brave_[Brave]",
+    "None": null
+  },
+  "chrome_profile_numbers": [
+    1,
+    2,
+    4,
+    5,
+    7
+  ],
+  "windows_defaults": [
+    {
+      "name": "Microsoft Edge",
+      "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+      "versions": [
+        "126.0.2592.87",
+        "125.0.2535.92",
+        "124.0.2478.105"
+      ]
+    },
+    {
+      "name": "Internet Explorer",
+      "path": "C:\\Program Files\\Internet Explorer\\iexplore.exe",
+      "versions": [
+        "11.0.19041.4355"
+      ]
+    }
+  ],
+  "installable": {
+    "Chrome": {
+      "name": "Google Chrome",
+      "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+      "versions": [
+        "126.0.6478.127",
+        "125.0.6422.142",
+        "124.0.6367.208"
+      ]
+    },
+    "Firefox": {
+      "name": "Mozilla Firefox",
+      "path": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+      "versions": [
+        "127.0.2",
+        "126.0.1",
+        "125.0.3"
+      ]
+    },
+    "Opera": {
+      "name": "Opera",
+      "path": "C:\\Users\\{username}\\AppData\\Local\\Programs\\Opera\\opera.exe",
+      "versions": [
+        "110.0.5130.35",
+        "109.0.5097.68"
+      ]
+    },
+    "Brave": {
+      "name": "Brave Browser",
+      "path": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+      "versions": [
+        "1.67.119",
+        "1.66.118"
+      ]
+    }
+  },
+  "user_agents": {
+    "Google_[Chrome]": [
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+    ],
+    "Mozilla_[Firefox]": [
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0",
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0"
+    ],
+    "Microsoft_[Edge]": [
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+    ]
+  },
+  "default_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+}

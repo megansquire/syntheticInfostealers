@@ -1,0 +1,284 @@
+{
+  "ascii_headers": [
+    "***********************************************\n*                                             *\n*   ____  _____ ____  _     ___ _   _ _____   *\n*  |  _ \\| ____|  _ \\| |   |_ _| \\ | | ____|  *\n*  | |_) |  _| | | | | |    | ||  \\| |  _|    *\n*  |  _ <| |___| |_| | |___ | || |\\  | |___   *\n*  |_| \\_|_____|____/|_____|___|_| \\_|_____|  *\n*                                             *\n*  Telegram: https://t.me/redline_market_bot  *\n***********************************************",
+    "================================================\n=                REDLINE STEALER                =\n=          Telegram: @redline_support           =\n================================================",
+    "CLOUD LOGS - @REDLINECLOUD | SHOP - @LOGSREDLINE_BOT | SUPPORT - @EZREDLINE",
+    "CLOUD LOGS - @FATECLOUD | SHOP - @LOGSFATE_BOT | SUPPORT - @EZFATE",
+    "***********************************************\n*               _   _   _   _                 *\n*              / \\ / \\ / \\ / \\                *\n*             ( M | E | T | A )               *\n*              \\_\/ \\_\/ \\_\/ \\_\/                *\n*                                             *\n*    Telegram: https://t.me/metastealer_bot   *\n***********************************************"
+  ],
+  "build_ids": [
+    "@hitok4111",
+    "@hydroshot",
+    "@darknet2024",
+    "@cyberking",
+    "@premium_logs",
+    "premium logs by fate",
+    "@redline_official",
+    "@stealer_market",
+    "@cloud_logs_shop"
+  ],
+  "executable_names": [
+    "MSBuild.exe",
+    "RegAsm.exe",
+    "flesh.exe",
+    "vbc.exe",
+    "AppLaunch.exe",
+    "InstallUtil.exe",
+    "RegSvcs.exe",
+    "AddInProcess.exe",
+    "dfsvc.exe"
+  ],
+  "dotnet_executables": [
+    "MSBuild.exe",
+    "vbc.exe",
+    "InstallUtil.exe",
+    "RegAsm.exe",
+    "RegSvcs.exe"
+  ],
+  "field_probabilities": {
+    "uac": 0.3,
+    "process_elevation": 0.3
+  },
+  "uac_values": [
+    "AllowAll",
+    "RequireAdmin",
+    "Default",
+    "Disabled"
+  ],
+  "ram_suffixes": [
+    "Mb",
+    "MB"
+  ],
+  "zip_code_formats": {
+    "US": {
+      "type": "numeric",
+      "min": 10000,
+      "max": 99999
+    },
+    "CA": {
+      "type": "canadian"
+    },
+    "UK": {
+      "type": "uk"
+    },
+    "GB": {
+      "type": "uk"
+    },
+    "DE": {
+      "type": "numeric",
+      "min": 10000,
+      "max": 99999
+    },
+    "FR": {
+      "type": "numeric",
+      "min": 10000,
+      "max": 99999
+    },
+    "PT": {
+      "type": "portuguese"
+    },
+    "JP": {
+      "type": "japanese"
+    },
+    "AU": {
+      "type": "numeric",
+      "min": 1000,
+      "max": 9999
+    },
+    "IT": {
+      "type": "numeric",
+      "min": 10000,
+      "max": 99999
+    },
+    "ES": {
+      "type": "numeric",
+      "min": 10000,
+      "max": 52999
+    },
+    "NL": {
+      "type": "numeric",
+      "min": 1000,
+      "max": 9999
+    },
+    "BE": {
+      "type": "numeric",
+      "min": 1000,
+      "max": 9999
+    },
+    "IQ": "UNKNOWN",
+    "IN": {
+      "type": "numeric",
+      "min": 100000,
+      "max": 999999
+    }
+  },
+  "city_state_mapping": {
+    "US": {
+      "Denver": "Colorado",
+      "Portland": "Oregon",
+      "Seattle": "Washington",
+      "Austin": "Texas",
+      "Chicago": "Illinois",
+      "New York": "New York",
+      "Los Angeles": "California",
+      "San Francisco": "California",
+      "Miami": "Florida",
+      "Boston": "Massachusetts",
+      "Philadelphia": "Pennsylvania",
+      "Houston": "Texas",
+      "Phoenix": "Arizona",
+      "Atlanta": "Georgia"
+    },
+    "CA": {
+      "Toronto": "Ontario",
+      "Vancouver": "British Columbia",
+      "Montreal": "Quebec",
+      "Calgary": "Alberta",
+      "Ottawa": "Ontario"
+    },
+    "AU": {
+      "Sydney": "New South Wales",
+      "Melbourne": "Victoria",
+      "Brisbane": "Queensland",
+      "Perth": "Western Australia"
+    },
+    "PT": {
+      "Lisbon": "Lisboa",
+      "Porto": "Porto",
+      "Palmela": "Setubal"
+    },
+    "IQ": {
+      "Baghdad": "Baghdad",
+      "Basrah": "Al Basrah",
+      "Mosul": "Nineveh"
+    }
+  },
+  "country_languages": {
+    "US": "English (United States)",
+    "GB": "English (United Kingdom)",
+    "UK": "English (United Kingdom)",
+    "CA": "English (Canada)",
+    "AU": "English (Australia)",
+    "DE": "German (Germany)",
+    "FR": "French (France)",
+    "PT": "Portuguese (Portugal)",
+    "BR": "Portuguese (Brazil)",
+    "ES": "Spanish (Spain)",
+    "IT": "Italian (Italy)",
+    "NL": "Dutch (Netherlands)",
+    "RU": "Russian (Russia)",
+    "JP": "Japanese (Japan)",
+    "CN": "Chinese (Simplified, China)",
+    "KR": "Korean (Korea)",
+    "IQ": "English (United States)",
+    "IN": "English (India)"
+  },
+  "timezone_display_names": {
+    "PST": "(UTC-08:00) Pacific Time (US & Canada)",
+    "MST": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CST": "(UTC-06:00) Central Time (US & Canada)",
+    "EST": "(UTC-05:00) Eastern Time (US & Canada)",
+    "GMT": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London",
+    "CET": "(UTC+01:00) Amsterdam, Berlin, Rome, Vienna",
+    "EET": "(UTC+02:00) Athens, Bucharest",
+    "JST": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+    "IST": "(UTC+05:30) Chennai, Kolkata, Mumbai",
+    "UTC": "(UTC+00:00) Dublin, Edimburgo, Lisboa, Londres"
+  },
+  "keyboard_layouts": {
+    "US": [
+      "English (United States)"
+    ],
+    "GB": [
+      "English (United Kingdom)",
+      "English (United States)"
+    ],
+    "PT": [
+      "Portuguese (Portugal)",
+      "English (United States)",
+      "Japanese (Japan)"
+    ],
+    "IQ": [
+      "English (United States)",
+      "Arabic (Iraq)"
+    ],
+    "DE": [
+      "German (Germany)",
+      "English (United States)"
+    ],
+    "FR": [
+      "French (France)",
+      "English (United States)"
+    ],
+    "RU": [
+      "Russian (Russia)",
+      "English (United States)"
+    ],
+    "JP": [
+      "Japanese (Japan)",
+      "English (United States)"
+    ],
+    "CN": [
+      "Chinese (Simplified) - US Keyboard",
+      "English (United States)"
+    ]
+  },
+  "cpu_core_mapping": {
+    "i3": [
+      2,
+      4
+    ],
+    "i5": [
+      4,
+      6
+    ],
+    "i7": [
+      6,
+      8
+    ],
+    "i9": [
+      8,
+      12,
+      16
+    ],
+    "Ryzen 3": 4,
+    "Ryzen 5": 6,
+    "Ryzen 7": 8,
+    "Ryzen 9": [
+      12,
+      16
+    ]
+  },
+  "gpu_memory_bytes": {
+    "RTX 4090": 25769803776,
+    "RTX 4080": 17179869184,
+    "RTX 4070": 12884901888,
+    "RTX 3090": 25769803776,
+    "RTX 3080": 10737418240,
+    "RTX 3070": 8589934592,
+    "RTX 3060 Ti": 4293918720,
+    "RTX 3060": 12884901888,
+    "GTX 1660 SUPER": 4293918720,
+    "GTX 1660": 6442450944,
+    "GTX 1650": 4294967296,
+    "Intel HD": 1073741824,
+    "Intel UHD": 2147483648
+  },
+  "antivirus_firewall_names": {
+    "McAfee": "Firewall da McAfee",
+    "McAfee VirusScan": "Firewall da McAfee",
+    "Norton": "Norton Firewall",
+    "Norton 360": "Norton Smart Firewall",
+    "Bitdefender": "Bitdefender Firewall",
+    "Kaspersky": "Kaspersky Network Protection"
+  },
+  "additional_antivirus": [
+    "Malwarebytes",
+    "360 Total Security",
+    "Bitdefender",
+    "Kaspersky Security",
+    "AVG AntiVirus",
+    "Avast Free Antivirus",
+    "ESET NOD32"
+  ]
+}

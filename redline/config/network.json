@@ -1,0 +1,115 @@
+{
+  "country_ip_ranges": {
+    "US": {
+      "prefixes": [
+        "172.58",
+        "98.45",
+        "192.168",
+        "10.0",
+        "73.189",
+        "24.18"
+      ]
+    },
+    "CA": {
+      "prefixes": [
+        "142.59",
+        "207.81",
+        "174.91"
+      ]
+    },
+    "UK": {
+      "prefixes": [
+        "81.147",
+        "86.185",
+        "92.40"
+      ]
+    },
+    "GB": {
+      "prefixes": [
+        "81.147",
+        "86.185",
+        "92.40"
+      ]
+    },
+    "DE": {
+      "prefixes": [
+        "84.159",
+        "91.4",
+        "217.237"
+      ]
+    },
+    "FR": {
+      "prefixes": [
+        "90.85",
+        "82.64",
+        "212.27"
+      ]
+    },
+    "AU": {
+      "prefixes": [
+        "203.2",
+        "124.170",
+        "58.162"
+      ]
+    },
+    "JP": {
+      "prefixes": [
+        "126.126",
+        "153.142",
+        "118.103"
+      ]
+    },
+    "CN": {
+      "prefixes": [
+        "220.181",
+        "123.125",
+        "119.63"
+      ]
+    },
+    "RU": {
+      "prefixes": [
+        "95.108",
+        "217.69",
+        "178.248"
+      ]
+    },
+    "BR": {
+      "prefixes": [
+        "200.155",
+        "187.32",
+        "189.40"
+      ]
+    },
+    "IN": {
+      "prefixes": [
+        "117.239",
+        "182.72",
+        "103.25"
+      ]
+    }
+  },
+  "country_languages": {
+    "US": "en-US",
+    "CA": "en-CA",
+    "UK": "en-GB",
+    "GB": "en-GB",
+    "DE": "de-DE",
+    "FR": "fr-FR",
+    "AU": "en-AU",
+    "JP": "ja-JP",
+    "CN": "zh-CN",
+    "RU": "ru-RU",
+    "BR": "pt-BR",
+    "IN": "en-IN"
+  },
+  "windows_builds": {
+    "Windows 10": "Build 19045",
+    "Windows 11": "Build 22631",
+    "Windows 10 Pro": "Build 19045",
+    "Windows 11 Pro": "Build 22631",
+    "Windows 10 Home": "Build 19045",
+    "Windows 11 Home": "Build 22631",
+    "Windows 10 Enterprise": "Build 19045",
+    "default": "Build 19045"
+  }
+}
