@@ -1,0 +1,35 @@
+{
+  "generator_settings": {
+    "min_passwords": 8,
+    "max_passwords": 15,
+    "min_cookies": 5,
+    "max_cookies": 12,
+    "min_keychain_entries": 3,
+    "max_keychain_entries": 6,
+    "min_google_tokens": 1,
+    "max_google_tokens": 4,
+    "cookie_value_length": 120,
+    "token_suffix_length": 60,
+    "serial_number_length": 10,
+    "password_separator": "="
+  },
+  "file_structure": {
+    "user_info_filename": "UserInformation.txt",
+    "passwords_filename": "Passwords.txt",
+    "brute_filename": "Brute.txt",
+    "autofills_filename": "Autofills.txt",
+    "google_tokens_filename": "GoogleTokens.txt",
+    "keychain_filename": "keychain.txt",
+    "cookies_dir": "Cookies"
+  },
+  "stealer_info": {
+    "name": "ATOMIC MAC STEALER V2",
+    "version": "2.0"
+  },
+  "login_types": ["empty", "email", "username"],
+  "login_weights": [1, 2, 1],
+  "cookie_expiration": {
+    "min_days": 30,
+    "max_days": 365
+  }
+}

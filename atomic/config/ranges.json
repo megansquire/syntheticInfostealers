@@ -1,0 +1,19 @@
+{
+  "hardware_uuid": [
+    {"min": 10000000, "max": 99999999, "format": 8},
+    {"min": 1000, "max": 9999, "format": 4},
+    {"min": 1000, "max": 9999, "format": 4},
+    {"min": 1000, "max": 9999, "format": 4},
+    {"min": 100000000000, "max": 999999999999, "format": 12}
+  ],
+  "phone_number": {
+    "area_code": {"min": 200, "max": 999},
+    "prefix": {"min": 200, "max": 999},
+    "suffix": {"min": 1000, "max": 9999}
+  },
+  "street_number": {"min": 100, "max": 9999},
+  "keychain_dates": {
+    "create": {"min": 30, "max": 800},
+    "modify": {"min": 0, "max": 30}
+  }
+}

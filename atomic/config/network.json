@@ -1,0 +1,49 @@
+{
+  "country_ip_ranges": {
+    "US": "47.160.126",
+    "CA": "142.112.45",
+    "GB": "81.2.69",
+    "DE": "46.114.137",
+    "FR": "151.127.8",
+    "JP": "203.104.209",
+    "KR": "175.126.82",
+    "AU": "121.200.9",
+    "NZ": "103.197.98",
+    "BR": "177.126.168",
+    "default": "192.168.1"
+  },
+  "macos_versions": {
+    "macOS_Ventura": {
+      "product": "macOS",
+      "version": "13.6",
+      "build": "22G320"
+    },
+    "macOS_Monterey": {
+      "product": "macOS",
+      "version": "12.7",
+      "build": "21H914"
+    },
+    "macOS_Sonoma": {
+      "product": "macOS",
+      "version": "14.6",
+      "build": "23G5075b"
+    },
+    "default": {
+      "product": "macOS",
+      "version": "14.6",
+      "build": "23G5075b"
+    }
+  },
+  "autofill_street_names": [
+    "Oak St",
+    "Main Ave",
+    "Park Blvd",
+    "First St",
+    "Maple Dr",
+    "Elm Street",
+    "Washington Ave",
+    "Lincoln Road",
+    "Cedar Lane",
+    "Pine Street"
+  ]
+}

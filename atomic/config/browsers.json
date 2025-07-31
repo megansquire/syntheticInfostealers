@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "Chrome": {
+      "primary": "Chrome_Profile1",
+      "secondary": "Chrome_Profile2"
+    },
+    "Firefox": {
+      "primary": "Firefox_Profile1",
+      "secondary": "Firefox_Profile2"
+    },
+    "Safari": {
+      "primary": "Safari_Profile1",
+      "secondary": "Safari_Profile2"
+    }
+  }
+}

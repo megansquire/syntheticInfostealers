@@ -1,0 +1,77 @@
+{
+  "services": [
+    {
+      "print_name": "Brave Safe Storage",
+      "account": "Brave",
+      "service": "Brave Safe Storage",
+      "password_type": "base64"
+    },
+    {
+      "print_name": "MetadataKeychain",
+      "account": "",
+      "service": "MetadataKeychain",
+      "password_type": "complex"
+    },
+    {
+      "print_name": "Chrome Safe Storage",
+      "account": "Chrome",
+      "service": "Chrome Safe Storage",
+      "password_type": "base64"
+    },
+    {
+      "print_name": "WiFi Network Password",
+      "account": "HomeWiFi",
+      "service": "AirPort network password",
+      "password_type": "simple"
+    },
+    {
+      "print_name": "iCloud Keychain",
+      "account": "{email_prefix}",
+      "service": "iCloud",
+      "password_type": "complex"
+    },
+    {
+      "print_name": "VPN Connection",
+      "account": "vpn_user",
+      "service": "IPSec",
+      "password_type": "simple"
+    },
+    {
+      "print_name": "Airplay Server Identity",
+      "account": "network",
+      "service": "",
+      "password_type": "simple"
+    },
+    {
+      "print_name": "Slack Safe Storage",
+      "account": "Slack Key",
+      "service": "Slack Safe Storage",
+      "password_type": "complex"
+    },
+    {
+      "print_name": "Zoom Safe Meeting Storage",
+      "account": "Zoom",
+      "service": "Zoom Storage",
+      "password_type": "complex"
+    }
+  ],
+  "password_types": {
+    "base64": {
+      "source": "charset",
+      "charset": "base64",
+      "min_length": 16,
+      "max_length": 24
+    },
+    "complex": {
+      "source": "charset",
+      "charset": "complex",
+      "min_length": 18,
+      "max_length": 25
+    },
+    "simple": {
+      "source": "persona",
+      "min_length": 8,
+      "max_length": 16
+    }
+  }
+}

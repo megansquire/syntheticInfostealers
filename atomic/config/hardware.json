@@ -1,0 +1,56 @@
+{
+  "Gaming_Rig": {
+    "High": {
+      "model": "MacBook Pro",
+      "identifier": ["Mac15,6", "Mac15,9", "Mac15,11"],
+      "chip": ["Apple M3 Pro", "Apple M3 Max"],
+      "cores": ["11 (5 performance and 6 efficiency)", "14 (10 performance and 4 efficiency)"],
+      "memory": ["18 GB", "32 GB", "36 GB"],
+      "display": "3024 x 1964 Retina"
+    },
+    "Medium": {
+      "model": "MacBook Pro",
+      "identifier": ["Mac15,3", "Mac15,6"],
+      "chip": ["Apple M3", "Apple M3 Pro"],
+      "cores": ["8 (4 performance and 4 efficiency)", "11 (5 performance and 6 efficiency)"],
+      "memory": ["16 GB", "18 GB"],
+      "display": "2560 x 1664 Retina"
+    }
+  },
+  "Personal_Laptop": {
+    "High": {
+      "model": "MacBook Air",
+      "identifier": ["Mac15,12", "Mac15,13"],
+      "chip": ["Apple M3"],
+      "cores": ["8 (4 performance and 4 efficiency)"],
+      "memory": ["16 GB", "24 GB"],
+      "display": "2560 x 1664 Retina"
+    },
+    "Medium": {
+      "model": "MacBook Air",
+      "identifier": ["Mac14,2", "Mac15,12"],
+      "chip": ["Apple M2", "Apple M3"],
+      "cores": ["8 (4 performance and 4 efficiency)"],
+      "memory": ["8 GB", "16 GB"],
+      "display": "2560 x 1664 Retina"
+    },
+    "Low": {
+      "model": "MacBook Air",
+      "identifier": ["Mac14,2"],
+      "chip": ["Apple M2"],
+      "cores": ["8 (4 performance and 4 efficiency)"],
+      "memory": ["8 GB"],
+      "display": "2224 x 1668 Retina"
+    }
+  },
+  "Business_Laptop": {
+    "High": {
+      "model": "MacBook Pro",
+      "identifier": ["Mac15,6", "Mac15,9"],
+      "chip": ["Apple M3 Pro", "Apple M3 Max"],
+      "cores": ["11 (5 performance and 6 efficiency)", "14 (10 performance and 4 efficiency)"],
+      "memory": ["18 GB", "32 GB"],
+      "display": "3024 x 1964 Retina"
+    }
+  }
+}

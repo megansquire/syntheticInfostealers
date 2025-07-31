@@ -1,0 +1,76 @@
+{
+  "persona_websites": {
+    "Remote_Worker": [
+      "https://slack.workshop",
+      "https://zoom.sim",
+      "https://github.fake",
+      "https://stackoverflow.demo",
+      "https://linkedin.workshop",
+      "https://workday.example"
+    ],
+    "Tech_Worker": [
+      "https://github.fake",
+      "https://stackoverflow.demo",
+      "https://docker.sim",
+      "https://aws.workshop",
+      "https://kubernetes.fake",
+      "https://copilot.example"
+    ],
+    "Freelancer": [
+      "https://upwork.demo",
+      "https://fiverr.sim",
+      "https://paypal.workshop",
+      "https://stripe.fake",
+      "https://invoiceninja.demo"
+    ],
+    "Gaming_Enthusiast": [
+      "https://steam.workshop",
+      "https://discord.sim",
+      "https://twitch.fake",
+      "https://reddit.demo",
+      "https://youtube.workshop"
+    ],
+    "Student": [
+      "https://gmail.workshop",
+      "https://youtube.sim",
+      "https://discord.fake",
+      "https://spotify.demo",
+      "https://netflix.workshop",
+      "https://instagram.fake",
+      "https://tiktok.sample",
+      "https://chatgpt.example"
+    ]
+  },
+  "common_websites": [
+    "https://gmail.workshop",
+    "https://youtube.sim",
+    "https://netflix.fake",
+    "https://amazon.demo",
+    "https://facebook.workshop",
+    "https://instagram.sim",
+    "https://twitter.fake",
+    "https://spotify.demo"
+  ],
+  "cookie_domains": [
+    ".youtube.sim",
+    ".gmail.workshop",
+    ".netflix.fake",
+    ".amazon.demo",
+    ".facebook.workshop",
+    ".instagram.sim",
+    ".twitter.fake",
+    ".spotify.demo",
+    ".reddit.demo",
+    ".discord.sim"
+  ],
+  "cookie_names": [
+    "LOGIN_INFO",
+    "SESSION_TOKEN",
+    "AUTH_KEY",
+    "USER_PREF",
+    "HSID",
+    "SSID",
+    "APISID",
+    "SAPISID"
+  ]
+}
