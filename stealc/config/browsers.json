@@ -1,0 +1,246 @@
+{
+  "versions": {
+    "Chrome": [
+      "126.0.6478.127",
+      "127.0.6533.89",
+      "128.0.6613.84"
+    ],
+    "Edge": [
+      "126.0.2592.102",
+      "127.0.2651.74",
+      "128.0.2739.42"
+    ],
+    "Firefox": [
+      "128.0",
+      "129.0",
+      "130.0"
+    ],
+    "Brave": [
+      "1.68.137",
+      "1.69.153",
+      "1.70.117"
+    ],
+    "Opera": [
+      "112.0.5197.53",
+      "113.0.5230.47",
+      "114.0.5282.66"
+    ]
+  },
+  "full_names": {
+    "Chrome": "Google Chrome",
+    "Edge": "Microsoft Edge",
+    "Firefox": "Mozilla Firefox",
+    "Brave": "Brave Browser",
+    "Opera": "Opera Browser"
+  },
+  "firefox_profile_suffixes": [
+    "default-release",
+    "default",
+    "default-esr"
+  ],
+  "url_patterns": {
+    "youtube.com": [
+      "https://www.youtube.com/watch?v={video_id}",
+      "https://www.youtube.com/watch?v={video_id}&list={list_id}",
+      "https://www.youtube.com/",
+      "https://www.youtube.com/feed/subscriptions"
+    ],
+    "twitter.com": [
+      "https://twitter.com/{username}",
+      "https://twitter.com/home",
+      "https://twitter.com/explore"
+    ],
+    "google.com": [
+      "https://www.google.com/search?q={search_query}",
+      "https://www.google.com/"
+    ],
+    "reddit.com": [
+      "https://www.reddit.com/r/{subreddit}/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/popular/"
+    ]
+  },
+  "common_paths": [
+    "login",
+    "account",
+    "profile",
+    "settings",
+    "dashboard",
+    "signin",
+    "register"
+  ],
+  "social_usernames": [
+    "elonmusk",
+    "dailyangel",
+    "techcrunch",
+    "verge",
+    "wired",
+    "bbcnews",
+    "cnn",
+    "nytimes",
+    "wsj",
+    "forbes"
+  ],
+  "subreddits": [
+    "programming",
+    "gaming",
+    "news",
+    "funny",
+    "AskReddit",
+    "todayilearned",
+    "science",
+    "worldnews",
+    "videos",
+    "pics"
+  ],
+  "site_specific_cookies": {
+    "google": {
+      "names": [
+        "NID",
+        "SID",
+        "HSID",
+        "SSID",
+        "APISID",
+        "SAPISID",
+        "1P_JAR",
+        "OTZ",
+        "CONSENT"
+      ],
+      "value_type": "special",
+      "patterns": [
+        "PENDING+{number}"
+      ]
+    },
+    "facebook": {
+      "names": [
+        "c_user",
+        "xs",
+        "datr",
+        "fr",
+        "sb"
+      ],
+      "value_type": "numeric",
+      "range": {
+        "min": 100000000,
+        "max": 999999999
+      }
+    },
+    "amazon": {
+      "names": [
+        "session-id",
+        "session-token",
+        "ubid-main",
+        "x-main"
+      ],
+      "value_type": "default"
+    }
+  },
+  "default_cookie_names": [
+    "session_id",
+    "auth_token",
+    "user_id",
+    "csrf_token",
+    "preferences",
+    "remember_me",
+    "tracking_id",
+    "visitor_id",
+    "analytics_token"
+  ],
+  "cookie_value_types": [
+    "alphanumeric",
+    "alphanumeric_special",
+    "md5",
+    "base64"
+  ],
+  "search_queries": {
+    "base": [
+      "weather",
+      "news today",
+      "youtube",
+      "facebook login",
+      "gmail",
+      "amazon prime",
+      "netflix shows",
+      "google maps",
+      "translate",
+      "calculator",
+      "timer",
+      "covid symptoms"
+    ],
+    "Gaming_Enthusiast": [
+      "steam sale",
+      "best gaming pc 2024",
+      "rtx 4080 vs 4070",
+      "elden ring guide",
+      "discord download",
+      "twitch",
+      "gaming chair",
+      "fps counter",
+      "game deals",
+      "ps5 restock",
+      "xbox game pass",
+      "gaming headset"
+    ],
+    "Digital_Nomad_Student": [
+      "essay help",
+      "citation generator",
+      "student discount",
+      "study tips",
+      "online courses",
+      "textbook pdf",
+      "homework help",
+      "scholarship search",
+      "college rankings",
+      "gpa calculator",
+      "research papers",
+      "academic calendar"
+    ],
+    "Remote_Worker": [
+      "zoom background",
+      "home office ideas",
+      "standing desk",
+      "productivity apps",
+      "time tracking",
+      "vpn service",
+      "slack tips",
+      "remote work jobs",
+      "team collaboration",
+      "video conferencing",
+      "project management",
+      "ergonomic chair"
+    ],
+    "Small_Business_Owner": [
+      "small business grants",
+      "quickbooks tutorial",
+      "tax deductions",
+      "business insurance",
+      "wholesale suppliers",
+      "marketing strategies",
+      "employee management",
+      "inventory software",
+      "merchant services"
+    ],
+    "Corporate_Executive": [
+      "market analysis",
+      "competitor intelligence",
+      "leadership training",
+      "executive coaching",
+      "board meeting agenda",
+      "quarterly earnings",
+      "merger acquisition",
+      "corporate strategy",
+      "investor relations"
+    ],
+    "crypto": [
+      "bitcoin price",
+      "eth gas fees",
+      "crypto news",
+      "best crypto wallet",
+      "nft marketplace",
+      "defi yield",
+      "binance login",
+      "coinbase pro",
+      "metamask extension"
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "system": [
+    "System",
+    "Registry",
+    "smss.exe",
+    "csrss.exe",
+    "wininit.exe",
+    "csrss.exe",
+    "winlogon.exe",
+    "services.exe",
+    "lsass.exe",
+    "fontdrvhost.exe",
+    "fontdrvhost.exe",
+    "dwm.exe",
+    "Memory Compression",
+    "spoolsv.exe",
+    "sihost.exe",
+    "taskhostw.exe",
+    "explorer.exe",
+    "ctfmon.exe",
+    "SearchHost.exe",
+    "StartMenuExperienceHost.exe",
+    "RuntimeBroker.exe",
+    "RuntimeBroker.exe",
+    "SearchIndexer.exe",
+    "TextInputHost.exe",
+    "SecurityHealthSystray.exe",
+    "SecurityHealthService.exe",
+    "audiodg.exe"
+  ],
+  "browsers": {
+    "Chrome": {
+      "min": 8,
+      "max": 15
+    },
+    "Edge": {
+      "min": 5,
+      "max": 10
+    },
+    "EdgeWebView": {
+      "min": 3,
+      "max": 6
+    }
+  },
+  "archetype": {
+    "Gaming_Enthusiast": [
+      "Steam.exe",
+      "Discord.exe",
+      "steamwebhelper.exe",
+      "GameOverlayUI.exe"
+    ],
+    "Remote_Worker": [
+      "OneDrive.exe",
+      "OUTLOOK.EXE",
+      "Teams.exe",
+      "Zoom.exe"
+    ],
+    "Corporate_Executive": [
+      "OneDrive.exe",
+      "OUTLOOK.EXE",
+      "Teams.exe",
+      "CiscoWebexStart.exe"
+    ],
+    "Digital_Nomad_Student": [
+      "Notion.exe",
+      "chrome.exe",
+      "Code.exe"
+    ],
+    "Small_Business_Owner": [
+      "qbw.exe",
+      "OUTLOOK.EXE",
+      "chrome.exe"
+    ]
+  },
+  "social_media": [
+    "WhatsApp.exe",
+    "Telegram.exe",
+    "Skype.exe",
+    "Signal.exe"
+  ]
+}

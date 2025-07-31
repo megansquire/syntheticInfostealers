@@ -1,0 +1,31 @@
+{
+  "campaigns": [
+    "FATE",
+    "CLOUD",
+    "SHADOW",
+    "VIPER",
+    "STORM",
+    "PHOENIX",
+    "DRAGON",
+    "WOLF",
+    "GHOST",
+    "REAPER"
+  ],
+  "channels": [
+    "@FATETRAFFIC",
+    "@CLOUDINFO",
+    "@SHADOWLOGS",
+    "@VIPERSTEALER",
+    "@STORMSTEALER"
+  ],
+  "shops": [
+    "@FATEPRODUCT_BOT",
+    "@CLOUDSHOP_BOT",
+    "@SHADOWMARKET_BOT"
+  ],
+  "supports": [
+    "@GGFATE",
+    "@CLOUDSUPPORT",
+    "@SHADOWHELP"
+  ]
+}

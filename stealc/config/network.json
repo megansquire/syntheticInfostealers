@@ -1,0 +1,72 @@
+{
+  "country_ip_generators": {
+    "US": "random.choice([47, 72, 98]).random.randint(0,255).random.randint(0,255).random.randint(1,254)",
+    "GB": "81.random.randint(128,191).random.randint(0,255).random.randint(1,254)",
+    "DE": "84.random.randint(128,191).random.randint(0,255).random.randint(1,254)",
+    "FR": "82.random.randint(64,127).random.randint(0,255).random.randint(1,254)",
+    "JP": "126.random.randint(0,255).random.randint(0,255).random.randint(1,254)",
+    "BR": "200.random.randint(128,255).random.randint(0,255).random.randint(1,254)",
+    "IN": "117.random.randint(192,255).random.randint(0,255).random.randint(1,254)",
+    "RU": "94.random.randint(25,29).random.randint(0,255).random.randint(1,254)",
+    "PK": "103.random.randint(0,255).random.randint(0,255).random.randint(1,254)"
+  },
+  "timezone_offsets": {
+    "Eastern": "-5",
+    "Central": "-6",
+    "Mountain": "-7",
+    "Pacific": "-8",
+    "UTC": "0",
+    "GMT": "0",
+    "Berlin": "1",
+    "Paris": "1",
+    "London": "0",
+    "Tokyo": "9",
+    "Sydney": "10",
+    "Moscow": "3"
+  },
+  "country_language_codes": {
+    "US": "en-US",
+    "GB": "en-GB",
+    "DE": "de-DE",
+    "FR": "fr-FR",
+    "JP": "ja-JP",
+    "BR": "pt-BR",
+    "IN": "en-IN",
+    "RU": "ru-RU",
+    "PK": "en-US"
+  },
+  "country_language_names": {
+    "US": "English (United States)",
+    "GB": "English (United Kingdom)",
+    "DE": "German (Germany)",
+    "FR": "French (France)",
+    "JP": "Japanese (Japan)",
+    "BR": "Portuguese (Brazil)",
+    "IN": "English (India)",
+    "RU": "Russian (Russia)",
+    "PK": "English (United States)"
+  },
+  "phone_formats": {
+    "US": "({200-999}) {200-999}-{1000-9999}",
+    "GB": "07{700-999} {100000-999999}",
+    "DE": "+49 {1700-1799} {1000000-9999999}",
+    "FR": "+33 {600-799} {100000-999999}",
+    "JP": "+81 {70-90} {1000-9999} {1000-9999}"
+  },
+  "street_names": [
+    "Main St",
+    "Oak Ave",
+    "Elm St",
+    "Park Rd",
+    "First Ave",
+    "Second St",
+    "Maple Dr",
+    "Cedar Blvd",
+    "Pine St",
+    "Washington St",
+    "Lincoln Ave",
+    "Jefferson Rd",
+    "Madison St",
+    "Franklin Blvd"
+  ]
+}

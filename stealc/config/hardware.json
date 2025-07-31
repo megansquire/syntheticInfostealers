@@ -1,0 +1,340 @@
+{
+  "Gaming_Rig": {
+    "High": {
+      "cpu": [
+        "Intel Core i9-13900K @ 3.00GHz",
+        "AMD Ryzen 9 7950X 16-Core Processor",
+        "Intel Core i9-14900K @ 3.20GHz"
+      ],
+      "gpu": [
+        "NVIDIA GeForce RTX 4090",
+        "NVIDIA GeForce RTX 4080",
+        "AMD Radeon RX 7900 XTX"
+      ],
+      "ram_mb": [
+        32768,
+        65536
+      ],
+      "resolution": [
+        "2560x1440",
+        "3840x2160"
+      ],
+      "cores": [
+        16,
+        24
+      ],
+      "threads": [
+        32,
+        48
+      ]
+    },
+    "Medium": {
+      "cpu": [
+        "Intel Core i7-13700K @ 3.40GHz",
+        "AMD Ryzen 7 7700X 8-Core Processor",
+        "Intel Core i5-13600K @ 3.50GHz"
+      ],
+      "gpu": [
+        "NVIDIA GeForce RTX 4070 Ti",
+        "NVIDIA GeForce RTX 4070",
+        "AMD Radeon RX 7800 XT"
+      ],
+      "ram_mb": [
+        16384,
+        32768
+      ],
+      "resolution": [
+        "1920x1080",
+        "2560x1440"
+      ],
+      "cores": [
+        8,
+        12
+      ],
+      "threads": [
+        16,
+        24
+      ]
+    },
+    "Low": {
+      "cpu": [
+        "Intel Core i5-12400F @ 2.50GHz",
+        "AMD Ryzen 5 5600X 6-Core Processor"
+      ],
+      "gpu": [
+        "NVIDIA GeForce RTX 3060",
+        "NVIDIA GeForce GTX 1660 Ti"
+      ],
+      "ram_mb": [
+        16384
+      ],
+      "resolution": [
+        "1920x1080"
+      ],
+      "cores": [
+        6
+      ],
+      "threads": [
+        12
+      ]
+    }
+  },
+  "Business_Laptop": {
+    "High": {
+      "cpu": [
+        "Intel Core i7-1265U @ 1.80GHz",
+        "Intel Core i7-1360P @ 2.20GHz",
+        "AMD Ryzen 7 PRO 6850U with Radeon Graphics"
+      ],
+      "gpu": [
+        "Intel Iris Xe Graphics",
+        "NVIDIA GeForce MX550",
+        "AMD Radeon Graphics"
+      ],
+      "ram_mb": [
+        16384,
+        32768
+      ],
+      "resolution": [
+        "1920x1080",
+        "2560x1440"
+      ],
+      "cores": [
+        8,
+        10
+      ],
+      "threads": [
+        12,
+        16
+      ]
+    },
+    "Medium": {
+      "cpu": [
+        "Intel Core i5-1235U @ 1.30GHz",
+        "Intel Core i5-1335U @ 1.30GHz",
+        "AMD Ryzen 5 PRO 6650U with Radeon Graphics"
+      ],
+      "gpu": [
+        "Intel(R) UHD Graphics",
+        "Intel Iris Xe Graphics"
+      ],
+      "ram_mb": [
+        8192,
+        16384
+      ],
+      "resolution": [
+        "1920x1080"
+      ],
+      "cores": [
+        6,
+        8
+      ],
+      "threads": [
+        8,
+        12
+      ]
+    },
+    "Low": {
+      "cpu": [
+        "Intel Core i3-1215U @ 1.20GHz",
+        "AMD Ryzen 3 5425U with Radeon Graphics"
+      ],
+      "gpu": [
+        "Intel(R) UHD Graphics"
+      ],
+      "ram_mb": [
+        8192
+      ],
+      "resolution": [
+        "1366x768",
+        "1920x1080"
+      ],
+      "cores": [
+        4
+      ],
+      "threads": [
+        6
+      ]
+    }
+  },
+  "Personal_Laptop": {
+    "High": {
+      "cpu": [
+        "Intel Core i7-1255U @ 1.70GHz",
+        "AMD Ryzen 7 5800U with Radeon Graphics"
+      ],
+      "gpu": [
+        "Intel Iris Xe Graphics",
+        "AMD Radeon Graphics"
+      ],
+      "ram_mb": [
+        16384
+      ],
+      "resolution": [
+        "1920x1080"
+      ],
+      "cores": [
+        8
+      ],
+      "threads": [
+        10
+      ]
+    },
+    "Medium": {
+      "cpu": [
+        "Intel Core i5-1135G7 @ 2.40GHz",
+        "AMD Ryzen 5 5500U with Radeon Graphics"
+      ],
+      "gpu": [
+        "Intel(R) UHD Graphics",
+        "AMD Radeon Graphics"
+      ],
+      "ram_mb": [
+        8192,
+        16384
+      ],
+      "resolution": [
+        "1920x1080"
+      ],
+      "cores": [
+        4
+      ],
+      "threads": [
+        8
+      ]
+    },
+    "Low": {
+      "cpu": [
+        "Intel Core i3-1115G4 @ 3.00GHz",
+        "AMD Ryzen 3 5300U with Radeon Graphics"
+      ],
+      "gpu": [
+        "Intel(R) UHD Graphics"
+      ],
+      "ram_mb": [
+        8192
+      ],
+      "resolution": [
+        "1366x768"
+      ],
+      "cores": [
+        2
+      ],
+      "threads": [
+        4
+      ]
+    }
+  },
+  "Personal_Desktop": {
+    "High": {
+      "cpu": [
+        "Intel Core i7-12700 @ 2.10GHz",
+        "AMD Ryzen 7 5700X 8-Core Processor"
+      ],
+      "gpu": [
+        "NVIDIA GeForce RTX 3070",
+        "AMD Radeon RX 6700 XT"
+      ],
+      "ram_mb": [
+        16384,
+        32768
+      ],
+      "resolution": [
+        "1920x1080",
+        "2560x1440"
+      ],
+      "cores": [
+        8
+      ],
+      "threads": [
+        16
+      ]
+    },
+    "Medium": {
+      "cpu": [
+        "Intel Core i5-10400 @ 2.90GHz",
+        "AMD Ryzen 5 5600X 6-Core Processor"
+      ],
+      "gpu": [
+        "NVIDIA GeForce GTX 1650",
+        "AMD Radeon RX 6600"
+      ],
+      "ram_mb": [
+        8192,
+        16384
+      ],
+      "resolution": [
+        "1920x1080"
+      ],
+      "cores": [
+        6
+      ],
+      "threads": [
+        12
+      ]
+    },
+    "Low": {
+      "cpu": [
+        "Intel Core i3-10100 @ 3.60GHz",
+        "AMD Ryzen 3 3200G with Radeon Vega Graphics"
+      ],
+      "gpu": [
+        "Intel(R) UHD Graphics 630",
+        "AMD Radeon Vega 8 Graphics"
+      ],
+      "ram_mb": [
+        8192
+      ],
+      "resolution": [
+        "1920x1080"
+      ],
+      "cores": [
+        4
+      ],
+      "threads": [
+        8
+      ]
+    }
+  },
+  "computer_name_prefixes": {
+    "Business_Laptop": [
+      "CORP",
+      "WORK",
+      "OFFICE",
+      "LAPTOP"
+    ],
+    "Personal_Laptop": [
+      "HP-PAVILION",
+      "DELL-INSPIRON",
+      "LENOVO-THINK",
+      "ASUS-LAPTOP"
+    ],
+    "Gaming_Rig": [
+      "GAMING-PC",
+      "BATTLESTATION",
+      "PREDATOR",
+      "ROG-STRIX"
+    ],
+    "Personal_Desktop": [
+      "DESKTOP",
+      "HOME-PC",
+      "WORKSTATION",
+      "PC"
+    ]
+  },
+  "computer_name_suffixes": [
+    "-{number}",
+    "-A{number}",
+    "-B{number}",
+    ""
+  ],
+  "integrated_gpus": [
+    "Intel(R) UHD Graphics 770",
+    "Intel(R) HD Graphics Family",
+    "Intel(R) UHD Graphics"
+  ],
+  "laptop_device_types": [
+    "Personal_Laptop",
+    "Business_Laptop"
+  ]
+}

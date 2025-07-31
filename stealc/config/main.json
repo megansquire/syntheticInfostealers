@@ -1,0 +1,35 @@
+{
+  "output_directory": "stealc_logs",
+  "stealc_campaigns": [
+    "FATE",
+    "CLOUD",
+    "SHADOW",
+    "VIPER",
+    "STORM",
+    "PHOENIX",
+    "DRAGON",
+    "WOLF",
+    "GHOST",
+    "REAPER"
+  ],
+  "execution_paths": [
+    "C:\\Windows\\SysWOW64\\explorer.exe",
+    "C:\\Users\\{username}\\AppData\\Local\\Temp\\Setup.exe",
+    "C:\\Users\\{username}\\Downloads\\Installer.exe",
+    "C:\\Temp\\RarSFX0\\Setup.exe"
+  ],
+  "credit_card_prefixes": {
+    "visa": "4",
+    "mastercard": "5",
+    "amex": "37",
+    "discover": "6011"
+  },
+  "generator_settings": {
+    "hwid_length": 21,
+    "firefox_profile_prefix_length": 8,
+    "google_token_length": 100,
+    "discord_hmac_length": 27,
+    "steam_ssfn_id_length": 15,
+    "steam_signature_length": 86
+  }
+}

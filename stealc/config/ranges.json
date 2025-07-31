@@ -1,0 +1,74 @@
+{
+  "marketing_filename_length": {
+    "min": 5,
+    "max": 12
+  },
+  "laptop_gpu_repeats": {
+    "min": 1,
+    "max": 3
+  },
+  "installed_apps_all_users": {
+    "min": 20,
+    "max": 40
+  },
+  "svchost_count": {
+    "min": 30,
+    "max": 50
+  },
+  "chrome_profiles": {
+    "min": 1,
+    "max": 5
+  },
+  "autofill_entries": {
+    "min": 30,
+    "max": 80
+  },
+  "cookie_count": {
+    "min": 50,
+    "max": 100
+  },
+  "cookie_expiry_days": {
+    "min": 30,
+    "max": 730
+  },
+  "history_entries": {
+    "min": 50,
+    "max": 150
+  },
+  "password_entries": {
+    "min": 20,
+    "max": 50
+  },
+  "street_number": {
+    "min": 100,
+    "max": 9999
+  },
+  "discord_tokens": {
+    "min": 1,
+    "max": 2
+  },
+  "google_tokens": {
+    "min": 1,
+    "max": 3
+  },
+  "google_token_length": {
+    "min": 80,
+    "max": 120
+  },
+  "steam_id": {
+    "min": 76561190000000000,
+    "max": 76561199999999999
+  },
+  "steam_ssfn_count": {
+    "min": 1,
+    "max": 2
+  },
+  "steam_ssfn_size": {
+    "min": 100,
+    "max": 200
+  },
+  "wallet_log_number": {
+    "min": 100000,
+    "max": 999999
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "windows_base": [
+    "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.30.30423 - 14.30.30423",
+    "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.21005 - 12.0.21005.1",
+    "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.30.30423 - 14.30.30423",
+    "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.30.30423 - 14.30.30423.0",
+    "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.30.30423 - 14.30.30423.0",
+    "Microsoft .NET Framework 4.8 - 4.8.09037",
+    "Microsoft .NET Framework 4.7.2 - 4.7.03190"
+  ],
+  "browsers": {
+    "Chrome": "Google Chrome - 128.0.6613.84",
+    "Edge": "Microsoft Edge - 128.0.2739.42",
+    "Firefox": "Mozilla Firefox - 130.0",
+    "Brave": "Brave Browser - 1.70.117",
+    "Opera": "Opera Browser - 114.0.5282.66"
+  },
+  "device_type": {
+    "Personal_Laptop": [
+      "Realtek Ethernet Controller Driver - 10.42.526.2020",
+      "Realtek PC Camera - 6.2.9200.10264",
+      "Intel(R) Processor Graphics - 20.19.15.4835",
+      "Battery Limiter - 1.0.7",
+      "Synaptics Pointing Device Driver - 19.5.10.75"
+    ],
+    "Business_Laptop": [
+      "Realtek Ethernet Controller Driver - 10.49.823.2021",
+      "Intel(R) Management Engine Components - 2021.14.0.1748",
+      "Dell Command | Update - 4.5.0",
+      "HP Support Assistant - 9.12.205.0"
+    ],
+    "Gaming_Rig": [
+      "NVIDIA GeForce Experience - 3.28.0.417",
+      "Razer Synapse 3 - 1.0.158.0",
+      "Corsair iCUE 4 - 4.33.138",
+      "MSI Afterburner - 4.6.5"
+    ]
+  },
+  "archetype": {
+    "Remote_Worker": [
+      "Microsoft Office Professional Plus 2010 - 14.0.4763.1000",
+      "Microsoft Office Access MUI (English) 2010 - 14.0.4763.1000",
+      "Microsoft Office Excel MUI (English) 2010 - 14.0.4763.1000",
+      "Microsoft Office PowerPoint MUI (English) 2010 - 14.0.4763.1000",
+      "Microsoft Office Word MUI (English) 2010 - 14.0.4763.1000",
+      "Microsoft Office Outlook MUI (English) 2010 - 14.0.4763.1000",
+      "Microsoft Teams - 1.6.00.32159",
+      "Zoom - 5.16.10.25689"
+    ],
+    "Corporate_Executive": [
+      "Microsoft Office Professional Plus 2019 - 16.0.14332.20447",
+      "Adobe Acrobat DC - 23.006.20380",
+      "Cisco Webex Meetings - 43.10.0.26865",
+      "Bloomberg Terminal - 1.0.0.0"
+    ],
+    "Gaming_Enthusiast": [
+      "Steam - 1718904078",
+      "Discord - 1.0.9151",
+      "OBS Studio - 30.0.2",
+      "Logitech G HUB - 2023.11.461760"
+    ],
+    "Digital_Nomad_Student": [
+      "Notion - 2.2.3",
+      "Anki - 2.1.66",
+      "Zotero - 6.0.30",
+      "Mendeley Desktop - 1.19.8"
+    ],
+    "Small_Business_Owner": [
+      "QuickBooks Desktop Pro 2024 - 34.0.0.252",
+      "Adobe Acrobat Pro DC - 23.006.20380",
+      "Square Point of Sale - 5.64.0",
+      "FileZilla Client - 3.66.1"
+    ]
+  },
+  "current_user_base": [
+    "Microsoft OneDrive - 24.166.0818.0003"
+  ],
+  "current_user_social": [
+    "YouTube - 1.0",
+    "Google Drive - 1.0"
+  ],
+  "current_user_creative": [
+    "CapCut - 4.0.0.1539"
+  ]
+}
