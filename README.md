@@ -12,3 +12,6 @@ The personas.csv file contains the information needed to create the synthetic lo
 The first column in the spreadsheet, "Infection," indicates which stealer we want to infect this person.
 
 All of the data in the sample spreadsheet is fake, including fake names, fake domains and emails, etc.
+
+### Config Files
+The config files within each infostealer family directory contain various synethic string values that will show up in the fake logs. Users should edit those files as they see fit, however it is not required to edit these.
