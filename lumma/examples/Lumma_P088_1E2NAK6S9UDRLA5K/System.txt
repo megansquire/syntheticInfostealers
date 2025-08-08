@@ -1,0 +1,51 @@
+# Buy now: TG @lummanowork
+# Buy&Sell logs: @lummamarketplace_bot
+- LummaC2 Build: Nov 15 2024
+- LID: mNb8Kl--PHOENIX
+- Configuration: deeff3cb600d5f06af976652e06f021b
+- Path: C:\Users\dmitr\Desktop\Setup_2024.exe
+
+- OS Version: Windows 10 Pro (10.0.19045) x64
+- Local Date: 30.07.2025 13:19:25
+- Time Zone: (UTC+00:00) UTC
+- Install Date: 16.07.2024 13:19:25
+- Elevated: false
+- Computer: DESKTOP-N3BIYO99
+- User: dmitr
+- Domain: 
+- Hostname: DESKTOP-N3BIYO99
+- NetBIOS: DESKTOP-N3BIYO99
+- Language: en-US
+- Anti Virus:
+	- Kaspersky
+- HWID: 72KZWQTKDY9S6ZQW
+- RAM Size: 32768MB
+- CPU Vendor: GenuineIntel
+- CPU Name: Intel(R) Core(TM) i9-14900K @ 6.00GHz
+- CPU Threads: 24
+- CPU Cores: 12
+- GPU: NVIDIA GeForce RTX 4090
+- Display resolution: 3840x2160
+
+- IP Address: 58.254.99.28
+- Time: 30.07.2025 13:19:25 (sig:1753895965.c7c61e1b9fe061ee01ac5616315ffd9d)
+- Country: EE
+
+------------------------------------
+
+Automated log store >> t.me/lummamarketbot
+Tens of thousands of logs for sale, rating system, search by filters and countries, hundreds of sellers with their own storefronts. Unique development based on MaaS from LummaC2.
+Purchase quality material right now - t.me/lummamarketbot
+
+------------------------------------
+
+Italiano - это пример достойного сервиса. Качественный брут и отработка папки Wallets (Metamask, Exodus, Phantom, .dat и другие).
+В наличии около 500 видеокарт, ≈50.000.000 паролей в секунду. Опыт работы в этой сфере более 5 лет. Онлайн 20 часов в сутки.
+Общий депозит на форумах 1.5btc.
+
+
+Принимаю балансы от 5.000$
+Процент за работу - 70/30 (70% Клиенту)
+
+
+Заработать вместе >> https://t.me/milan_brute

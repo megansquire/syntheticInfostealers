@@ -1,0 +1,26 @@
+Microsoft Edge
+Microsoft Edge WebView2 Runtime
+Microsoft Visual C++ 2015-2022 Redistributable (x64)
+Microsoft Visual C++ 2015-2022 Redistributable (x86)
+Microsoft Visual C++ 2013 Redistributable (x64)
+Microsoft Visual C++ 2010 Redistributable (x64)
+Microsoft .NET Framework 4.8
+.NET Runtime 6.0.25
+.NET Runtime 7.0.14
+Windows Security
+Power BI Desktop
+Microsoft Office Professional Plus 2021
+Tableau Desktop
+VLC media player
+Google Chrome
+Zoom
+Salesforce for Outlook
+7-Zip
+Bloomberg Terminal
+Cisco Webex Meetings
+Malwarebytes
+Mozilla Firefox
+GlobalProtect
+Notepad++
+Microsoft Teams
+Adobe Acrobat Pro DC

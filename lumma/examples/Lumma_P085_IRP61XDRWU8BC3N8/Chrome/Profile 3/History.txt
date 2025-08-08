@@ -1,0 +1,159 @@
+URL: https://concur.com/
+TITLE: Concur
+TIME: 01.01.1601 02:30:17
+URL: https://forbes.com/
+TITLE: Forbes
+TIME: 01.01.1601 02:30:17
+URL: https://reddit.com/
+TITLE: Reddit - Dive into anything
+TIME: 01.01.1601 02:30:17
+URL: https://youtube.com/
+TITLE: YouTube
+TIME: 01.01.1601 02:30:17
+URL: https://linkedin.com/
+TITLE: LinkedIn
+TIME: 01.01.1601 02:30:17
+URL: https://teams.microsoft.com/
+TITLE: Teams.Microsoft
+TIME: 01.01.1601 02:30:17
+URL: https://ebay.com/
+TITLE: Ebay
+TIME: 01.01.1601 02:30:17
+URL: https://paypal.com/
+TITLE: PayPal
+TIME: 01.01.1601 02:30:17
+URL: https://forbes.com/
+TITLE: Forbes
+TIME: 01.01.1601 02:30:17
+URL: https://teams.microsoft.com/
+TITLE: Teams.Microsoft
+TIME: 01.01.1601 02:30:17
+URL: https://gmail.com/
+TITLE: Gmail
+TIME: 01.01.1601 02:30:17
+URL: https://linkedin.com/
+TITLE: LinkedIn
+TIME: 01.01.1601 02:30:17
+URL: https://www.google.com/search?q=time
+TITLE: time - Google Search
+TIME: 30.07.2025 07:40:00
+URL: https://office.com/
+TITLE: Office
+TIME: 18.07.2025 08:42:47
+URL: https://spotify.com/
+TITLE: Spotify - Web Player
+TIME: 18.07.2025 04:16:58
+URL: https://gmail.com/
+TITLE: Gmail
+TIME: 27.07.2025 01:28:57
+URL: https://paypal.com/
+TITLE: PayPal
+TIME: 17.07.2025 11:30:15
+URL: https://office.com/
+TITLE: Office
+TIME: 22.07.2025 04:40:54
+URL: https://teams.microsoft.com/
+TITLE: Teams.Microsoft
+TIME: 27.07.2025 00:37:09
+URL: https://teams.microsoft.com/
+TITLE: Teams.Microsoft
+TIME: 19.07.2025 02:49:29
+URL: https://wikipedia.org/
+TITLE: Wikipedia.Org
+TIME: 18.07.2025 07:01:27
+URL: https://facebook.com/
+TITLE: Facebook
+TIME: 19.07.2025 20:52:01
+URL: https://teams.microsoft.com/
+TITLE: Teams.Microsoft
+TIME: 23.07.2025 21:50:35
+URL: https://amazon.com/
+TITLE: Amazon.com - Online Shopping
+TIME: 27.07.2025 15:53:09
+URL: https://reddit.com/
+TITLE: Reddit - Dive into anything
+TIME: 19.07.2025 11:34:28
+URL: https://bloomberg.com/
+TITLE: Bloomberg
+TIME: 21.07.2025 12:40:00
+URL: https://wikipedia.org/
+TITLE: Wikipedia.Org
+TIME: 20.07.2025 13:21:22
+URL: https://bloomberg.com/
+TITLE: Bloomberg
+TIME: 28.07.2025 19:19:24
+URL: https://gmail.com/
+TITLE: Gmail
+TIME: 23.07.2025 10:48:26
+URL: https://linkedin.com/
+TITLE: LinkedIn
+TIME: 21.07.2025 03:29:43
+URL: https://netflix.com/
+TITLE: Netflix
+TIME: 22.07.2025 23:37:46
+URL: https://netflix.com/
+TITLE: Netflix
+TIME: 16.07.2025 17:42:23
+URL: https://concur.com/
+TITLE: Concur
+TIME: 21.07.2025 01:25:02
+URL: https://twitter.com/
+TITLE: Twitter
+TIME: 27.07.2025 22:57:47
+URL: https://wikipedia.org/
+TITLE: Wikipedia.Org
+TIME: 20.07.2025 08:43:22
+URL: https://linkedin.com/
+TITLE: LinkedIn
+TIME: 21.07.2025 18:25:40
+URL: https://wikipedia.org/
+TITLE: Wikipedia.Org
+TIME: 23.07.2025 12:33:01
+URL: https://outlook.com/
+TITLE: Outlook
+TIME: 27.07.2025 09:21:35
+URL: https://wikipedia.org/
+TITLE: Wikipedia.Org
+TIME: 16.07.2025 18:06:53
+URL: https://ebay.com/
+TITLE: Ebay
+TIME: 28.07.2025 07:46:18
+URL: https://paypal.com/
+TITLE: PayPal
+TIME: 18.07.2025 03:02:01
+URL: https://wsj.com/
+TITLE: Wsj
+TIME: 18.07.2025 17:54:58
+URL: https://instagram.com/
+TITLE: Instagram
+TIME: 28.07.2025 19:38:15
+URL: https://linkedin.com/
+TITLE: LinkedIn
+TIME: 25.07.2025 10:22:09
+URL: https://paypal.com/
+TITLE: PayPal
+TIME: 21.07.2025 13:04:42
+URL: https://ebay.com/
+TITLE: Ebay
+TIME: 19.07.2025 20:47:24
+URL: https://linkedin.com/
+TITLE: LinkedIn
+TIME: 23.07.2025 09:29:48
+URL: https://github.com/
+TITLE: GitHub
+TIME: 25.07.2025 17:55:38
+URL: https://wikipedia.org/
+TITLE: Wikipedia.Org
+TIME: 30.07.2025 05:22:18
+URL: https://github.com/
+TITLE: GitHub
+TIME: 27.07.2025 00:35:48
+URL: https://reddit.com/
+TITLE: Reddit - Dive into anything
+TIME: 29.07.2025 22:42:03
+URL: https://bloomberg.com/
+TITLE: Bloomberg
+TIME: 25.07.2025 06:24:16
+URL: https://facebook.com/
+TITLE: Facebook
+TIME: 30.07.2025 09:46:55

@@ -1,0 +1,38 @@
+# Buy now: ARHONT CLOUD || t.me/ArhontCloud
+# Buy&Sell logs: TG @ArhontSupport
+- LummaC2 Build: Nov 15 2024
+- LID: hRjzG3--AEX
+- Configuration: adcaaf395bc90e972e86e5f392486b6a
+- Path: C:\Users\isabe\Downloads\Installer.exe
+
+- OS Version: Windows 10 Home (10.0.19045) x64
+- Local Date: 30.07.2025 13:19:25
+- Time Zone: (UTC+00:00) UTC
+- Install Date: 27.02.2023 13:19:25
+- Elevated: false
+- Computer: DESKTOP-BVDI6WTE
+- User: isabe
+- Domain: 
+- Hostname: DESKTOP-BVDI6WTE
+- NetBIOS: DESKTOP-BVDI6WTE
+- Language: en-US
+- Anti Virus:
+	- Windows_Defender
+- HWID: WHM6YVM5COJLVCG4
+- RAM Size: 16384MB
+- CPU Vendor: GenuineIntel
+- CPU Name: Intel(R) Core(TM) i3-7350K CPU @ 4.20GHz
+- CPU Threads: 4
+- CPU Cores: 2
+- GPU: Intel UHD Graphics 630
+- Display resolution: 1920x1080
+
+- IP Address: 150.129.118.108
+- Time: 30.07.2025 13:19:25 (sig:1753895965.e8b13307186842413bbca55997ecf2ce)
+- Country: CL
+
+------------------------------------
+
+Automated log store >> t.me/lummamarketbot
+Tens of thousands of logs for sale, rating system, search by filters and countries, hundreds of sellers with their own storefronts. Unique development based on MaaS from LummaC2.
+Purchase quality material right now - t.me/lummamarketbot

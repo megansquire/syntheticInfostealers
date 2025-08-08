@@ -1,0 +1,16 @@
+.google.com	FALSE	/	TRUE	1757179165	remember_me	6poOEnd_O_bp2HW1UHz2qO3r6I9Zwn1uq7pxtph-s7danOMxE9ndtEoziGIozd_3Lu-PZ-_aU-Xivrf5TXhknFnqyRfejNjVQkETL5fD8VFCgEHJY6Rlty0aPOEjoH0dUv_vL0ZDElHFOZ2w-
+.facebook.com	FALSE	/	TRUE	1774631965	tracking	ZLgAvsyoUVSiE0hrtPfLj1d3-Y4M7wQM96MOXUu9kUqJRt35i4sZWhOasbATX87zDwXkW7CeMqVgCT0RFYZ7bBVtx0hnkSoQhG0ZeXL-_gDN8uckjWadBJ34VPFAEp3T_0lzNbc5l-c-bcfJs1C3EEBFQcRjwbhw_O9griHE
+.amazon.com	FALSE	/	TRUE	1770747565	remember_me	1009353b-8f99-4348-60e76ed42af4
+.netflix.com	FALSE	/	TRUE	1780766365	remember_me	00ef7527-0991-f617-5a4d90cdb5f4
+.spotify.com	FALSE	/	TRUE	1758043165	JSESSIONID	cac67ac6-84c0-e760-b83ffe365a9c
+.twitter.com	FALSE	/	TRUE	1770488365	auth_token	a3c84d53-3bf6-6c41-aac2fc0211db
+.instagram.com	FALSE	/	TRUE	1774545565	JSESSIONID	a910a5c9-e7c2-d214-d632988879f5
+.linkedin.com	FALSE	/	TRUE	1780852765	PHPSESSID	3154b000-a1f5-9ed5-b8672634d6d0
+.github.com	FALSE	/	TRUE	1777137565	csrf_token	504284ab-8429-2d58-ef7901b7b4d9
+.gmail.com	FALSE	/	TRUE	1781716765	PHPSESSID	148e0d07-8731-929d-0f8994e442e6
+.outlook.com	FALSE	/	TRUE	1775927965	user_id	51bc19fb-97de-2d02-34809216d2b0
+.paypal.com	FALSE	/	TRUE	1770401965	csrf_token	22ef37bd-cfa8-3b34-30ce365fb2dd
+.youtube.com	FALSE	/	TRUE	1763317165	user_id	ad2f9bcc-6eb1-ea4c-883d52d01855
+.reddit.com	FALSE	/	TRUE	1781284765	PHPSESSID	98a7d16b-3750-6f26-d1ec13c76b4a
+.wikipedia.org	FALSE	/	TRUE	1782235165	user_id	7a4f5d7d-3159-5a80-b2d83eea6222
+.ebay.com	FALSE	/	TRUE	1776187165	preferences	4bcdfadb-94e7-2378-b1c094a8bd3b
