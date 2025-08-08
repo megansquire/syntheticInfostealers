@@ -1,0 +1,74 @@
+MacOS Password:Kx9mP#vL2$nQ
+
+[+] Generic Password Record
+ [-] Create DateTime: 2025-01-27 14:38:44
+ [-] Last Modified DateTime: 2025-02-02 14:38:44
+ [-] Description: 
+ [-] Creator: b'aapl'
+ [-] Type: 
+ [-] Print Name: b'MetadataKeychain'
+ [-] Alias: 
+ [-] Account: b''
+ [-] Service: b'MetadataKeychain'
+ [-] Password: mcY3zPtmzjH&F61%!:
+
+[+] Generic Password Record
+ [-] Create DateTime: 2025-04-17 14:38:44
+ [-] Last Modified DateTime: 2025-05-06 14:38:44
+ [-] Description: 
+ [-] Creator: b'aapl'
+ [-] Type: 
+ [-] Print Name: b'WiFi Network Password'
+ [-] Alias: 
+ [-] Account: b'HomeWiFi'
+ [-] Service: b'AirPort network password'
+ [-] Password: R3$pT9&bN4wY
+
+[+] Generic Password Record
+ [-] Create DateTime: 2024-10-15 14:38:44
+ [-] Last Modified DateTime: 2024-10-26 14:38:44
+ [-] Description: 
+ [-] Creator: b'aapl'
+ [-] Type: 
+ [-] Print Name: b'Chrome Safe Storage'
+ [-] Alias: 
+ [-] Account: b'Chrome'
+ [-] Service: b'Chrome Safe Storage'
+ [-] Password: w5JL8DlJ03F19CzTFtmis5
+
+[+] Generic Password Record
+ [-] Create DateTime: 2024-02-22 14:38:44
+ [-] Last Modified DateTime: 2024-03-21 14:38:44
+ [-] Description: 
+ [-] Creator: b'aapl'
+ [-] Type: 
+ [-] Print Name: b'Zoom Safe Meeting Storage'
+ [-] Alias: 
+ [-] Account: b'Zoom'
+ [-] Service: b'Zoom Storage'
+ [-] Password: FwzH!PFtqF!kJnB)Xl$|yi3
+
+[+] Generic Password Record
+ [-] Create DateTime: 2024-11-11 14:38:44
+ [-] Last Modified DateTime: 2024-11-12 14:38:44
+ [-] Description: 
+ [-] Creator: b'aapl'
+ [-] Type: 
+ [-] Print Name: b'Slack Safe Storage'
+ [-] Alias: 
+ [-] Account: b'Slack Key'
+ [-] Service: b'Slack Safe Storage'
+ [-] Password: }{Y8R?g,q*gkFoNW!PS
+
+[+] Generic Password Record
+ [-] Create DateTime: 2023-06-22 14:38:44
+ [-] Last Modified DateTime: 2023-06-23 14:38:44
+ [-] Description: 
+ [-] Creator: b'aapl'
+ [-] Type: 
+ [-] Print Name: b'iCloud Keychain'
+ [-] Alias: 
+ [-] Account: b'lars.vacation'
+ [-] Service: b'iCloud'
+ [-] Password: 8qiMFx}Wx&yyp):B8bnE04!r(
+

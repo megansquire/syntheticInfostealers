@@ -1,0 +1,50 @@
+MacOS Password:QuickLogin!
+
+[+] Generic Password Record
+ [-] Create DateTime: 2023-10-31 14:38:44
+ [-] Last Modified DateTime: 2023-11-26 14:38:44
+ [-] Description: 
+ [-] Creator: b'aapl'
+ [-] Type: 
+ [-] Print Name: b'VPN Connection'
+ [-] Alias: 
+ [-] Account: b'vpn_user'
+ [-] Service: b'IPSec'
+ [-] Password: SavedPass2024
+
+[+] Generic Password Record
+ [-] Create DateTime: 2024-08-08 14:38:44
+ [-] Last Modified DateTime: 2024-08-11 14:38:44
+ [-] Description: 
+ [-] Creator: b'aapl'
+ [-] Type: 
+ [-] Print Name: b'Chrome Safe Storage'
+ [-] Alias: 
+ [-] Account: b'Chrome'
+ [-] Service: b'Chrome Safe Storage'
+ [-] Password: 6XXIA+p+=q=Tcnz8FYyY
+
+[+] Generic Password Record
+ [-] Create DateTime: 2024-02-10 14:38:44
+ [-] Last Modified DateTime: 2024-02-14 14:38:44
+ [-] Description: 
+ [-] Creator: b'aapl'
+ [-] Type: 
+ [-] Print Name: b'Slack Safe Storage'
+ [-] Alias: 
+ [-] Account: b'Slack Key'
+ [-] Service: b'Slack Safe Storage'
+ [-] Password: xEW7T\;0[XVdju#Q7Mf6
+
+[+] Generic Password Record
+ [-] Create DateTime: 2024-11-06 14:38:44
+ [-] Last Modified DateTime: 2024-11-25 14:38:44
+ [-] Description: 
+ [-] Creator: b'aapl'
+ [-] Type: 
+ [-] Print Name: b'iCloud Keychain'
+ [-] Alias: 
+ [-] Account: b'jessica.trampoline'
+ [-] Service: b'iCloud'
+ [-] Password: W,p[wwM|S0,ia!mSv{X@>
+

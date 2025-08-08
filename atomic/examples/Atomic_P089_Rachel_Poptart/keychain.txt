@@ -1,0 +1,74 @@
+MacOS Password:WorkPass2024!
+
+[+] Generic Password Record
+ [-] Create DateTime: 2025-04-22 14:38:44
+ [-] Last Modified DateTime: 2025-05-18 14:38:44
+ [-] Description: 
+ [-] Creator: b'aapl'
+ [-] Type: 
+ [-] Print Name: b'MetadataKeychain'
+ [-] Alias: 
+ [-] Account: b''
+ [-] Service: b'MetadataKeychain'
+ [-] Password: Q7t)pw4WnD8@iKDO7KtsGf,z
+
+[+] Generic Password Record
+ [-] Create DateTime: 2024-11-11 14:38:44
+ [-] Last Modified DateTime: 2024-11-19 14:38:44
+ [-] Description: 
+ [-] Creator: b'aapl'
+ [-] Type: 
+ [-] Print Name: b'Chrome Safe Storage'
+ [-] Alias: 
+ [-] Account: b'Chrome'
+ [-] Service: b'Chrome Safe Storage'
+ [-] Password: bGvfKUhbO/d3i3MfB/mFq
+
+[+] Generic Password Record
+ [-] Create DateTime: 2023-11-29 14:38:44
+ [-] Last Modified DateTime: 2023-12-02 14:38:44
+ [-] Description: 
+ [-] Creator: b'aapl'
+ [-] Type: 
+ [-] Print Name: b'Slack Safe Storage'
+ [-] Alias: 
+ [-] Account: b'Slack Key'
+ [-] Service: b'Slack Safe Storage'
+ [-] Password: Cmth:Yjsu<Mp9XiBC9.<,wGF
+
+[+] Generic Password Record
+ [-] Create DateTime: 2023-07-18 14:38:44
+ [-] Last Modified DateTime: 2023-07-25 14:38:44
+ [-] Description: 
+ [-] Creator: b'aapl'
+ [-] Type: 
+ [-] Print Name: b'iCloud Keychain'
+ [-] Alias: 
+ [-] Account: b'rachel.poptart.dev'
+ [-] Service: b'iCloud'
+ [-] Password: oy9{au*]FqauA9%mw(OQ
+
+[+] Generic Password Record
+ [-] Create DateTime: 2024-04-27 14:38:44
+ [-] Last Modified DateTime: 2024-05-01 14:38:44
+ [-] Description: 
+ [-] Creator: b'aapl'
+ [-] Type: 
+ [-] Print Name: b'VPN Connection'
+ [-] Alias: 
+ [-] Account: b'vpn_user'
+ [-] Service: b'IPSec'
+ [-] Password: PersonalPass123
+
+[+] Generic Password Record
+ [-] Create DateTime: 2024-11-26 14:38:44
+ [-] Last Modified DateTime: 2024-12-02 14:38:44
+ [-] Description: 
+ [-] Creator: b'aapl'
+ [-] Type: 
+ [-] Print Name: b'Brave Safe Storage'
+ [-] Alias: 
+ [-] Account: b'Brave'
+ [-] Service: b'Brave Safe Storage'
+ [-] Password: 5LmuaFBdkNMN+qN3k
+

@@ -1,0 +1,52 @@
+ATOMIC MAC STEALER V2 
+MetaMask Info: 
+Seeds:	
+Private Keys:  
+Debanks:  
+
+
+Userinfo: 
+Country: KR 
+IP: 175.126.82.231/423431752 
+City: Seoul 
+ProductName:		macOS 
+ProductVersion:		12.7 
+BuildVersion:		21H914 
+
+Hardware: 
+
+	Hardware Overview: 
+
+	  Model Name: MacBook Air 
+	  Model Identifier: Mac15,12 
+	  Model Number: MRX33LL/A 
+	  Chip: Apple M2 
+	  Total Number of Cores: 8 (4 performance and 4 efficiency) 
+	  Memory: 8 GB 
+	  System Firmware Version: 10151.140.19 
+	  OS Loader Version: 10151.140.19 
+	  Serial Number (system): SS77Z3Y3YD 
+	  Hardware UUID: 02E78A9F-0B59-1163-0E7E-007AC49AFA09 
+	  Provisioning UDID: 00006030-000819003628001C 
+	  Activation Lock Status: Enabled 
+
+
+Graphics/Displays: 
+
+	Apple M2: 
+
+	  Chipset Model: Apple M2 
+	  Type: GPU 
+	  Bus: Built-In 
+	  Total Number of Cores: 14 
+	  Vendor: Apple (0x106b) 
+	  Metal Support: Metal 3 
+	  Displays: 
+		Color LCD: 
+		  Display Type: Built-in Liquid Retina XDR Display 
+		  Resolution: 2560 x 1664 Retina 
+		  Main Display: Yes 
+		  Mirror: Off 
+		  Online: Yes 
+		  Automatically Adjust Brightness: Yes 
+		  Connection Type: Internal

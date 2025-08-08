@@ -1,0 +1,50 @@
+MacOS Password:ap3dGf-p3we4r-aRsdfT
+
+[+] Generic Password Record
+ [-] Create DateTime: 2024-07-01 14:38:44
+ [-] Last Modified DateTime: 2024-07-14 14:38:44
+ [-] Description: 
+ [-] Creator: b'aapl'
+ [-] Type: 
+ [-] Print Name: b'Chrome Safe Storage'
+ [-] Alias: 
+ [-] Account: b'Chrome'
+ [-] Service: b'Chrome Safe Storage'
+ [-] Password: wgQRW1w5frqryrRlrYRTW
+
+[+] Generic Password Record
+ [-] Create DateTime: 2024-11-19 14:38:44
+ [-] Last Modified DateTime: 2024-12-16 14:38:44
+ [-] Description: 
+ [-] Creator: b'aapl'
+ [-] Type: 
+ [-] Print Name: b'VPN Connection'
+ [-] Alias: 
+ [-] Account: b'vpn_user'
+ [-] Service: b'IPSec'
+ [-] Password: ap3dGf-p3we4r-aRsdfT
+
+[+] Generic Password Record
+ [-] Create DateTime: 2023-11-29 14:38:44
+ [-] Last Modified DateTime: 2023-12-05 14:38:44
+ [-] Description: 
+ [-] Creator: b'aapl'
+ [-] Type: 
+ [-] Print Name: b'Slack Safe Storage'
+ [-] Alias: 
+ [-] Account: b'Slack Key'
+ [-] Service: b'Slack Safe Storage'
+ [-] Password: ;!r$:)ML2Lu3(FD<ooN
+
+[+] Generic Password Record
+ [-] Create DateTime: 2024-08-31 14:38:44
+ [-] Last Modified DateTime: 2024-09-24 14:38:44
+ [-] Description: 
+ [-] Creator: b'aapl'
+ [-] Type: 
+ [-] Print Name: b'WiFi Network Password'
+ [-] Alias: 
+ [-] Account: b'HomeWiFi'
+ [-] Service: b'AirPort network password'
+ [-] Password: Kx9mP#vL2$nQ
+
