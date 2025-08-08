@@ -1,0 +1,13 @@
+META_DATA
+1) AMD Chipset Software [3.10.22.706]
+2) AMD Ryzen Master [2.9.0.2093]
+3) Bitwarden [2024.6.2]
+4) Exodus Wallet [23.12.11]
+5) Ledger Live [2.77.2]
+6) Malwarebytes [4.5.31.286]
+7) Microsoft Edge [126.0.2592.87]
+8) Microsoft Edge WebView2 Runtime [126.0.2592.87]
+9) Microsoft OneDrive [24.116.0602.0002]
+10) Microsoft Visual C++ 2015-2022 Redistributable (x64) [14.34.31931]
+11) Microsoft Visual C++ 2015-2022 Redistributable (x86) [14.34.31931]
+12) NordVPN [7.13.0]

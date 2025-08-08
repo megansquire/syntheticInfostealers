@@ -1,0 +1,29 @@
+CLOUD LOGS - @FATECLOUD | SHOP - @LOGSFATE_BOT | SUPPORT - @EZFATE
+
+Build ID: @premium_logs
+IP: 172.58.207.124
+FileLocation: C:\Users\Amanda\AppData\Local\Temp\680199\flesh.exe
+UserName: Amanda
+MachineName: DESKTOP-69DSCPWV
+Country: US
+Zip Code: 62655
+Location: Austin, Texas
+HWID: C470995631EB50949A1486556DB55095
+Current Language: English (United States)
+ScreenSize: {Width=2560, Height=1440}
+TimeZone: (UTC+00:00) Coordinated Universal Time
+Operation System: Windows_11_Home x64
+Log date: 7/29/2025 2:27:03 PM
+
+Available KeyboardLayouts: 
+English (United States)
+
+
+Hardwares: 
+Name: Total of RAM, 16384.00 Mb or 17179869184 bytes
+Name: AMD Ryzen 5 5600X, 6 Cores
+Name: Intel(R) UHD Graphics 730, 4294967296 bytes
+
+
+Anti-Viruses: 
+Windows Defender

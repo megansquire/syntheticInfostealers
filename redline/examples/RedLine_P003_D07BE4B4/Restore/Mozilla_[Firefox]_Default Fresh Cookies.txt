@@ -1,0 +1,8 @@
+.binance.com	TRUE	/	TRUE	1823796349	bnc-uuid	aQr4cETHIDp4HG-TIoep9voBkml1NIwH5QCcp7u1jk49SprQQwGKsN9Lt_2IZ0WMEVF
+.amazon.com	TRUE	/	FALSE	1842698055	session-id	zqgQ72bGcv_ulJR14w28K8vqqIRDmG6kDO4xbTHohvabfaSHog2xPaPwLiqMDvxc3
+.amazon.com	TRUE	/	TRUE	1892606090	ubid-main	9BPjKn5X6pLUKGPbpywiEEJtBWBI5gKdM0kiCADme18Kj1wO51YuWi6uudnaVJEEBRsaDFJrZ8KTTNqK7wEKPxBjzXDxUToDuctXXxyJBnp1PZsXCEqyQWpY2qi
+accounts.google.com	TRUE	/	FALSE	1886904548	SID	Vp7NCuKVIqShKbrpNr1icwNLlD_O0bC-8ZRtGhYhrzeoA9iDzxekIlTPfaMitFUe2Czs_eWl-Fi4D6ox-7mLkg7va07QDxrrNsFnqGsXlCrye5nw_ixqz8rXyiO-K3TZCBpTGZaVUXjt5d_-Z2
+.coinbase.com	TRUE	/	FALSE	1828887307	cb_session	t3NiYRU0ez38ZxUgYxM75x2dhLjOeDHdOGxF_ijvvZPscO0goGEckDuJ5LI8rLCvN2nSxDS7dsAV9uiHmPhNBZkJsn1ih0owNpd50B-PZu47NQeaqjTuK4ltHOlCin3ZyDGcwcPhuZXh-JIn
+.facebook.com	TRUE	/	FALSE	1804796069	xs	pKxGduEprUacs4tlRMMZz4PbBdIWaqOLtc5uFdCKLZVpLRcmpbxFLUwFKHZmva
+.facebook.com	TRUE	/	TRUE	1846435024	c_user	9_FD6cfGA9uBuLwrY9XHN-Y2mTyQmvTtWYLtN-r6ggVcm3qM9o-O2P3p0BiAmmkLTp3B0RheJ7np
+.microsoft.com	TRUE	/	FALSE	1838539989	MSPAuth	6c36d9L1IzVLrKPJwKR1hM3BseIahHMEQE9TqBwTWWfNClTk7VD-NQ8P-VZdcnkpi3p

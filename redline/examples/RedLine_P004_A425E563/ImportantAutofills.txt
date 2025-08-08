@@ -1,0 +1,14 @@
+META_DATA
+user[email]: d.telescope@datatech.sim
+email: davidtelescope87@syntheticmail.fake
+login[email]: davidtelescope87@syntheticmail.fake
+login[email]: d.telescope@datatech.sim
+user[email]: davidtelescope87@syntheticmail.fake
+login[email]: d.telescope@datatech.sim
+user[email]: davidtelescope87@syntheticmail.fake
+user[email]: d.telescope@datatech.sim
+email: davidtelescope87@syntheticmail.fake
+email: davidtelescope87@syntheticmail.fake
+login[email]: d.telescope@datatech.sim
+email: d.telescope@datatech.sim
+email: d.telescope@datatech.sim

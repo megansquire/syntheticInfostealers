@@ -1,0 +1,13 @@
+META_DATA
+user[email]: amanda.b@designstudio.workshop
+login[email]: amanda.b@designstudio.workshop
+email: amanda.b@designstudio.workshop
+email: amanda.butterfly@defconlab.fake
+user[email]: amanda.butterfly@defconlab.fake
+login[email]: amanda.b@designstudio.workshop
+user[email]: amanda.butterfly@defconlab.fake
+user[email]: amanda.b@designstudio.workshop
+user[email]: amanda.butterfly@defconlab.fake
+email: amanda.butterfly@defconlab.fake
+login[email]: amanda.butterfly@defconlab.fake
+login[email]: amanda.butterfly@defconlab.fake
