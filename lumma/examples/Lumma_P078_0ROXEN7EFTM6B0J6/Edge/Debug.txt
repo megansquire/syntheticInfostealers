@@ -1,0 +1,37 @@
+reg
+bcp
+prc
+acp - 0
+efd
+epf
+eas
+esv
+ese
+ebp
+epl
+erc - 0
+msg - 1/0
+ext
+aps
+apa
+res - 2303
+dat - 1106842
+fin
+bcp
+prc
+acp - 0
+efd
+epf
+eas
+esv
+ese
+ebp
+epl
+erc - 0
+msg - 1/0
+ext
+aps
+apa
+res - 2303
+dat - 1106842
+fin

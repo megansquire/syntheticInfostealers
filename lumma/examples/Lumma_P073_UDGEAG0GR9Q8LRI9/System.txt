@@ -1,0 +1,38 @@
+# Buy now: TG @lummanowork
+# Buy&Sell logs: @lummamarketplace_bot
+- LummaC2 Build: Dec 12 2024
+- LID: @ArhontCloud--@hydroshot
+- Configuration: 7dcbadec2c58436eab2d5b5444fbfbcb
+- Path: C:\Users\priya\AppData\Local\Temp\Rar$EXb{random}.{random}\Setup.exe
+
+- OS Version: Windows 10 Home (10.0.19045) x64
+- Local Date: 30.07.2025 13:19:25
+- Time Zone: (UTC+05:30) New Delhi
+- Install Date: 08.04.2024 13:19:25
+- Elevated: false
+- Computer: DESKTOP-V81RZ5VD
+- User: priya
+- Domain: 
+- Hostname: DESKTOP-V81RZ5VD
+- NetBIOS: DESKTOP-V81RZ5VD
+- Language: en-IN
+- Anti Virus:
+	- Kaspersky
+- HWID: P4DL6GGCBG8MV1PV
+- RAM Size: 16384MB
+- CPU Vendor: GenuineIntel
+- CPU Name: Intel(R) Core(TM) i7-1355U @ 5.00GHz
+- CPU Threads: 16
+- CPU Cores: 8
+- GPU: Intel Iris Xe Graphics
+- Display resolution: 1920x1080
+
+- IP Address: 117.192.76.63
+- Time: 30.07.2025 18:19:25 (sig:1753913965.c2887268af6a656bbefab693000be23f)
+- Country: IN
+
+------------------------------------
+
+Automated log store >> t.me/lummamarketbot
+Tens of thousands of logs for sale, rating system, search by filters and countries, hundreds of sellers with their own storefronts. Unique development based on MaaS from LummaC2.
+Purchase quality material right now - t.me/lummamarketbot
