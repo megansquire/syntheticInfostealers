@@ -1,0 +1,31 @@
+PersonaIDs infected by RedLine (from Infection column):
+P003,P004,P005,P007,P018,P019,P020,P021,P025,P038,P040,P043,P044,P046,P047,P051,P054,P057,P060,P072,P081,P086,P097,P100
+
+Details:
+P003: Amanda Butterfly - Windows_11_Home (Remote_Worker)
+P004: David Telescope - Windows_10_Pro (Remote_Worker)
+P005: Jessica Rainbow - Windows_11_Pro (Remote_Worker)
+P007: Lisa Kangaroo - Windows_10_Home (Remote_Worker)
+P018: Hiroshi Pancake - Windows_10_Pro (Remote_Worker)
+P019: Isabella Marble - Windows_11_Pro (Remote_Worker)
+P020: Artem Thunder - Windows_11_Pro (Remote_Worker)
+P021: Tyler Jellybean - Windows_11_Home (Gaming_Enthusiast)
+P025: Emma Firework - Windows_11_Home (Gaming_Enthusiast)
+P038: Connor Waffle - Windows_11_Home (Student)
+P040: Liam Robot - Windows_11_Home (Student)
+P043: Zoe Mango - Windows_10_Home (Student)
+P044: Ethan Spyglass - Windows_11_Home (Student)
+P046: Noah Peanut - Windows_10_Home (Student)
+P047: Ava Zipper - Windows_11_Home (Student)
+P051: Charlotte Visitor - Windows_11_Home (Student)
+P054: William Starfish - Windows_11_Home (Student)
+P057: Maria Balloon - Windows_10_Home (Small_Business_Owner)
+P060: Giuseppe Compass - Windows_10_Home (Small_Business_Owner)
+P072: Richard Mushroom - Windows_11_Pro (Corporate_Executive)
+P081: Elena Doorknob - Windows_11_Pro (Corporate_Executive)
+P086: Alex Train - Windows_11_Pro (Tech_Worker)
+P097: TEMPLATE REUSER - Windows_11_Pro (Fake_Log)
+P100: Marcus Vine - Windows_11_Pro (Trust_Safety_Professional)
+
+
+Total: 24 personas
