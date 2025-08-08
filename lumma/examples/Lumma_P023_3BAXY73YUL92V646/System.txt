@@ -1,0 +1,38 @@
+# Buy now: TG @lummanowork
+# Buy&Sell logs: @lummamarketplace_bot
+- LummaC2 Build: Dec 12 2024
+- LID: hRjzG3--GUNNAR
+- Configuration: 6ac53bfa510e2d1d3890c958b36ba9ee
+- Path: C:\Users\vikto\Downloads\Installer.exe
+
+- OS Version: Windows 10 Enterprise (10.0.19045) x64
+- Local Date: 30.07.2025 13:19:25
+- Time Zone: (UTC+03:00) Moscow
+- Install Date: 20.08.2023 13:19:25
+- Elevated: false
+- Computer: DESKTOP-UBRIA6FZ
+- User: vikto
+- Domain: 
+- Hostname: DESKTOP-UBRIA6FZ
+- NetBIOS: DESKTOP-UBRIA6FZ
+- Language: ru-RU
+- Anti Virus:
+	- Kaspersky
+- HWID: LVEFFDLAU73VZD0X
+- RAM Size: 16384MB
+- CPU Vendor: GenuineIntel
+- CPU Name: Intel(R) Core(TM) i7-13700K @ 5.40GHz
+- CPU Threads: 16
+- CPU Cores: 8
+- GPU: NVIDIA GeForce RTX 4070
+- Display resolution: 1920x1080
+
+- IP Address: 94.25.9.197
+- Time: 30.07.2025 16:19:25 (sig:1753906765.2bf08630c2af7f3dcec5b564b7f17df0)
+- Country: RU
+
+------------------------------------
+
+Automated log store >> t.me/lummamarketplace_bot
+Tens of thousands of logs for sale, rating system, search by filters and countries, hundreds of sellers with their own storefronts. Unique development based on MaaS from LummaC2.
+Purchase quality material right now - t.me/lummamarketplace_bot

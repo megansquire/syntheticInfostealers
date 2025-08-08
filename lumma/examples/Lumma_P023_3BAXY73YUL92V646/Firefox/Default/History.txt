@@ -1,0 +1,207 @@
+URL: https://facebook.com/
+TITLE: Facebook
+TIME: 01.01.1601 02:30:17
+URL: https://twitter.com/
+TITLE: Twitter
+TIME: 01.01.1601 02:30:17
+URL: https://netflix.com/
+TITLE: Netflix
+TIME: 01.01.1601 02:30:17
+URL: https://reddit.com/
+TITLE: Reddit - Dive into anything
+TIME: 01.01.1601 02:30:17
+URL: https://gamespot.com/
+TITLE: Gamespot
+TIME: 01.01.1601 02:30:17
+URL: https://nvidia.com/
+TITLE: Nvidia
+TIME: 01.01.1601 02:30:17
+URL: https://google.com/
+TITLE: Google
+TIME: 01.01.1601 02:30:17
+URL: https://gmail.com/
+TITLE: Gmail
+TIME: 01.01.1601 02:30:17
+URL: https://discord.com/
+TITLE: Discord
+TIME: 01.01.1601 02:30:17
+URL: https://nvidia.com/
+TITLE: Nvidia
+TIME: 01.01.1601 02:30:17
+URL: https://youtube.com/
+TITLE: YouTube
+TIME: 01.01.1601 02:30:17
+URL: https://netflix.com/
+TITLE: Netflix
+TIME: 01.01.1601 02:30:17
+URL: https://facebook.com/
+TITLE: Facebook
+TIME: 01.01.1601 02:30:17
+URL: https://youtube.com/
+TITLE: YouTube
+TIME: 01.01.1601 02:30:17
+URL: https://epicgames.com/
+TITLE: Epicgames
+TIME: 01.01.1601 02:30:17
+URL: https://corsair.com/
+TITLE: Corsair
+TIME: 01.01.1601 02:30:17
+URL: https://nvidia.com/
+TITLE: Nvidia
+TIME: 01.01.1601 02:30:17
+URL: https://spotify.com/
+TITLE: Spotify - Web Player
+TIME: 28.07.2025 18:30:34
+URL: https://youtube.com/
+TITLE: YouTube
+TIME: 25.07.2025 11:43:03
+URL: https://youtube.com/
+TITLE: YouTube
+TIME: 21.07.2025 14:17:57
+URL: https://paypal.com/
+TITLE: PayPal
+TIME: 21.07.2025 04:03:09
+URL: https://github.com/
+TITLE: GitHub
+TIME: 27.07.2025 12:17:28
+URL: https://twitch.tv/
+TITLE: Twitch
+TIME: 28.07.2025 12:03:45
+URL: https://paypal.com/
+TITLE: PayPal
+TIME: 22.07.2025 00:56:53
+URL: https://pcgamer.com/
+TITLE: Pcgamer
+TIME: 24.07.2025 07:37:40
+URL: https://paypal.com/
+TITLE: PayPal
+TIME: 16.07.2025 18:40:18
+URL: https://gmail.com/
+TITLE: Gmail
+TIME: 16.07.2025 03:47:12
+URL: https://discord.com/
+TITLE: Discord
+TIME: 19.07.2025 15:12:46
+URL: https://netflix.com/
+TITLE: Netflix
+TIME: 23.07.2025 08:46:22
+URL: https://gamespot.com/
+TITLE: Gamespot
+TIME: 20.07.2025 06:04:48
+URL: https://nvidia.com/
+TITLE: Nvidia
+TIME: 12.07.2025 10:31:03
+URL: https://gmail.com/
+TITLE: Gmail
+TIME: 22.07.2025 21:19:10
+URL: https://outlook.com/
+TITLE: Outlook
+TIME: 18.07.2025 08:53:10
+URL: https://spotify.com/
+TITLE: Spotify - Web Player
+TIME: 20.07.2025 18:21:14
+URL: https://amazon.com/
+TITLE: Amazon.com - Online Shopping
+TIME: 23.07.2025 05:31:54
+URL: https://nvidia.com/
+TITLE: Nvidia
+TIME: 21.07.2025 05:25:53
+URL: https://amazon.com/
+TITLE: Amazon.com - Online Shopping
+TIME: 28.07.2025 11:28:10
+URL: https://razer.com/
+TITLE: Razer
+TIME: 29.07.2025 03:37:56
+URL: https://gmail.com/
+TITLE: Gmail
+TIME: 25.07.2025 22:49:57
+URL: https://pcgamer.com/
+TITLE: Pcgamer
+TIME: 15.07.2025 14:45:13
+URL: https://linkedin.com/
+TITLE: LinkedIn
+TIME: 14.07.2025 22:50:01
+URL: https://github.com/
+TITLE: GitHub
+TIME: 25.07.2025 13:22:55
+URL: https://discord.com/
+TITLE: Discord
+TIME: 25.07.2025 21:00:40
+URL: https://ign.com/
+TITLE: Ign
+TIME: 14.07.2025 01:33:39
+URL: https://wikipedia.org/
+TITLE: Wikipedia.Org
+TIME: 20.07.2025 18:28:00
+URL: https://instagram.com/
+TITLE: Instagram
+TIME: 23.07.2025 23:08:06
+URL: https://paypal.com/
+TITLE: PayPal
+TIME: 18.07.2025 02:16:56
+URL: https://instagram.com/
+TITLE: Instagram
+TIME: 29.07.2025 12:25:41
+URL: https://google.com/
+TITLE: Google
+TIME: 25.07.2025 06:32:27
+URL: https://facebook.com/
+TITLE: Facebook
+TIME: 23.07.2025 07:46:31
+URL: https://wikipedia.org/
+TITLE: Wikipedia.Org
+TIME: 23.07.2025 01:20:53
+URL: https://steam.com/
+TITLE: Steam
+TIME: 15.07.2025 11:55:59
+URL: https://paypal.com/
+TITLE: PayPal
+TIME: 22.07.2025 10:55:59
+URL: https://outlook.com/
+TITLE: Outlook
+TIME: 27.07.2025 18:11:21
+URL: https://wikipedia.org/
+TITLE: Wikipedia.Org
+TIME: 29.07.2025 22:19:17
+URL: https://discord.com/
+TITLE: Discord
+TIME: 17.07.2025 10:42:01
+URL: https://twitter.com/
+TITLE: Twitter
+TIME: 13.07.2025 15:29:35
+URL: https://outlook.com/
+TITLE: Outlook
+TIME: 21.07.2025 07:23:57
+URL: https://twitch.tv/
+TITLE: Twitch
+TIME: 14.07.2025 11:18:46
+URL: https://ebay.com/
+TITLE: Ebay
+TIME: 17.07.2025 09:23:41
+URL: https://twitter.com/
+TITLE: Twitter
+TIME: 21.07.2025 01:46:29
+URL: https://linkedin.com/
+TITLE: LinkedIn
+TIME: 27.07.2025 13:36:43
+URL: https://reddit.com/
+TITLE: Reddit - Dive into anything
+TIME: 23.07.2025 19:52:54
+URL: https://steam.com/
+TITLE: Steam
+TIME: 16.07.2025 09:20:27
+URL: https://nvidia.com/
+TITLE: Nvidia
+TIME: 16.07.2025 08:03:19
+URL: https://spotify.com/
+TITLE: Spotify - Web Player
+TIME: 24.07.2025 07:06:12
+URL: https://facebook.com/
+TITLE: Facebook
+TIME: 29.07.2025 03:13:09
+URL: https://epicgames.com/
+TITLE: Epicgames
+TIME: 22.07.2025 21:30:35
+URL: https://twitch.tv/
+TITLE: Twitch
+TIME: 20.07.2025 22:20:58

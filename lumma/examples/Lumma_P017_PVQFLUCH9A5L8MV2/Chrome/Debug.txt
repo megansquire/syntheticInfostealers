@@ -1,0 +1,21 @@
+reg
+bps
+bpa
+bcp
+prc
+acp - 0
+efd
+epf
+eas
+esv
+ese
+ebp
+epl
+erc - 0
+msg - 1/0
+ext
+aps
+apa
+res - 2405
+dat - 2545388
+fin
