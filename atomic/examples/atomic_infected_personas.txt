@@ -1,0 +1,11 @@
+PersonaIDs infected by Atomic (from Infection column):
+P087,P089,P090,P099
+
+Details:
+P087: Yuki Bottle - macOS_Ventura (Tech_Worker)
+P089: Rachel Poptart - macOS_Monterey (Tech_Worker)
+P090: Lars Vacation - macOS_Ventura (Tech_Worker)
+P099: Jessica Trampoline - macOS_Ventura (Trust_Safety_Professional)
+
+
+Total: 4 personas
