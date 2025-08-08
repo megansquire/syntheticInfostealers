@@ -1,0 +1,249 @@
+URL: https://linkedin.com/
+TITLE: LinkedIn
+TIME: 01.01.1601 02:30:17
+URL: https://asana.com/
+TITLE: Asana
+TIME: 01.01.1601 02:30:17
+URL: https://slack.com/
+TITLE: Slack
+TIME: 01.01.1601 02:30:17
+URL: https://spotify.com/
+TITLE: Spotify - Web Player
+TIME: 01.01.1601 02:30:17
+URL: https://outlook.com/
+TITLE: Outlook
+TIME: 01.01.1601 02:30:17
+URL: https://facebook.com/
+TITLE: Facebook
+TIME: 01.01.1601 02:30:17
+URL: https://instagram.com/
+TITLE: Instagram
+TIME: 01.01.1601 02:30:17
+URL: https://google.com/
+TITLE: Google
+TIME: 01.01.1601 02:30:17
+URL: https://instagram.com/
+TITLE: Instagram
+TIME: 01.01.1601 02:30:17
+URL: https://dropbox.com/
+TITLE: Dropbox
+TIME: 01.01.1601 02:30:17
+URL: https://gmail.com/
+TITLE: Gmail
+TIME: 01.01.1601 02:30:17
+URL: https://outlook.com/
+TITLE: Outlook
+TIME: 01.01.1601 02:30:17
+URL: https://twitter.com/
+TITLE: Twitter
+TIME: 01.01.1601 02:30:17
+URL: https://lastpass.com/
+TITLE: Lastpass
+TIME: 17.07.2025 06:08:44
+URL: https://office.com/
+TITLE: Office
+TIME: 23.07.2025 18:19:01
+URL: https://facebook.com/
+TITLE: Facebook
+TIME: 16.07.2025 20:36:30
+URL: https://lastpass.com/
+TITLE: Lastpass
+TIME: 29.07.2025 20:10:34
+URL: https://amazon.com/
+TITLE: Amazon.com - Online Shopping
+TIME: 14.07.2025 11:11:48
+URL: https://teamviewer.com/
+TITLE: Teamviewer
+TIME: 20.07.2025 13:27:59
+URL: https://ebay.com/
+TITLE: Ebay
+TIME: 21.07.2025 04:09:07
+URL: https://linkedin.com/
+TITLE: LinkedIn
+TIME: 20.07.2025 13:17:11
+URL: https://github.com/
+TITLE: GitHub
+TIME: 29.07.2025 21:18:54
+URL: https://teamviewer.com/
+TITLE: Teamviewer
+TIME: 19.07.2025 13:16:34
+URL: https://ebay.com/
+TITLE: Ebay
+TIME: 12.07.2025 05:59:11
+URL: https://trello.com/
+TITLE: Trello
+TIME: 29.07.2025 13:29:08
+URL: https://reddit.com/
+TITLE: Reddit - Dive into anything
+TIME: 20.07.2025 21:41:25
+URL: https://lastpass.com/
+TITLE: Lastpass
+TIME: 11.07.2025 00:40:42
+URL: https://slack.com/
+TITLE: Slack
+TIME: 13.07.2025 02:31:22
+URL: https://office.com/
+TITLE: Office
+TIME: 15.07.2025 14:59:02
+URL: https://office.com/
+TITLE: Office
+TIME: 12.07.2025 23:47:39
+URL: https://zoom.us/
+TITLE: Zoom
+TIME: 23.07.2025 14:13:50
+URL: https://notion.so/
+TITLE: Notion.So
+TIME: 27.07.2025 22:06:46
+URL: https://google.com/
+TITLE: Google
+TIME: 11.07.2025 18:20:10
+URL: https://office.com/
+TITLE: Office
+TIME: 21.07.2025 08:33:20
+URL: https://ebay.com/
+TITLE: Ebay
+TIME: 16.07.2025 23:30:02
+URL: https://notion.so/
+TITLE: Notion.So
+TIME: 14.07.2025 08:38:21
+URL: https://amazon.com/
+TITLE: Amazon.com - Online Shopping
+TIME: 21.07.2025 01:01:15
+URL: https://linkedin.com/
+TITLE: LinkedIn
+TIME: 14.07.2025 23:00:16
+URL: https://salesforce.com/
+TITLE: Salesforce
+TIME: 10.07.2025 07:35:07
+URL: https://twitter.com/
+TITLE: Twitter
+TIME: 27.07.2025 22:06:44
+URL: https://youtube.com/
+TITLE: YouTube
+TIME: 18.07.2025 11:38:30
+URL: https://salesforce.com/
+TITLE: Salesforce
+TIME: 18.07.2025 11:55:39
+URL: https://paypal.com/
+TITLE: PayPal
+TIME: 15.07.2025 05:39:24
+URL: https://zoom.us/
+TITLE: Zoom
+TIME: 10.07.2025 04:05:18
+URL: https://outlook.com/
+TITLE: Outlook
+TIME: 21.07.2025 18:39:57
+URL: https://instagram.com/
+TITLE: Instagram
+TIME: 16.07.2025 08:00:03
+URL: https://gmail.com/
+TITLE: Gmail
+TIME: 27.07.2025 08:33:25
+URL: https://trello.com/
+TITLE: Trello
+TIME: 10.07.2025 13:32:17
+URL: https://teamviewer.com/
+TITLE: Teamviewer
+TIME: 20.07.2025 06:04:49
+URL: https://twitter.com/
+TITLE: Twitter
+TIME: 18.07.2025 21:28:43
+URL: https://asana.com/
+TITLE: Asana
+TIME: 30.07.2025 08:54:00
+URL: https://notion.so/
+TITLE: Notion.So
+TIME: 27.07.2025 16:46:32
+URL: https://trello.com/
+TITLE: Trello
+TIME: 28.07.2025 08:23:13
+URL: https://wikipedia.org/
+TITLE: Wikipedia.Org
+TIME: 09.07.2025 22:08:32
+URL: https://1password.com/
+TITLE: 1Password
+TIME: 21.07.2025 19:01:08
+URL: https://asana.com/
+TITLE: Asana
+TIME: 24.07.2025 04:53:20
+URL: https://salesforce.com/
+TITLE: Salesforce
+TIME: 28.07.2025 13:45:53
+URL: https://gmail.com/
+TITLE: Gmail
+TIME: 23.07.2025 02:46:33
+URL: https://teamviewer.com/
+TITLE: Teamviewer
+TIME: 18.07.2025 16:55:19
+URL: https://trello.com/
+TITLE: Trello
+TIME: 13.07.2025 12:49:21
+URL: https://ebay.com/
+TITLE: Ebay
+TIME: 28.07.2025 22:41:12
+URL: https://github.com/
+TITLE: GitHub
+TIME: 25.07.2025 22:50:03
+URL: https://1password.com/
+TITLE: 1Password
+TIME: 09.07.2025 13:33:49
+URL: https://paypal.com/
+TITLE: PayPal
+TIME: 09.07.2025 19:06:15
+URL: https://paypal.com/
+TITLE: PayPal
+TIME: 30.07.2025 07:58:44
+URL: https://zoom.us/
+TITLE: Zoom
+TIME: 11.07.2025 19:10:43
+URL: https://lastpass.com/
+TITLE: Lastpass
+TIME: 21.07.2025 22:10:18
+URL: https://github.com/
+TITLE: GitHub
+TIME: 12.07.2025 14:08:27
+URL: https://gmail.com/
+TITLE: Gmail
+TIME: 26.07.2025 22:07:51
+URL: https://teamviewer.com/
+TITLE: Teamviewer
+TIME: 25.07.2025 23:27:07
+URL: https://lastpass.com/
+TITLE: Lastpass
+TIME: 18.07.2025 01:52:54
+URL: https://dropbox.com/
+TITLE: Dropbox
+TIME: 21.07.2025 07:01:39
+URL: https://lastpass.com/
+TITLE: Lastpass
+TIME: 22.07.2025 18:21:05
+URL: https://google.com/
+TITLE: Google
+TIME: 28.07.2025 22:42:49
+URL: https://linkedin.com/
+TITLE: LinkedIn
+TIME: 12.07.2025 08:52:05
+URL: https://youtube.com/
+TITLE: YouTube
+TIME: 17.07.2025 06:44:16
+URL: https://slack.com/
+TITLE: Slack
+TIME: 12.07.2025 23:58:28
+URL: https://instagram.com/
+TITLE: Instagram
+TIME: 18.07.2025 17:21:00
+URL: https://wikipedia.org/
+TITLE: Wikipedia.Org
+TIME: 10.07.2025 12:13:19
+URL: https://facebook.com/
+TITLE: Facebook
+TIME: 25.07.2025 20:02:54
+URL: https://github.com/
+TITLE: GitHub
+TIME: 11.07.2025 10:52:26
+URL: https://outlook.com/
+TITLE: Outlook
+TIME: 21.07.2025 23:34:42
+URL: https://spotify.com/
+TITLE: Spotify - Web Player
+TIME: 10.07.2025 02:48:49

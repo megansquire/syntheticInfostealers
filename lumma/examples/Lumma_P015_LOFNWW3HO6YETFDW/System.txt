@@ -1,0 +1,47 @@
+# Buy now: ARHONT CLOUD || t.me/ArhontCloud
+# Buy&Sell logs: TG @ArhontSupport
+- LummaC2 Build: Nov 15 2024
+- LID: hRjzG3--GUNNAR
+- Configuration: f095d9544f4ff705d7852d730e7de1c9
+- Path: C:\Users\priya\Downloads\Installer.exe
+
+- OS Version: Windows 10 Enterprise (10.0.19045) x64
+- Local Date: 30.07.2025 13:19:25
+- Time Zone: (UTC+05:30) New Delhi
+- Install Date: 14.10.2023 13:19:25
+- Elevated: true
+- Computer: DESKTOP-2YPBSUM5
+- User: priya
+- Domain: 
+- Hostname: DESKTOP-2YPBSUM5
+- NetBIOS: DESKTOP-2YPBSUM5
+- Language: en-IN
+- Anti Virus:
+	- Windows_Defender
+- HWID: E1H8LN3G78DI3MOB
+- RAM Size: 16384MB
+- CPU Vendor: GenuineIntel
+- CPU Name: Intel(R) Core(TM) i5-10400 @ 2.90GHz
+- CPU Threads: 6
+- CPU Cores: 3
+- GPU: Intel UHD Graphics 630
+- Display resolution: 1366x768
+
+- IP Address: 117.192.156.51
+- Time: 30.07.2025 18:19:25 (sig:1753913965.0fdb170a75ba3a1484dae339c41b69fd)
+- Country: IN
+
+------------------------------------
+
+Automated log store >> t.me/lummamarketbot
+Tens of thousands of logs for sale, rating system, search by filters and countries, hundreds of sellers with their own storefronts. Unique development based on MaaS from LummaC2.
+Purchase quality material right now - t.me/lummamarketbot
+
+------------------------------------
+
+
+LIT ENERGY — это для тех, кто готов залетать в самый лютый движ, газовать до отсечки и с непоколебимой волей двигаться вперед, чтобы забирать свое.
+Увеличенное содержание энергетических веществ для максимальной подростки заряда и только лучшие ингредиенты: натуральные соки, не вызывающие изжогу.
+Линейка вкусов на выбор: Classic, Original, Blueberry, Mango Coconut.
+
+Приобрести: litenergy.ru
