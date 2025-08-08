@@ -1,0 +1,24 @@
+Microsoft Edge
+Microsoft Edge WebView2 Runtime
+Microsoft Visual C++ 2015-2022 Redistributable (x64)
+Microsoft Visual C++ 2015-2022 Redistributable (x86)
+Microsoft Visual C++ 2013 Redistributable (x64)
+Microsoft Visual C++ 2010 Redistributable (x64)
+Microsoft .NET Framework 4.8
+.NET Runtime 6.0.25
+.NET Runtime 7.0.14
+Windows Security
+Google Chrome
+Square Point of Sale
+Adobe Acrobat Pro DC
+Malwarebytes
+Mailchimp
+TurboTax Business
+QuickBooks Desktop 2024
+Canva
+WinRAR
+Node.js
+FileZilla
+TeamViewer
+Microsoft Office Professional 2021
+Microsoft Edge

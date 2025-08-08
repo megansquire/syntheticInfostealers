@@ -1,0 +1,38 @@
+# Buy now: ARHONT CLOUD || t.me/ArhontCloud
+# Buy&Sell logs: TG @ArhontSupport
+- LummaC2 Build: Oct 21 2024
+- LID: xKj9Lm--STORM
+- Configuration: b119ffdf665152d64df9899bc2b3cb8c
+- Path: C:\Temp\RarSFX0\Setup.exe
+
+- OS Version: Windows 10 Home (10.0.19045) x64
+- Local Date: 30.07.2025 13:19:25
+- Time Zone: (UTC-05:00) Eastern Time (US & Canada)
+- Install Date: 09.11.2022 13:19:25
+- Elevated: true
+- Computer: DESKTOP-G5OZ7F73
+- User: patri
+- Domain: 
+- Hostname: DESKTOP-G5OZ7F73
+- NetBIOS: DESKTOP-G5OZ7F73
+- Language: en-US
+- Anti Virus:
+	- McAfee
+- HWID: G1GBT6NUBTZ4ZC54
+- RAM Size: 8192MB
+- CPU Vendor: AuthenticAMD
+- CPU Name: AMD Ryzen 5 3600 @ 3.60GHz
+- CPU Threads: 6
+- CPU Cores: 3
+- GPU: NVIDIA GeForce GTX 1650
+- Display resolution: 1366x768
+
+- IP Address: 19.178.112.153
+- Time: 30.07.2025 08:19:25 (sig:1753877965.70a676c3ae339d4dde78174a3d3284e4)
+- Country: US
+
+------------------------------------
+
+Automated log store >> t.me/lummamarketplace_bot
+Tens of thousands of logs for sale, rating system, search by filters and countries, hundreds of sellers with their own storefronts. Unique development based on MaaS from LummaC2.
+Purchase quality material right now - t.me/lummamarketplace_bot
