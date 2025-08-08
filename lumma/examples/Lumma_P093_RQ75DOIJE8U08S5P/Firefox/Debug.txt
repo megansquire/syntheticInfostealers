@@ -1,0 +1,19 @@
+reg
+bcp
+prc
+acp - 0
+efd
+epf
+eas
+esv
+ese
+ebp
+epl
+erc - 0
+msg - 1/0
+ext
+aps
+apa
+res - 4989
+dat - 3720389
+fin
