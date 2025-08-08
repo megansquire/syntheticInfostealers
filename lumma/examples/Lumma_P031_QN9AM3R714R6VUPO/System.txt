@@ -1,0 +1,38 @@
+# Buy now: TG @lummanowork
+# Buy&Sell logs: @lummamarketbot
+- LummaC2 Build: Oct 21 2024
+- LID: hRjzG3--GUNNAR
+- Configuration: 1a8416eec43866ad8402233bb3cb142a
+- Path: C:\Users\maxim\Downloads\Installer.exe
+
+- OS Version: Windows 10 Pro (10.0.19045) x64
+- Local Date: 30.07.2025 13:19:25
+- Time Zone: (UTC+01:00) Paris
+- Install Date: 15.08.2023 13:19:25
+- Elevated: false
+- Computer: DESKTOP-PIRHMF3P
+- User: maxim
+- Domain: 
+- Hostname: DESKTOP-PIRHMF3P
+- NetBIOS: DESKTOP-PIRHMF3P
+- Language: fr-FR
+- Anti Virus:
+	- Kaspersky
+- HWID: CWELMVYX289X2X80
+- RAM Size: 65536MB
+- CPU Vendor: AuthenticAMD
+- CPU Name: AMD Ryzen 9 7950X @ 4.50GHz
+- CPU Threads: 24
+- CPU Cores: 12
+- GPU: NVIDIA GeForce RTX 4080
+- Display resolution: 3440x1440
+
+- IP Address: 82.64.156.64
+- Time: 30.07.2025 14:19:25 (sig:1753899565.d08a680e5d23ae70571c1d563ee816b7)
+- Country: FR
+
+------------------------------------
+
+Automated log store >> t.me/lummamarketbot
+Tens of thousands of logs for sale, rating system, search by filters and countries, hundreds of sellers with their own storefronts. Unique development based on MaaS from LummaC2.
+Purchase quality material right now - t.me/lummamarketbot

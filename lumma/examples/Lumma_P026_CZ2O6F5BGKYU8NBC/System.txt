@@ -1,0 +1,38 @@
+# Buy now: TG @lummanowork
+# Buy&Sell logs: @lummamarketplace_bot
+- LummaC2 Build: Nov 15 2024
+- LID: hRjzG3--GUNNAR
+- Configuration: 1fdd6cf0cfc18336b64c017c6c3650de
+- Path: C:\WINDOWS\SysWOW64\msiexec.exe
+
+- OS Version: Windows 10 Pro (10.0.19045) x64
+- Local Date: 30.07.2025 13:19:25
+- Time Zone: (UTC+00:00) UTC
+- Install Date: 24.02.2024 13:19:25
+- Elevated: false
+- Computer: DESKTOP-30E4BCCF
+- User: diego
+- Domain: 
+- Hostname: DESKTOP-30E4BCCF
+- NetBIOS: DESKTOP-30E4BCCF
+- Language: en-US
+- Anti Virus:
+	- Windows_Defender
+- HWID: KV3G8KHY2E6YGKXW
+- RAM Size: 8192MB
+- CPU Vendor: GenuineIntel
+- CPU Name: Intel(R) Core(TM) i5-10400 @ 2.90GHz
+- CPU Threads: 8
+- CPU Cores: 4
+- GPU: NVIDIA GeForce GTX 1060 3GB
+- Display resolution: 1366x768
+
+- IP Address: 209.133.9.128
+- Time: 30.07.2025 13:19:25 (sig:1753895965.ebcf74b00dc0486feed4eb5ff7f881bd)
+- Country: MX
+
+------------------------------------
+
+Automated log store >> t.me/lummamarketbot
+Tens of thousands of logs for sale, rating system, search by filters and countries, hundreds of sellers with their own storefronts. Unique development based on MaaS from LummaC2.
+Purchase quality material right now - t.me/lummamarketbot

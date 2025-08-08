@@ -1,0 +1,41 @@
+reg
+bps
+bpa
+bcp
+prc
+acp - 0
+efd
+epf
+eas
+esv
+ese
+ebp
+epl
+erc - 0
+msg - 1/0
+ext
+aps
+apa
+res - 2045
+dat - 2460971
+fin
+bps
+bpa
+bcp
+prc
+acp - 0
+efd
+epf
+eas
+esv
+ese
+ebp
+epl
+erc - 0
+msg - 1/0
+ext
+aps
+apa
+res - 2045
+dat - 2460971
+fin

@@ -1,0 +1,225 @@
+URL: https://facebook.com/
+TITLE: Facebook
+TIME: 01.01.1601 02:30:17
+URL: https://amazon.com/
+TITLE: Amazon.com - Online Shopping
+TIME: 01.01.1601 02:30:17
+URL: https://twitter.com/
+TITLE: Twitter
+TIME: 01.01.1601 02:30:17
+URL: https://spotify.com/
+TITLE: Spotify - Web Player
+TIME: 01.01.1601 02:30:17
+URL: https://linkedin.com/
+TITLE: LinkedIn
+TIME: 01.01.1601 02:30:17
+URL: https://nexusmods.com/
+TITLE: Nexusmods
+TIME: 01.01.1601 02:30:17
+URL: https://wikipedia.org/
+TITLE: Wikipedia.Org
+TIME: 01.01.1601 02:30:17
+URL: https://epicgames.com/
+TITLE: Epicgames
+TIME: 01.01.1601 02:30:17
+URL: https://corsair.com/
+TITLE: Corsair
+TIME: 01.01.1601 02:30:17
+URL: https://reddit.com/
+TITLE: Reddit - Dive into anything
+TIME: 01.01.1601 02:30:17
+URL: https://gamespot.com/
+TITLE: Gamespot
+TIME: 01.01.1601 02:30:17
+URL: https://ign.com/
+TITLE: Ign
+TIME: 01.01.1601 02:30:17
+URL: https://ign.com/
+TITLE: Ign
+TIME: 01.01.1601 02:30:17
+URL: https://discord.com/
+TITLE: Discord
+TIME: 01.01.1601 02:30:17
+URL: https://youtube.com/
+TITLE: YouTube
+TIME: 01.01.1601 02:30:17
+URL: https://corsair.com/
+TITLE: Corsair
+TIME: 21.07.2025 12:38:57
+URL: https://ign.com/
+TITLE: Ign
+TIME: 18.07.2025 08:39:23
+URL: https://ebay.com/
+TITLE: Ebay
+TIME: 29.07.2025 01:50:04
+URL: https://amazon.com/
+TITLE: Amazon.com - Online Shopping
+TIME: 30.07.2025 07:06:40
+URL: https://reddit.com/
+TITLE: Reddit - Dive into anything
+TIME: 15.07.2025 20:06:40
+URL: https://pcgamer.com/
+TITLE: Pcgamer
+TIME: 06.07.2025 13:03:00
+URL: https://nexusmods.com/
+TITLE: Nexusmods
+TIME: 15.07.2025 13:55:09
+URL: https://wikipedia.org/
+TITLE: Wikipedia.Org
+TIME: 05.07.2025 02:04:20
+URL: https://corsair.com/
+TITLE: Corsair
+TIME: 10.07.2025 06:25:22
+URL: https://netflix.com/
+TITLE: Netflix
+TIME: 10.07.2025 18:51:51
+URL: https://facebook.com/
+TITLE: Facebook
+TIME: 29.07.2025 06:37:07
+URL: https://nexusmods.com/
+TITLE: Nexusmods
+TIME: 06.07.2025 19:39:11
+URL: https://pcgamer.com/
+TITLE: Pcgamer
+TIME: 23.07.2025 18:34:44
+URL: https://wikipedia.org/
+TITLE: Wikipedia.Org
+TIME: 16.07.2025 07:20:46
+URL: https://instagram.com/
+TITLE: Instagram
+TIME: 15.07.2025 16:05:00
+URL: https://ign.com/
+TITLE: Ign
+TIME: 03.07.2025 18:23:39
+URL: https://twitch.tv/
+TITLE: Twitch
+TIME: 19.07.2025 10:30:29
+URL: https://netflix.com/
+TITLE: Netflix
+TIME: 20.07.2025 10:52:27
+URL: https://nvidia.com/
+TITLE: Nvidia
+TIME: 06.07.2025 08:53:17
+URL: https://instagram.com/
+TITLE: Instagram
+TIME: 26.07.2025 22:45:00
+URL: https://gamespot.com/
+TITLE: Gamespot
+TIME: 26.07.2025 08:32:40
+URL: https://nexusmods.com/
+TITLE: Nexusmods
+TIME: 07.07.2025 21:46:17
+URL: https://outlook.com/
+TITLE: Outlook
+TIME: 05.07.2025 21:44:53
+URL: https://steam.com/
+TITLE: Steam
+TIME: 03.07.2025 22:14:08
+URL: https://netflix.com/
+TITLE: Netflix
+TIME: 10.07.2025 23:14:07
+URL: https://discord.com/
+TITLE: Discord
+TIME: 07.07.2025 09:18:14
+URL: https://twitch.tv/
+TITLE: Twitch
+TIME: 16.07.2025 14:17:16
+URL: https://discord.com/
+TITLE: Discord
+TIME: 23.07.2025 11:26:55
+URL: https://github.com/
+TITLE: GitHub
+TIME: 28.07.2025 17:30:03
+URL: https://nexusmods.com/
+TITLE: Nexusmods
+TIME: 21.07.2025 11:59:27
+URL: https://www.google.com/search?q=gaming+chair+deals
+TITLE: gaming chair deals - Google Search
+TIME: 16.07.2025 16:17:28
+URL: https://google.com/
+TITLE: Google
+TIME: 25.07.2025 19:29:18
+URL: https://discord.com/
+TITLE: Discord
+TIME: 13.07.2025 04:54:42
+URL: https://google.com/
+TITLE: Google
+TIME: 21.07.2025 13:01:55
+URL: https://twitter.com/
+TITLE: Twitter
+TIME: 25.07.2025 02:05:22
+URL: https://nexusmods.com/
+TITLE: Nexusmods
+TIME: 26.07.2025 23:46:41
+URL: https://razer.com/
+TITLE: Razer
+TIME: 11.07.2025 00:05:48
+URL: https://discord.com/
+TITLE: Discord
+TIME: 12.07.2025 13:11:26
+URL: https://twitter.com/
+TITLE: Twitter
+TIME: 21.07.2025 00:35:58
+URL: https://linkedin.com/
+TITLE: LinkedIn
+TIME: 28.07.2025 07:26:04
+URL: https://steam.com/
+TITLE: Steam
+TIME: 22.07.2025 06:41:43
+URL: https://razer.com/
+TITLE: Razer
+TIME: 24.07.2025 12:39:20
+URL: https://gamespot.com/
+TITLE: Gamespot
+TIME: 20.07.2025 12:30:27
+URL: https://linkedin.com/
+TITLE: LinkedIn
+TIME: 10.07.2025 06:54:18
+URL: https://ign.com/
+TITLE: Ign
+TIME: 22.07.2025 09:19:09
+URL: https://linkedin.com/
+TITLE: LinkedIn
+TIME: 12.07.2025 02:42:42
+URL: https://paypal.com/
+TITLE: PayPal
+TIME: 18.07.2025 03:07:55
+URL: https://corsair.com/
+TITLE: Corsair
+TIME: 17.07.2025 15:15:23
+URL: https://youtube.com/
+TITLE: YouTube
+TIME: 18.07.2025 12:10:09
+URL: https://pcgamer.com/
+TITLE: Pcgamer
+TIME: 05.07.2025 13:58:46
+URL: https://pcgamer.com/
+TITLE: Pcgamer
+TIME: 13.07.2025 13:38:16
+URL: https://outlook.com/
+TITLE: Outlook
+TIME: 20.07.2025 02:30:05
+URL: https://razer.com/
+TITLE: Razer
+TIME: 27.07.2025 17:04:08
+URL: https://twitch.tv/
+TITLE: Twitch
+TIME: 11.07.2025 02:20:12
+URL: https://twitter.com/
+TITLE: Twitter
+TIME: 02.07.2025 19:15:15
+URL: https://outlook.com/
+TITLE: Outlook
+TIME: 11.07.2025 02:55:00
+URL: https://instagram.com/
+TITLE: Instagram
+TIME: 22.07.2025 09:36:53
+URL: https://ign.com/
+TITLE: Ign
+TIME: 22.07.2025 23:13:27
+URL: https://netflix.com/
+TITLE: Netflix
+TIME: 25.07.2025 14:58:52
+URL: https://twitter.com/
+TITLE: Twitter
+TIME: 18.07.2025 11:46:07

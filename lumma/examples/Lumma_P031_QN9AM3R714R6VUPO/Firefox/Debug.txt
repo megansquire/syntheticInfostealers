@@ -1,0 +1,41 @@
+reg
+bps
+bpa
+bcp
+prc
+acp - 0
+efd
+epf
+eas
+esv
+ese
+ebp
+epl
+erc - 0
+msg - 1/0
+ext
+aps
+apa
+res - 3896
+dat - 888630
+fin
+bps
+bpa
+bcp
+prc
+acp - 0
+efd
+epf
+eas
+esv
+ese
+ebp
+epl
+erc - 0
+msg - 1/0
+ext
+aps
+apa
+res - 3896
+dat - 888630
+fin
