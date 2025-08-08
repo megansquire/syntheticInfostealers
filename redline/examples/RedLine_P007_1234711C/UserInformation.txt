@@ -1,0 +1,29 @@
+CLOUD LOGS - @REDLINECLOUD | SHOP - @LOGSREDLINE_BOT | SUPPORT - @EZREDLINE
+
+Build ID: premium logs by fate
+IP: 10.0.18.84
+FileLocation: C:\Windows\Microsoft.NET\Framework\v4.0.30319\RegSvcs.exe
+UserName: Lisa
+MachineName: DESKTOP-V5SPA3J5
+Country: US
+Zip Code: 76286
+Location: Raleigh, Raleigh
+HWID: AD756CBE958534638ACDD82441B0256F
+Current Language: English (United States)
+ScreenSize: {Width=1366, Height=768}
+TimeZone: (UTC+00:00) Coordinated Universal Time
+Operation System: Windows_10_Home x64
+Log date: 7/29/2025 2:27:03 PM
+
+Available KeyboardLayouts: 
+English (United States)
+
+
+Hardwares: 
+Name: Total of RAM, 8192.00 MB or 8589934592 bytes
+Name: AMD Ryzen 3 3200G, 4 Cores
+Name: Intel(R) UHD Graphics 630, 4294967296 bytes
+
+
+Anti-Viruses: 
+Windows Defender

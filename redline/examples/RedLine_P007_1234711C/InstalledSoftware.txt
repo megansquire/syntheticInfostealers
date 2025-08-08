@@ -1,0 +1,13 @@
+META_DATA
+1) Bitwarden [2024.6.2]
+2) Exodus Wallet [23.12.11]
+3) Intel(R) Chipset Device Software [10.1.18383.8213]
+4) Intel(R) Management Engine Components [2144.15.0.2298]
+5) Ledger Live [2.77.2]
+6) Malwarebytes [4.5.31.286]
+7) MetaMask [11.7.1]
+8) Microsoft Edge [126.0.2592.87]
+9) Microsoft Edge WebView2 Runtime [126.0.2592.87]
+10) Microsoft OneDrive [24.116.0602.0002]
+11) Microsoft Visual C++ 2015-2022 Redistributable (x64) [14.34.31931]
+12) Microsoft Visual C++ 2015-2022 Redistributable (x86) [14.34.31931]

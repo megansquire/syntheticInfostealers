@@ -1,0 +1,18 @@
+META_DATA
+email: hiroshi.pancake@workshopdata.demo
+user[email]: hiroshi.pancake@workshopdata.demo
+login[email]: hiroshi.pancake@workshopdata.demo
+email: h.pancake@finance.sim
+user[email]: hiroshi.pancake@workshopdata.demo
+email: h.pancake@finance.sim
+login[email]: h.pancake@finance.sim
+login[email]: h.pancake@finance.sim
+user[email]: hiroshi.pancake@workshopdata.demo
+email: h.pancake@finance.sim
+email: hiroshi.pancake@workshopdata.demo
+email: h.pancake@finance.sim
+user[email]: h.pancake@finance.sim
+user[email]: h.pancake@finance.sim
+user[email]: hiroshi.pancake@workshopdata.demo
+login[email]: hiroshi.pancake@workshopdata.demo
+email: hiroshi.pancake@workshopdata.demo

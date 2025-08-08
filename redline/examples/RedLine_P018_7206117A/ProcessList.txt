@@ -1,0 +1,245 @@
+META_DATA
+ID: [1523]
+Name: [svchost.exe]
+CommandLine: [C:\WINDOWS\system32\svchost.exe -k utcsvc -p]
+
+ID: [2112]
+Name: [msedge.exe]
+CommandLine: ["C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer]
+
+ID: [2880]
+Name: [RuntimeBroker.exe]
+CommandLine: [C:\Windows\System32\RuntimeBroker.exe]
+
+ID: [4355]
+Name: [Registry]
+CommandLine: []
+
+ID: [4542]
+Name: [services.exe]
+CommandLine: []
+
+ID: [5097]
+Name: [svchost.exe]
+CommandLine: [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+
+ID: [7990]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [8339]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [8846]
+Name: [chrome.exe]
+CommandLine: []
+
+ID: [8918]
+Name: [msedge.exe]
+CommandLine: ["C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer]
+
+ID: [9391]
+Name: [msedge.exe]
+CommandLine: []
+
+ID: [10467]
+Name: [svchost.exe]
+CommandLine: [C:\WINDOWS\system32\svchost.exe -k utcsvc -p]
+
+ID: [16484]
+Name: [chrome.exe]
+CommandLine: []
+
+ID: [17224]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [19151]
+Name: [rundll32.exe]
+CommandLine: []
+
+ID: [19694]
+Name: [chrome.exe]
+CommandLine: []
+
+ID: [22835]
+Name: [chrome.exe]
+CommandLine: []
+
+ID: [22940]
+Name: [wininit.exe]
+CommandLine: []
+
+ID: [25095]
+Name: [MpCmdRun.exe]
+CommandLine: [C:\Program Files\Windows Defender\MpCmdRun.exe]
+
+ID: [28939]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [28948]
+Name: [lsass.exe]
+CommandLine: []
+
+ID: [31990]
+Name: [chrome.exe]
+CommandLine: []
+
+ID: [33995]
+Name: [chrome.exe]
+CommandLine: []
+
+ID: [35968]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [38005]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [39707]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [43562]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [43820]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [46098]
+Name: [smss.exe]
+CommandLine: []
+
+ID: [46903]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [47904]
+Name: [chrome.exe]
+CommandLine: []
+
+ID: [48193]
+Name: [svchost.exe]
+CommandLine: [C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p]
+
+ID: [50906]
+Name: [chrome.exe]
+CommandLine: []
+
+ID: [53385]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [53650]
+Name: [dwm.exe]
+CommandLine: []
+
+ID: [54277]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [54499]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [55835]
+Name: [svchost.exe]
+CommandLine: [C:\WINDOWS\system32\svchost.exe -k utcsvc -p]
+
+ID: [56818]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [59263]
+Name: [svchost.exe]
+CommandLine: [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+
+ID: [59605]
+Name: [System]
+CommandLine: []
+
+ID: [61954]
+Name: [winlogon.exe]
+CommandLine: []
+
+ID: [62697]
+Name: [csrss.exe]
+CommandLine: []
+
+ID: [66386]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [67143]
+Name: [chrome.exe]
+CommandLine: []
+
+ID: [67814]
+Name: [SearchHost.exe]
+CommandLine: [C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe]
+
+ID: [68341]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [68622]
+Name: [chrome.exe]
+CommandLine: []
+
+ID: [70444]
+Name: [chrome.exe]
+CommandLine: []
+
+ID: [71581]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [76260]
+Name: [chrome.exe]
+CommandLine: []
+
+ID: [80192]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [82986]
+Name: [explorer.exe]
+CommandLine: []
+
+ID: [83309]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [87011]
+Name: [chrome.exe]
+CommandLine: []
+
+ID: [91486]
+Name: [msedge.exe]
+CommandLine: ["C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer]
+
+ID: [94445]
+Name: [svchost.exe]
+CommandLine: [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+
+ID: [94814]
+Name: [taskhostw.exe]
+CommandLine: [taskhostw.exe]
+
+ID: [95072]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [96271]
+Name: [msedge.exe]
+CommandLine: ["C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer]
+
+ID: [96835]
+Name: [chrome.exe]
+CommandLine: []
+

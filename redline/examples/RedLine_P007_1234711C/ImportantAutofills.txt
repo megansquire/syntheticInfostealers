@@ -1,0 +1,16 @@
+META_DATA
+email: lisa@marketingagency.workshop
+login[email]: lisa.kangaroo@syntheticmail.fake
+user[email]: lisa@marketingagency.workshop
+email: lisa@marketingagency.workshop
+user[email]: lisa.kangaroo@syntheticmail.fake
+email: lisa@marketingagency.workshop
+login[email]: lisa@marketingagency.workshop
+email: lisa.kangaroo@syntheticmail.fake
+login[email]: lisa@marketingagency.workshop
+user[email]: lisa@marketingagency.workshop
+login[email]: lisa@marketingagency.workshop
+login[email]: lisa.kangaroo@syntheticmail.fake
+login[email]: lisa@marketingagency.workshop
+email: lisa.kangaroo@syntheticmail.fake
+user[email]: lisa@marketingagency.workshop

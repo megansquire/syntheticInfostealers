@@ -1,0 +1,6 @@
+.kraken.com	TRUE	/	FALSE	1884246120	session	VoJJ9rqKl1I1EiMc2t_jR6d7dXD0HnM5y_FmFrIyNWGoo97TJlo5Cr75HsMkhpfEdNc-QFC2IHqWexnXpUPIOUrTkbPBCzSJ1O_DC7yp6cTytm
+.kraken.com	TRUE	/	TRUE	1848255684	cf_clearance	QxiShlgaW9vzAGegjeCGbS5lGWhar6_bAjG-28iFdpeudPhF7bEyWaTlIaFlD1eaCQWDze91rkKpUwkp5GnV6yfDHLGacUszk
+.facebook.com	TRUE	/	TRUE	1800396970	xs	a-F20kxxLAIg5ankZ1mYW6OLfanGTl1F41IrdNiPb_c1650_IO3bE6WG6zEY5-0U8OeE4tAtJ9GK3sHSEkqLLTIW2Xk9tw2L5uKoHQiZVBzpr9z5-xlc
+.coinbase.com	TRUE	/	TRUE	1837263224	cb_session	eHmHI2lm2p6YrmUmI42YGR6x2q4gwoq_FM2c8W2Ng7_cWM2Xgoixsd0IZk27D-ITJIY_5f
+.coinbase.com	TRUE	/	FALSE	1828342328	__cf_bm	aNsefE7Obu_Z7CJnTDpbqsR3pS9NCaSq8CDLvGdORPlRO-iy5DNGexv5Pq1EfwuZoW2pudpIQgsR_2Iuk0imJ_-x6DOkX8YFsW-uxuNYz
+.amazon.com	TRUE	/	TRUE	1895708894	ubid-main	JxyarGEmtIsWWcqMG6XOr9lvq6fxERLNDZhf0iDmYe9JNLrlagzJDnFxl-PEq-44ajetPsiHaHtWtWrlvUCM7T-xoZvqbuzLgC

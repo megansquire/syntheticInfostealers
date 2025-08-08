@@ -1,0 +1,237 @@
+META_DATA
+ID: [1410]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [1500]
+Name: [lsass.exe]
+CommandLine: []
+
+ID: [1534]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [2073]
+Name: [services.exe]
+CommandLine: []
+
+ID: [2467]
+Name: [chrome.exe]
+CommandLine: []
+
+ID: [2680]
+Name: [chrome.exe]
+CommandLine: []
+
+ID: [5465]
+Name: [svchost.exe]
+CommandLine: [C:\WINDOWS\system32\svchost.exe -k NetworkService -p]
+
+ID: [9599]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [10327]
+Name: [chrome.exe]
+CommandLine: []
+
+ID: [10558]
+Name: [firefox.exe]
+CommandLine: []
+
+ID: [12112]
+Name: [rundll32.exe]
+CommandLine: []
+
+ID: [13158]
+Name: [chrome.exe]
+CommandLine: []
+
+ID: [13243]
+Name: [svchost.exe]
+CommandLine: [C:\WINDOWS\system32\svchost.exe -k NetworkService -p]
+
+ID: [13279]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [17200]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [18881]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [21978]
+Name: [csrss.exe]
+CommandLine: []
+
+ID: [24161]
+Name: [chrome.exe]
+CommandLine: []
+
+ID: [24266]
+Name: [explorer.exe]
+CommandLine: []
+
+ID: [26628]
+Name: [chrome.exe]
+CommandLine: []
+
+ID: [26715]
+Name: [chrome.exe]
+CommandLine: []
+
+ID: [37567]
+Name: [svchost.exe]
+CommandLine: [C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p]
+
+ID: [38079]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [38092]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [42244]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [42882]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [43045]
+Name: [System]
+CommandLine: []
+
+ID: [43976]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [45453]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [48076]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [49164]
+Name: [SearchHost.exe]
+CommandLine: [C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe]
+
+ID: [51038]
+Name: [chrome.exe]
+CommandLine: ["C:\Program Files\Google\Chrome\Application\chrome.exe" --type=gpu-process]
+
+ID: [51867]
+Name: [svchost.exe]
+CommandLine: [C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p]
+
+ID: [54165]
+Name: [chrome.exe]
+CommandLine: []
+
+ID: [59432]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [59998]
+Name: [svchost.exe]
+CommandLine: [C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p]
+
+ID: [60207]
+Name: [svchost.exe]
+CommandLine: [C:\WINDOWS\system32\svchost.exe -k NetworkService -p]
+
+ID: [60680]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [62610]
+Name: [wininit.exe]
+CommandLine: []
+
+ID: [64647]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [66353]
+Name: [dwm.exe]
+CommandLine: []
+
+ID: [67954]
+Name: [Registry]
+CommandLine: []
+
+ID: [70023]
+Name: [winlogon.exe]
+CommandLine: []
+
+ID: [78004]
+Name: [svchost.exe]
+CommandLine: [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+
+ID: [79890]
+Name: [RuntimeBroker.exe]
+CommandLine: [C:\Windows\System32\RuntimeBroker.exe]
+
+ID: [80385]
+Name: [chrome.exe]
+CommandLine: []
+
+ID: [82000]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [83666]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [83921]
+Name: [svchost.exe]
+CommandLine: [C:\WINDOWS\system32\svchost.exe -k utcsvc -p]
+
+ID: [84362]
+Name: [svchost.exe]
+CommandLine: [C:\WINDOWS\system32\svchost.exe -k NetworkService -p]
+
+ID: [85977]
+Name: [svchost.exe]
+CommandLine: [C:\WINDOWS\system32\svchost.exe -k DcomLaunch -p]
+
+ID: [86059]
+Name: [chrome.exe]
+CommandLine: []
+
+ID: [88237]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [91568]
+Name: [svchost.exe]
+CommandLine: [C:\WINDOWS\system32\svchost.exe -k NetworkService -p]
+
+ID: [92916]
+Name: [svchost.exe]
+CommandLine: []
+
+ID: [95550]
+Name: [svchost.exe]
+CommandLine: [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+
+ID: [96025]
+Name: [taskhostw.exe]
+CommandLine: []
+
+ID: [96477]
+Name: [smss.exe]
+CommandLine: []
+
+ID: [97330]
+Name: [MpCmdRun.exe]
+CommandLine: [C:\Program Files\Windows Defender\MpCmdRun.exe]
+

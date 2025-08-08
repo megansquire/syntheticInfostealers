@@ -1,0 +1,36 @@
+================================================
+=                REDLINE STEALER                =
+=          Telegram: @redline_support           =
+================================================
+
+Build ID: @cyberking
+IP: 118.103.27.54
+FileLocation: C:\Windows\Microsoft.NET\Framework\v4.0.30319\RegSvcs.exe
+UserName: Hiroshi
+MachineName: DESKTOP-6I21DZAB
+Country: JP
+Zip Code: 758-7427
+Location: Tokyo, Tokyo
+HWID: 6623E8817401ABCC4DB7A77089CCACE6
+Current Language: Japanese (Japan)
+ScreenSize: {Width=1920, Height=1080}
+TimeZone: (UTC+00:00) Coordinated Universal Time
+Operation System: Windows_10_Pro x64
+Process Elevation: True
+Log date: 7/29/2025 2:27:03 PM
+
+Available KeyboardLayouts: 
+Japanese (Japan)
+English (United States)
+
+
+Hardwares: 
+Name: Total of RAM, 8192.00 MB or 8589934592 bytes
+Name: Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz, 6 Cores
+Name: Intel(R) UHD Graphics 630, 4294967296 bytes
+
+
+Anti-Viruses: 
+Windows Defender
+McAfee
+Firewall da McAfee
