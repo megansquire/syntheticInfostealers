@@ -1,0 +1,31 @@
+PersonaIDs infected by Lumma (from Infection column):
+P002,P008,P011,P015,P016,P017,P023,P026,P031,P035,P037,P049,P058,P059,P068,P069,P070,P073,P078,P085,P088,P091,P093,P096
+
+Details:
+P002: Michael Glitter - Windows_11_Pro (Remote_Worker)
+P008: Kevin Slipper - Windows_11_Pro (Remote_Worker)
+P011: Lukas Pineapple - Windows_10_Home (Remote_Worker)
+P015: Priya Bubble - Windows_11_Home (Remote_Worker)
+P016: Matteo Tornado - Windows_11_Pro (Remote_Worker)
+P017: Sophie Velcro - Windows_10_Home (Remote_Worker)
+P023: Viktor Cupcake - Windows_10_Pro (Gaming_Enthusiast)
+P026: Diego Spaceship - Windows_10_Home (Gaming_Enthusiast)
+P031: Maxime Galaxy - Windows_11_Pro (Gaming_Enthusiast)
+P035: Jakub Unicorn - Windows_11_Home (Gaming_Enthusiast)
+P037: Sofia Palmtree - Windows_10_Home (Student)
+P049: Mia Comet - Windows_10_Home (Student)
+P058: David Hammock - Windows_10_Home (Small_Business_Owner)
+P059: Fatima Glowstick - Windows_11_Home (Small_Business_Owner)
+P068: Thomas Windmill - Windows_11_Pro (Small_Business_Owner)
+P069: Patricia Jellyfish - Windows_10_Home (Small_Business_Owner)
+P070: Jean-Pierre Teacup - Windows_10_Home (Small_Business_Owner)
+P073: Priya Violin - Windows_11_Pro (Corporate_Executive)
+P078: Sophie Bookmark - Windows_10_Pro (Corporate_Executive)
+P085: Victoria Hedgehog - Windows_11_Pro (Corporate_Executive)
+P088: Dmitri Zebra - Windows_11_Pro (Tech_Worker)
+P091: Isabella Crayon - Windows_11_Home (Freelancer)
+P093: Sophie Dolphin - Windows_10_Home (Freelancer)
+P096: FAKE SCRAMBLER - Windows_7_Ultimate (Fake_Log)
+
+
+Total: 24 personas
