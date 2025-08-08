@@ -1,0 +1,243 @@
+URL: https://wikipedia.org/
+TITLE: Wikipedia.Org
+TIME: 01.01.1601 02:30:17
+URL: https://twitter.com/
+TITLE: Twitter
+TIME: 01.01.1601 02:30:17
+URL: https://wikipedia.org/
+TITLE: Wikipedia.Org
+TIME: 01.01.1601 02:30:17
+URL: https://coursera.org/
+TITLE: Coursera.Org
+TIME: 01.01.1601 02:30:17
+URL: https://paypal.com/
+TITLE: PayPal
+TIME: 01.01.1601 02:30:17
+URL: https://turnitin.com/
+TITLE: Turnitin
+TIME: 01.01.1601 02:30:17
+URL: https://paypal.com/
+TITLE: PayPal
+TIME: 01.01.1601 02:30:17
+URL: https://jstor.org/
+TITLE: Jstor.Org
+TIME: 01.01.1601 02:30:17
+URL: https://amazon.com/
+TITLE: Amazon.com - Online Shopping
+TIME: 01.01.1601 02:30:17
+URL: https://www.google.com/search?q=citation+generator
+TITLE: citation generator - Google Search
+TIME: 01.01.1601 02:30:17
+URL: https://www.google.com/search?q=weather
+TITLE: weather - Google Search
+TIME: 01.01.1601 02:30:17
+URL: https://linkedin.com/
+TITLE: LinkedIn
+TIME: 01.01.1601 02:30:17
+URL: https://google.com/
+TITLE: Google
+TIME: 01.01.1601 02:30:17
+URL: https://paypal.com/
+TITLE: PayPal
+TIME: 01.01.1601 02:30:17
+URL: https://spotify.com/
+TITLE: Spotify - Web Player
+TIME: 01.01.1601 02:30:17
+URL: https://reddit.com/
+TITLE: Reddit - Dive into anything
+TIME: 01.01.1601 02:30:17
+URL: https://github.com/
+TITLE: GitHub
+TIME: 01.01.1601 02:30:17
+URL: https://turnitin.com/
+TITLE: Turnitin
+TIME: 01.01.1601 02:30:17
+URL: https://turnitin.com/
+TITLE: Turnitin
+TIME: 01.01.1601 02:30:17
+URL: https://canvas.instructure.com/
+TITLE: Canvas.Instructure
+TIME: 23.07.2025 20:20:30
+URL: https://coursera.org/
+TITLE: Coursera.Org
+TIME: 18.07.2025 13:10:26
+URL: https://youtube.com/
+TITLE: YouTube
+TIME: 24.07.2025 20:46:34
+URL: https://amazon.com/
+TITLE: Amazon.com - Online Shopping
+TIME: 18.07.2025 03:48:07
+URL: https://grammarly.com/
+TITLE: Grammarly
+TIME: 11.07.2025 23:31:28
+URL: https://khanacademy.org/
+TITLE: Khanacademy.Org
+TIME: 11.07.2025 17:06:42
+URL: https://outlook.com/
+TITLE: Outlook
+TIME: 26.07.2025 19:19:50
+URL: https://wikipedia.org/
+TITLE: Wikipedia.Org
+TIME: 12.07.2025 01:40:31
+URL: https://ebay.com/
+TITLE: Ebay
+TIME: 19.07.2025 00:07:05
+URL: https://reddit.com/
+TITLE: Reddit - Dive into anything
+TIME: 13.07.2025 02:07:19
+URL: https://youtube.com/
+TITLE: YouTube
+TIME: 20.07.2025 00:55:37
+URL: https://wikipedia.org/
+TITLE: Wikipedia.Org
+TIME: 14.07.2025 11:06:43
+URL: https://github.com/
+TITLE: GitHub
+TIME: 22.07.2025 00:24:28
+URL: https://www.google.com/search?q=twitter
+TITLE: twitter - Google Search
+TIME: 27.07.2025 20:22:02
+URL: https://reddit.com/
+TITLE: Reddit - Dive into anything
+TIME: 20.07.2025 16:06:39
+URL: https://instagram.com/
+TITLE: Instagram
+TIME: 21.07.2025 13:54:46
+URL: https://khanacademy.org/
+TITLE: Khanacademy.Org
+TIME: 13.07.2025 14:35:21
+URL: https://turnitin.com/
+TITLE: Turnitin
+TIME: 29.07.2025 00:37:05
+URL: https://scholar.google.com/
+TITLE: Scholar.Google
+TIME: 22.07.2025 23:48:12
+URL: https://amazon.com/
+TITLE: Amazon.com - Online Shopping
+TIME: 23.07.2025 18:35:53
+URL: https://canvas.instructure.com/
+TITLE: Canvas.Instructure
+TIME: 27.07.2025 05:04:15
+URL: https://netflix.com/
+TITLE: Netflix
+TIME: 27.07.2025 06:45:46
+URL: https://spotify.com/
+TITLE: Spotify - Web Player
+TIME: 14.07.2025 21:16:41
+URL: https://spotify.com/
+TITLE: Spotify - Web Player
+TIME: 12.07.2025 13:24:53
+URL: https://instagram.com/
+TITLE: Instagram
+TIME: 22.07.2025 07:28:01
+URL: https://canvas.instructure.com/
+TITLE: Canvas.Instructure
+TIME: 12.07.2025 06:58:59
+URL: https://ebay.com/
+TITLE: Ebay
+TIME: 24.07.2025 16:48:00
+URL: https://canvas.instructure.com/
+TITLE: Canvas.Instructure
+TIME: 16.07.2025 22:12:54
+URL: https://linkedin.com/
+TITLE: LinkedIn
+TIME: 23.07.2025 08:53:57
+URL: https://www.google.com/search?q=time
+TITLE: time - Google Search
+TIME: 30.07.2025 03:33:11
+URL: https://reddit.com/
+TITLE: Reddit - Dive into anything
+TIME: 16.07.2025 14:37:57
+URL: https://instagram.com/
+TITLE: Instagram
+TIME: 23.07.2025 15:20:17
+URL: https://scholar.google.com/
+TITLE: Scholar.Google
+TIME: 23.07.2025 09:20:56
+URL: https://netflix.com/
+TITLE: Netflix
+TIME: 28.07.2025 23:18:50
+URL: https://wikipedia.org/
+TITLE: Wikipedia.Org
+TIME: 27.07.2025 10:50:10
+URL: https://wikipedia.org/
+TITLE: Wikipedia.Org
+TIME: 20.07.2025 17:05:39
+URL: https://spotify.com/
+TITLE: Spotify - Web Player
+TIME: 18.07.2025 13:07:20
+URL: https://paypal.com/
+TITLE: PayPal
+TIME: 15.07.2025 14:21:21
+URL: https://chegg.com/
+TITLE: Chegg
+TIME: 18.07.2025 20:21:06
+URL: https://quizlet.com/
+TITLE: Quizlet
+TIME: 25.07.2025 11:38:22
+URL: https://canvas.instructure.com/
+TITLE: Canvas.Instructure
+TIME: 19.07.2025 04:41:42
+URL: https://grammarly.com/
+TITLE: Grammarly
+TIME: 20.07.2025 16:36:42
+URL: https://twitter.com/
+TITLE: Twitter
+TIME: 15.07.2025 07:35:46
+URL: https://wikipedia.org/
+TITLE: Wikipedia.Org
+TIME: 15.07.2025 02:13:44
+URL: https://khanacademy.org/
+TITLE: Khanacademy.Org
+TIME: 17.07.2025 01:19:21
+URL: https://outlook.com/
+TITLE: Outlook
+TIME: 22.07.2025 15:10:37
+URL: https://linkedin.com/
+TITLE: LinkedIn
+TIME: 13.07.2025 16:05:51
+URL: https://paypal.com/
+TITLE: PayPal
+TIME: 27.07.2025 05:24:28
+URL: https://www.google.com/search?q=netflix
+TITLE: netflix - Google Search
+TIME: 28.07.2025 02:01:13
+URL: https://turnitin.com/
+TITLE: Turnitin
+TIME: 11.07.2025 14:44:45
+URL: https://khanacademy.org/
+TITLE: Khanacademy.Org
+TIME: 19.07.2025 05:54:44
+URL: https://paypal.com/
+TITLE: PayPal
+TIME: 16.07.2025 01:51:52
+URL: https://facebook.com/
+TITLE: Facebook
+TIME: 29.07.2025 16:19:36
+URL: https://wikipedia.org/
+TITLE: Wikipedia.Org
+TIME: 23.07.2025 20:03:24
+URL: https://github.com/
+TITLE: GitHub
+TIME: 28.07.2025 06:05:42
+URL: https://github.com/
+TITLE: GitHub
+TIME: 13.07.2025 06:58:26
+URL: https://instagram.com/
+TITLE: Instagram
+TIME: 27.07.2025 19:47:24
+URL: https://twitter.com/
+TITLE: Twitter
+TIME: 14.07.2025 01:18:18
+URL: https://spotify.com/
+TITLE: Spotify - Web Player
+TIME: 27.07.2025 22:15:15
+URL: https://khanacademy.org/
+TITLE: Khanacademy.Org
+TIME: 29.07.2025 02:23:04
+URL: https://ebay.com/
+TITLE: Ebay
+TIME: 28.07.2025 03:52:16
+URL: https://paypal.com/
+TITLE: PayPal
+TIME: 21.07.2025 01:23:18

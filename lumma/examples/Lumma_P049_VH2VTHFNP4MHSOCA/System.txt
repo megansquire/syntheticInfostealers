@@ -1,0 +1,47 @@
+# Buy now: TG @lummanowork
+# Buy&Sell logs: @lummamarketplace_bot
+- LummaC2 Build: Nov 21 2024
+- LID: @ArhontCloud--@hydroshot
+- Configuration: 9a6889c9bfa19079dcab8e736df4acde
+- Path: C:\Users\mia\AppData\Local\Temp\Rar$EXb{random}.{random}\Setup.exe
+
+- OS Version: Windows 10 Pro (10.0.19045) x64
+- Local Date: 30.07.2025 13:19:25
+- Time Zone: UTC+1
+- Install Date: 28.06.2023 13:19:25
+- Elevated: false
+- Computer: DESKTOP-6Y5G0D66
+- User: mia
+- Domain: 
+- Hostname: DESKTOP-6Y5G0D66
+- NetBIOS: DESKTOP-6Y5G0D66
+- Language: en-BE
+- Anti Virus:
+	- Windows_Defender
+- HWID: BPASK7VHKUA6ZFG0
+- RAM Size: 4096MB
+- CPU Vendor: GenuineIntel
+- CPU Name: Intel(R) Pentium(R) Gold G6400 @ 4.00GHz
+- CPU Threads: 4
+- CPU Cores: 2
+- GPU: Intel UHD Graphics 630
+- Display resolution: 1920x1080
+
+- IP Address: 37.133.189.125
+- Time: 30.07.2025 14:19:25 (sig:1753899565.5f7a0530a96d0799cc440d70fa0e808f)
+- Country: ES
+
+------------------------------------
+
+Automated log store >> t.me/lummamarketplace_bot
+Tens of thousands of logs for sale, rating system, search by filters and countries, hundreds of sellers with their own storefronts. Unique development based on MaaS from LummaC2.
+Purchase quality material right now - t.me/lummamarketplace_bot
+
+------------------------------------
+
+
+LIT ENERGY — это для тех, кто готов залетать в самый лютый движ, газовать до отсечки и с непоколебимой волей двигаться вперед, чтобы забирать свое.
+Увеличенное содержание энергетических веществ для максимальной подростки заряда и только лучшие ингредиенты: натуральные соки, не вызывающие изжогу.
+Линейка вкусов на выбор: Classic, Original, Blueberry, Mango Coconut.
+
+Приобрести: litenergy.ru

@@ -1,0 +1,24 @@
+Microsoft Edge
+Microsoft Edge WebView2 Runtime
+Microsoft Visual C++ 2015-2022 Redistributable (x64)
+Microsoft Visual C++ 2015-2022 Redistributable (x86)
+Microsoft Visual C++ 2013 Redistributable (x64)
+Microsoft Visual C++ 2010 Redistributable (x64)
+Microsoft .NET Framework 4.8
+.NET Runtime 6.0.25
+.NET Runtime 7.0.14
+Windows Security
+Discord
+Spotify
+Mozilla Firefox
+MATLAB
+Anki
+Grammarly for Microsoft Office
+Google Chrome
+VLC media player
+Notepad++
+f.lux
+Visual Studio Code
+Mendeley Desktop
+Adobe Creative Cloud
+Microsoft Office 365

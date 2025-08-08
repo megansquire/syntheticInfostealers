@@ -1,0 +1,273 @@
+URL: https://wikipedia.org/
+TITLE: Wikipedia.Org
+TIME: 01.01.1601 02:30:17
+URL: https://github.com/
+TITLE: GitHub
+TIME: 01.01.1601 02:30:17
+URL: https://facebook.com/
+TITLE: Facebook
+TIME: 01.01.1601 02:30:17
+URL: https://grammarly.com/
+TITLE: Grammarly
+TIME: 01.01.1601 02:30:17
+URL: https://gmail.com/
+TITLE: Gmail
+TIME: 01.01.1601 02:30:17
+URL: https://netflix.com/
+TITLE: Netflix
+TIME: 01.01.1601 02:30:17
+URL: https://wikipedia.org/
+TITLE: Wikipedia.Org
+TIME: 01.01.1601 02:30:17
+URL: https://twitter.com/
+TITLE: Twitter
+TIME: 01.01.1601 02:30:17
+URL: https://youtube.com/
+TITLE: YouTube
+TIME: 01.01.1601 02:30:17
+URL: https://canvas.instructure.com/
+TITLE: Canvas.Instructure
+TIME: 01.01.1601 02:30:17
+URL: https://coursera.org/
+TITLE: Coursera.Org
+TIME: 01.01.1601 02:30:17
+URL: https://google.com/
+TITLE: Google
+TIME: 01.01.1601 02:30:17
+URL: https://google.com/
+TITLE: Google
+TIME: 01.01.1601 02:30:17
+URL: https://google.com/
+TITLE: Google
+TIME: 20.07.2025 06:59:34
+URL: https://canvas.instructure.com/
+TITLE: Canvas.Instructure
+TIME: 10.07.2025 10:27:19
+URL: https://ebay.com/
+TITLE: Ebay
+TIME: 19.07.2025 06:05:36
+URL: https://canvas.instructure.com/
+TITLE: Canvas.Instructure
+TIME: 19.07.2025 10:35:38
+URL: https://github.com/
+TITLE: GitHub
+TIME: 15.07.2025 15:05:57
+URL: https://linkedin.com/
+TITLE: LinkedIn
+TIME: 23.07.2025 09:45:41
+URL: https://paypal.com/
+TITLE: PayPal
+TIME: 25.07.2025 04:19:29
+URL: https://ebay.com/
+TITLE: Ebay
+TIME: 25.07.2025 16:41:05
+URL: https://khanacademy.org/
+TITLE: Khanacademy.Org
+TIME: 25.07.2025 03:07:05
+URL: https://www.google.com/search?q=cheap+textbooks
+TITLE: cheap textbooks - Google Search
+TIME: 23.07.2025 09:32:15
+URL: https://github.com/
+TITLE: GitHub
+TIME: 19.07.2025 05:32:33
+URL: https://chegg.com/
+TITLE: Chegg
+TIME: 27.07.2025 19:33:03
+URL: https://twitter.com/
+TITLE: Twitter
+TIME: 16.07.2025 22:04:28
+URL: https://reddit.com/
+TITLE: Reddit - Dive into anything
+TIME: 13.07.2025 11:04:54
+URL: https://twitter.com/
+TITLE: Twitter
+TIME: 21.07.2025 04:28:25
+URL: https://instagram.com/
+TITLE: Instagram
+TIME: 13.07.2025 14:02:43
+URL: https://github.com/
+TITLE: GitHub
+TIME: 16.07.2025 22:55:00
+URL: https://coursera.org/
+TITLE: Coursera.Org
+TIME: 20.07.2025 03:51:52
+URL: https://paypal.com/
+TITLE: PayPal
+TIME: 19.07.2025 06:10:30
+URL: https://linkedin.com/
+TITLE: LinkedIn
+TIME: 21.07.2025 21:55:44
+URL: https://gmail.com/
+TITLE: Gmail
+TIME: 15.07.2025 07:49:58
+URL: https://quizlet.com/
+TITLE: Quizlet
+TIME: 15.07.2025 23:03:28
+URL: https://jstor.org/
+TITLE: Jstor.Org
+TIME: 22.07.2025 08:22:48
+URL: https://instagram.com/
+TITLE: Instagram
+TIME: 15.07.2025 21:05:57
+URL: https://jstor.org/
+TITLE: Jstor.Org
+TIME: 24.07.2025 02:58:05
+URL: https://khanacademy.org/
+TITLE: Khanacademy.Org
+TIME: 19.07.2025 14:45:45
+URL: https://khanacademy.org/
+TITLE: Khanacademy.Org
+TIME: 22.07.2025 08:53:39
+URL: https://scholar.google.com/
+TITLE: Scholar.Google
+TIME: 25.07.2025 05:31:17
+URL: https://khanacademy.org/
+TITLE: Khanacademy.Org
+TIME: 24.07.2025 14:53:05
+URL: https://reddit.com/
+TITLE: Reddit - Dive into anything
+TIME: 26.07.2025 14:00:48
+URL: https://linkedin.com/
+TITLE: LinkedIn
+TIME: 11.07.2025 11:18:06
+URL: https://quizlet.com/
+TITLE: Quizlet
+TIME: 12.07.2025 03:19:57
+URL: https://google.com/
+TITLE: Google
+TIME: 10.07.2025 10:25:33
+URL: https://grammarly.com/
+TITLE: Grammarly
+TIME: 14.07.2025 08:01:56
+URL: https://facebook.com/
+TITLE: Facebook
+TIME: 21.07.2025 06:43:33
+URL: https://ebay.com/
+TITLE: Ebay
+TIME: 13.07.2025 23:22:55
+URL: https://spotify.com/
+TITLE: Spotify - Web Player
+TIME: 13.07.2025 05:02:30
+URL: https://ebay.com/
+TITLE: Ebay
+TIME: 18.07.2025 22:08:02
+URL: https://khanacademy.org/
+TITLE: Khanacademy.Org
+TIME: 17.07.2025 01:53:31
+URL: https://outlook.com/
+TITLE: Outlook
+TIME: 23.07.2025 03:16:24
+URL: https://www.google.com/search?q=google+maps
+TITLE: google maps - Google Search
+TIME: 23.07.2025 18:44:58
+URL: https://gmail.com/
+TITLE: Gmail
+TIME: 27.07.2025 06:27:32
+URL: https://coursera.org/
+TITLE: Coursera.Org
+TIME: 29.07.2025 00:40:37
+URL: https://canvas.instructure.com/
+TITLE: Canvas.Instructure
+TIME: 11.07.2025 00:50:12
+URL: https://linkedin.com/
+TITLE: LinkedIn
+TIME: 28.07.2025 19:29:19
+URL: https://paypal.com/
+TITLE: PayPal
+TIME: 28.07.2025 02:06:50
+URL: https://chegg.com/
+TITLE: Chegg
+TIME: 12.07.2025 16:08:48
+URL: https://wikipedia.org/
+TITLE: Wikipedia.Org
+TIME: 25.07.2025 02:23:02
+URL: https://khanacademy.org/
+TITLE: Khanacademy.Org
+TIME: 26.07.2025 05:04:49
+URL: https://gmail.com/
+TITLE: Gmail
+TIME: 27.07.2025 22:43:46
+URL: https://chegg.com/
+TITLE: Chegg
+TIME: 26.07.2025 06:31:15
+URL: https://quizlet.com/
+TITLE: Quizlet
+TIME: 23.07.2025 09:45:20
+URL: https://wikipedia.org/
+TITLE: Wikipedia.Org
+TIME: 15.07.2025 10:23:54
+URL: https://quizlet.com/
+TITLE: Quizlet
+TIME: 15.07.2025 22:04:02
+URL: https://wikipedia.org/
+TITLE: Wikipedia.Org
+TIME: 22.07.2025 08:43:42
+URL: https://gmail.com/
+TITLE: Gmail
+TIME: 23.07.2025 02:59:14
+URL: https://outlook.com/
+TITLE: Outlook
+TIME: 25.07.2025 11:34:36
+URL: https://youtube.com/
+TITLE: YouTube
+TIME: 18.07.2025 13:35:12
+URL: https://www.google.com/search?q=online+courses
+TITLE: online courses - Google Search
+TIME: 29.07.2025 23:12:18
+URL: https://outlook.com/
+TITLE: Outlook
+TIME: 16.07.2025 07:40:12
+URL: https://github.com/
+TITLE: GitHub
+TIME: 17.07.2025 07:26:07
+URL: https://jstor.org/
+TITLE: Jstor.Org
+TIME: 25.07.2025 07:20:59
+URL: https://facebook.com/
+TITLE: Facebook
+TIME: 29.07.2025 19:48:43
+URL: https://chegg.com/
+TITLE: Chegg
+TIME: 23.07.2025 05:59:18
+URL: https://linkedin.com/
+TITLE: LinkedIn
+TIME: 20.07.2025 05:55:19
+URL: https://netflix.com/
+TITLE: Netflix
+TIME: 12.07.2025 04:33:50
+URL: https://ebay.com/
+TITLE: Ebay
+TIME: 17.07.2025 16:01:26
+URL: https://khanacademy.org/
+TITLE: Khanacademy.Org
+TIME: 15.07.2025 06:20:24
+URL: https://facebook.com/
+TITLE: Facebook
+TIME: 14.07.2025 10:22:18
+URL: https://amazon.com/
+TITLE: Amazon.com - Online Shopping
+TIME: 26.07.2025 00:17:02
+URL: https://amazon.com/
+TITLE: Amazon.com - Online Shopping
+TIME: 23.07.2025 20:48:15
+URL: https://grammarly.com/
+TITLE: Grammarly
+TIME: 30.07.2025 07:59:10
+URL: https://paypal.com/
+TITLE: PayPal
+TIME: 19.07.2025 16:42:57
+URL: https://youtube.com/
+TITLE: YouTube
+TIME: 12.07.2025 05:32:30
+URL: https://turnitin.com/
+TITLE: Turnitin
+TIME: 10.07.2025 05:50:47
+URL: https://chegg.com/
+TITLE: Chegg
+TIME: 19.07.2025 09:52:41
+URL: https://gmail.com/
+TITLE: Gmail
+TIME: 19.07.2025 05:18:08
+URL: https://khanacademy.org/
+TITLE: Khanacademy.Org
+TIME: 22.07.2025 14:24:49
