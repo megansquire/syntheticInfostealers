@@ -1,0 +1,192 @@
+-- VIDAR STEALER - ЛУЧШИЙ STEALER НА РЫНКЕ!!!!
+-- Контакты для связи Telegram: @vidar
+-- ПОМНИТЕ ОПЛАТА ТОЛЬКО НА САЙТЕ ПРОЕКТА В АВТОМАТИЧЕСКОМ РЕЖИМЕ! 
+
+Chat Public: https://t.me/vidarchatopen
+Channel: https://t.me/vidarnews
+
+
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+Подбор паролей к криптокошелькам.
+Беру в работу Metamask, Ronin, Phantom, Daedalus Mainnet, Nami, Exodus, Electrum, Rabby, Unisat
+Беру логи с балансом от 3000$
+
+В процессе брута задействую более 10 аттак.
+Возьмусь за лог после других брутеров.
+Срок брута зависит от сложности пароля.
+
+Telegram: @brute
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+
+Ip: 51.107.44.168
+Country: CN
+Version: 10.1
+
+Date: 26/6/2025 13:22:47
+MachineID: 60d469d7-3485-6c04-87f3-c0b73a6669b2
+GUID: {94a45e60-c37e-d180-caa9-f0dc43d07b5d}
+HWID: 3BCC5D75A3B86024D3-94a45e60-c37e-d180-caa9-f0dc43d07b5d
+
+Path: C:\Users\Chen\Downloads\setup.exe
+Work Dir: In memory
+
+Windows: Windows 10 Home
+Install Date: 2/8/2024 13:22:47
+AV: 360_Security
+Computer Name: BATTLESTATION-S008H8D
+User Name: Chen
+Display Resolution: 1920x1080
+Keyboard Languages: English (United States)
+Local Time: 26/6/2025 13:22:47
+TimeZone: 0
+
+[Hardware]
+Processor: Intel(R) Core(TM) i9-13900K @ 3.00GHz
+Cores: 12
+Threads: 16
+RAM: 32768 MB
+VideoCard: NVIDIA GeForce RTX 4070 Ti
+
+[Processes]
+System
+Registry
+smss.exe
+csrss.exe
+wininit.exe
+services.exe
+lsass.exe
+fontdrvhost.exe
+winlogon.exe
+dwm.exe
+sihost.exe
+taskhostw.exe
+explorer.exe
+ctfmon.exe
+SearchApp.exe
+RuntimeBroker.exe
+TextInputHost.exe
+SecurityHealthSystray.exe
+spoolsv.exe
+SearchIndexer.exe
+audiodg.exe
+Memory Compression
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+msedge.exe
+msedge.exe
+msedge.exe
+msedge.exe
+msedge.exe
+msedge.exe
+MicrosoftEdgeUpdate.exe
+NVDisplay.Container.exe
+nvcontainer.exe
+NVIDIA Web Helper.exe
+NvBackend.exe
+steam.exe
+steamservice.exe
+steamwebhelper.exe
+Discord.exe
+DiscordCrashHandler.exe
+steamwebhelper.exe
+steamwebhelper.exe
+steamwebhelper.exe
+steamwebhelper.exe
+steamwebhelper.exe
+steamwebhelper.exe
+coml.au3
+SearchProtocolHost.exe
+SearchFilterHost.exe
+WmiPrvSE.exe
+conhost.exe
+dllhost.exe
+
+[Software]
+Microsoft Edge - 127.0.2651.74
+Microsoft Edge Update - 1.3.187.44
+Microsoft Edge WebView2 Runtime - 127.0.2651.74
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 - 12.0.30501.0
+Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29334 - 14.28.29334
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005 - 12.0.21005
+Microsoft Visual C++ 2019 X86 Additional Runtime - 14.28.29334 - 14.28.29334
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 - 11.0.61030.0
+Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.28.29334 - 14.28.29334.0
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030 - 11.0.61030
+Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.28.29334 - 14.28.29334.0
+Google Chrome - 126.0.6478.127
+Steam - 2.10.91.91
+Discord - 1.0.9005
+OBS Studio - 30.1.2
+NVIDIA GeForce NOW 2.0.63.137 - 2.0.63.137
+Counter-Strike 2
+Dota 2
+CCleaner - 6.18
+Malwarebytes - 4.6.0
+Skype - 8.110.0.218
+Telegram Desktop - 5.1.7
+Python 3.11.5
+Docker Desktop - 4.25.2
+VirtualBox - 7.0.12

@@ -1,0 +1,156 @@
+-- VIDAR STEALER - ЛУЧШИЙ STEALER НА РЫНКЕ!!!!
+-- Контакты для связи Telegram: @vidar
+-- ПОМНИТЕ ОПЛАТА ТОЛЬКО НА САЙТЕ ПРОЕКТА В АВТОМАТИЧЕСКОМ РЕЖИМЕ! 
+
+Chat Public: https://t.me/vidarchatopen
+Channel: https://t.me/vidarnews
+
+
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+Подбор паролей к криптокошелькам.
+Беру в работу Metamask, Ronin, Phantom, Daedalus Mainnet, Nami, Exodus, Electrum, Rabby, Unisat
+Беру логи с балансом от 3000$
+
+В процессе брута задействую более 10 аттак.
+Возьмусь за лог после других брутеров.
+Срок брута зависит от сложности пароля.
+
+Telegram: @brute
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+
+Ip: 47.149.206.121
+Country: US
+Version: 10.1
+
+Date: 26/6/2025 13:22:47
+MachineID: eac0fd5d-ddc4-dfcd-0643-866d088611ea
+GUID: {49de427a-ce4a-9b6b-9793-d4c57a98a806}
+HWID: 578DC4F2EEB6C51A28-49de427a-ce4a-9b6b-9793-d4c57a98a806
+
+Path: C:\Users\Isabella\AppData\Local\Temp\installer.exe
+Work Dir: In memory
+
+Windows: Windows 10 Home
+Install Date: 2/8/2023 13:22:47
+AV: Windows_Defender
+Computer Name: DESKTOP-XRQY4UR
+User Name: Isabella
+Display Resolution: 1366x768
+Keyboard Languages: English (United States)
+Local Time: 26/6/2025 13:22:47
+TimeZone: 0
+
+[Hardware]
+Processor: Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz
+Cores: 4
+Threads: 4
+RAM: 8192 MB
+VideoCard: AMD Radeon RX 580
+
+[Processes]
+System
+Registry
+smss.exe
+csrss.exe
+wininit.exe
+services.exe
+lsass.exe
+fontdrvhost.exe
+winlogon.exe
+dwm.exe
+sihost.exe
+taskhostw.exe
+explorer.exe
+ctfmon.exe
+SearchApp.exe
+RuntimeBroker.exe
+TextInputHost.exe
+SecurityHealthSystray.exe
+spoolsv.exe
+SearchIndexer.exe
+audiodg.exe
+Memory Compression
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+msedge.exe
+msedge.exe
+msedge.exe
+msedge.exe
+msedge.exe
+msedge.exe
+MicrosoftEdgeUpdate.exe
+coml.au3
+SearchProtocolHost.exe
+SearchFilterHost.exe
+WmiPrvSE.exe
+conhost.exe
+dllhost.exe
+
+[Software]
+Microsoft Edge - 126.0.2592.56
+Microsoft Edge Update - 1.3.184.32
+Microsoft Edge WebView2 Runtime - 127.0.2651.74
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 - 12.0.30501.0
+Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29334 - 14.28.29334
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005 - 12.0.21005
+Microsoft Visual C++ 2019 X86 Additional Runtime - 14.28.29334 - 14.28.29334
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 - 11.0.61030.0
+Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.28.29334 - 14.28.29334.0
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030 - 11.0.61030
+Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.28.29334 - 14.28.29334.0
+Zoom - 5.16.10
+Microsoft Office 365 - 16.0.16327.20214
+Adobe Acrobat Reader DC - 23.006.20380
+WhatsApp - 2.2418.0
+Skype - 8.110.0.218
