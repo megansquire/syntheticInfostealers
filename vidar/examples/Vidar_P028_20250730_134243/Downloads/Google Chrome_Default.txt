@@ -1,0 +1,14 @@
+C:\Users\Chen\Downloads\Discord-Setup.exe
+https://discord.com/download
+
+C:\Users\Chen\Downloads\epic_games_launcher.exe
+https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi
+
+C:\Users\Chen\Downloads\nvidia-geforce-now.exe
+https://download.nvidia.com/gfnpc/GeForceNOW-release.exe
+
+C:\Users\Chen\Downloads\OBS-Studio-30.1.2-Full-Installer-x64.exe
+https://obsproject.com/download
+
+C:\Users\Chen\Downloads\Steam Setup.exe
+https://store.steampowered.com/about/

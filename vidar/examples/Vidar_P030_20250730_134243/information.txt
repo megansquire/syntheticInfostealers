@@ -1,0 +1,176 @@
+-- VIDAR STEALER - ЛУЧШИЙ STEALER НА РЫНКЕ!!!!
+-- Контакты для связи Telegram: @vidar
+-- ПОМНИТЕ ОПЛАТА ТОЛЬКО НА САЙТЕ ПРОЕКТА В АВТОМАТИЧЕСКОМ РЕЖИМЕ! 
+
+Chat Public: https://t.me/vidarchatopen
+Channel: https://t.me/vidarnews
+
+
+Ip: 14.236.54.21
+Country: KR
+Version: 11
+
+Date: 30/07/2025 13:42:43
+MachineID: fe26ac17-ddff
+GUID: {55bf0ec7-d283-2833-9164-e755d69ce30f}
+HWID: 600F9EE81AE5538B3-55bf0ec7-d283-2833-9164-e755d69ce30f
+
+Path: C:\Users\Kevin\AppData\Local\Temp\coml.au3
+Work Dir: In memory
+
+Windows: Windows 11
+Install Date: 09/11/2024 13:42:43
+AV: V3
+Computer Name: GAMING-PC-XKPGAYR
+User Name: Kevin
+Display Resolution: 3840x2160
+Keyboard Languages: English (United States)
+Local Time: 30/07/2025 13:42:43
+TimeZone: 0
+
+[Hardware]
+Processor: Intel(R) Core(TM) i9-13900K @ 3.00GHz
+Cores: 16
+Threads: 24
+RAM: 32768 MB
+VideoCard: NVIDIA GeForce RTX 4070 Ti
+
+[Processes]
+System
+Registry
+smss.exe
+csrss.exe
+wininit.exe
+services.exe
+lsass.exe
+fontdrvhost.exe
+winlogon.exe
+dwm.exe
+sihost.exe
+taskhostw.exe
+explorer.exe
+ctfmon.exe
+SearchApp.exe
+RuntimeBroker.exe
+TextInputHost.exe
+SecurityHealthSystray.exe
+spoolsv.exe
+SearchIndexer.exe
+audiodg.exe
+Memory Compression
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+msedge.exe
+MicrosoftEdgeUpdate.exe
+msedge.exe
+MicrosoftEdgeUpdate.exe
+msedge.exe
+MicrosoftEdgeUpdate.exe
+msedge.exe
+MicrosoftEdgeUpdate.exe
+msedge.exe
+MicrosoftEdgeUpdate.exe
+msedge.exe
+MicrosoftEdgeUpdate.exe
+msedge.exe
+MicrosoftEdgeUpdate.exe
+msedge.exe
+MicrosoftEdgeUpdate.exe
+NVDisplay.Container.exe
+nvcontainer.exe
+NVIDIA Web Helper.exe
+NvBackend.exe
+steam.exe
+steamservice.exe
+steamwebhelper.exe
+Discord.exe
+DiscordCrashHandler.exe
+steamwebhelper.exe
+steamwebhelper.exe
+steamwebhelper.exe
+steamwebhelper.exe
+RegAsm.exe
+SearchProtocolHost.exe
+SearchFilterHost.exe
+WmiPrvSE.exe
+conhost.exe
+dllhost.exe
+
+[Software]
+Microsoft Edge - 127.0.2651.74
+Microsoft Edge Update - 1.3.193.42
+Microsoft Edge WebView2 Runtime - 127.0.2651.74
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 - 12.0.30501.0
+Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29334 - 14.28.29334
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005 - 12.0.21005
+Microsoft Visual C++ 2019 X86 Additional Runtime - 14.28.29334 - 14.28.29334
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 - 11.0.61030.0
+Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.28.29334 - 14.28.29334.0
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030 - 11.0.61030
+Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.28.29334 - 14.28.29334.0
+Google Chrome - 128.0.6613.84
+Steam - 2.10.91.91
+Discord - 1.0.9005
+OBS Studio - 30.1.2
+NVIDIA GeForce NOW 2.0.63.137 - 2.0.63.137
+Dota 2
+Path of Exile
+CCleaner - 6.18
+WinRAR archiver
+Git - 2.42.0
+Java 8 Update 391

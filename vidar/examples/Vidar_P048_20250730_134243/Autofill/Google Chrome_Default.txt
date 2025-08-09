@@ -1,0 +1,23 @@
+city Paris
+cardExpiry 02 / 27
+q gmail login
+username lucas.trumpet
+q citation generator
+q translate
+name Lucas Trumpet
+q youtube
+email lucas.trumpet@defconlab.fake
+cardexp 07/29
+q weather today
+q car wallpaper
+q study tips
+q netflix
+q vacation photos beach
+username lucas.trumpet
+cardexp 07/29
+address 9189 Oak Ave
+email lucas.trumpet@defconlab.fake
+cardHolder Mr L Trumpet
+billing_state Île-de-France
+cardExpiry 02 / 27
+email lucas.trumpet@defconlab.fake
