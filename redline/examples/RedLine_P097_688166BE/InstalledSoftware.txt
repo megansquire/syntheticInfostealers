@@ -1,0 +1,10 @@
+META_DATA
+1) Bitwarden [2024.6.2]
+2) Intel(R) Chipset Device Software [10.1.18383.8213]
+3) Intel(R) Management Engine Components [2144.15.0.2298]
+4) Ledger Live [2.77.2]
+5) Microsoft Edge [126.0.2592.87]
+6) Microsoft Edge WebView2 Runtime [126.0.2592.87]
+7) Microsoft OneDrive [24.116.0602.0002]
+8) Microsoft Visual C++ 2015-2022 Redistributable (x64) [14.34.31931]
+9) Microsoft Visual C++ 2015-2022 Redistributable (x86) [14.34.31931]

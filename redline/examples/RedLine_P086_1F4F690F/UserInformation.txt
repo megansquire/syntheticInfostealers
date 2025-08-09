@@ -1,0 +1,38 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+Build ID: @redline_official
+IP: 172.58.142.233
+FileLocation: C:\Users\Alex\AppData\Local\Temp\746558\flesh.exe
+UserName: Alex
+MachineName: DESKTOP-QC86BCOX
+Country: US
+Zip Code: 66419
+Location: San Francisco, California
+HWID: 892FCEF987C95B83EDAF056FFB05DCF5
+Current Language: English (United States)
+ScreenSize: {Width=5120, Height=1440}
+TimeZone: (UTC+00:00) Coordinated Universal Time
+Operation System: Windows_11_Pro x64
+Process Elevation: False
+Log date: 7/29/2025 2:27:03 PM
+
+Available KeyboardLayouts: 
+English (United States)
+
+
+Hardwares: 
+Name: Total of RAM, 65536.00 Mb or 68719476736 bytes
+Name: AMD Ryzen 9 7950X, 16 Cores
+Name: NVIDIA GeForce RTX 4080, 17179869184 bytes
+
+
+Anti-Viruses: 
+Windows Defender
+360 Total Security

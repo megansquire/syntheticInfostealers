@@ -1,0 +1,14 @@
+META_DATA
+user[email]: alex.train.dev@workshopdata.demo
+email: alex.train.dev@workshopdata.demo
+login[email]: a.train@techstartup.workshop
+login[email]: a.train@techstartup.workshop
+email: a.train@techstartup.workshop
+user[email]: a.train@techstartup.workshop
+user[email]: a.train@techstartup.workshop
+login[email]: alex.train.dev@workshopdata.demo
+email: a.train@techstartup.workshop
+user[email]: a.train@techstartup.workshop
+email: alex.train.dev@workshopdata.demo
+email: a.train@techstartup.workshop
+login[email]: alex.train.dev@workshopdata.demo

@@ -1,0 +1,17 @@
+META_DATA
+email: marketing@template.workshop
+login[email]: template.reuser@workshopdata.demo
+user[email]: marketing@template.workshop
+user[email]: marketing@template.workshop
+login[email]: template.reuser@workshopdata.demo
+user[email]: template.reuser@workshopdata.demo
+email: marketing@template.workshop
+login[email]: template.reuser@workshopdata.demo
+login[email]: template.reuser@workshopdata.demo
+email: marketing@template.workshop
+email: marketing@template.workshop
+login[email]: template.reuser@workshopdata.demo
+user[email]: template.reuser@workshopdata.demo
+login[email]: marketing@template.workshop
+user[email]: marketing@template.workshop
+login[email]: template.reuser@workshopdata.demo
