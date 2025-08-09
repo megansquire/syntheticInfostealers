@@ -1,0 +1,153 @@
+ ______     ______   ______     ______     __         ______
+/\  ___\   /\__  _\ /\  ___\   /\  __ \   /\ \       /\  ___\
+\ \___  \  \/_/\ \/ \ \  __\   \ \  __ \  \ \ \____  \ \ \____
+ \/\_____\    \ \_\  \ \_____\  \ \_\ \_\  \ \_____\  \ \_____\
+  \/_____/     \/_/   \/_____/   \/_/\/_/   \/_____/   \/_____/
+
+                       stealc stealer
+
+powerful native stealer based on C lang
+
+forum topics:
+	- https://forum.exploit.in/topic/220340/
+	- https://xss.is/threads/79592/
+	- https://bhf.im/threads/666154/
+
+buy:
+	- telegram: t.me/plym0uth
+
+----------------------------------------------------------------
+FATE CHANNEL - @FATETRAFFIC | SHOP - @FATEPRODUCT_BOT | SUPPORT - @GGFATE
+----------------------------------------------------------------
+
+Network Info:
+	- IP: 98.168.63.232
+	- Country: US
+
+System Summary:
+	- HWID: 0EXXXP3H6WM3847S5YFSO
+	- OS: Windows_10_Pro
+	- Architecture: x64
+	- UserName: Robert
+	- Computer Name: OFFICE-A190
+	- Local Time: 2025/07/29 09:13:51
+	- UTC: -6
+	- Language: en-US
+	- Keyboards: English (United States)
+	- Laptop: TRUE
+	- Running Path: C:\Windows\SysWOW64\explorer.exe
+	- CPU: Intel Core i7-1265U @ 1.80GHz
+	- Cores: 8
+	- Threads: 16
+	- RAM: 32768 MB
+	- Display Resolution: 1920x1080
+	- GPU:
+		-AMD Radeon Graphics
+		-AMD Radeon Graphics
+
+User Agents:
+	Microsoft Edge - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.2592.102 Safari/537.36 Edg/126.0.2592.102
+
+Installed Apps:
+All Users:
+	Microsoft Visual C++ 2022 X86 Additional Runtime - 14.30.30423 - 14.30.30423
+	Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.21005 - 12.0.21005.1
+	Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.30.30423 - 14.30.30423
+	Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.30.30423 - 14.30.30423.0
+	Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.30.30423 - 14.30.30423.0
+	Microsoft .NET Framework 4.8 - 4.8.09037
+	Microsoft .NET Framework 4.7.2 - 4.7.03190
+	Microsoft Edge - 128.0.2739.42
+	Realtek Ethernet Controller Driver - 10.49.823.2021
+	Intel(R) Management Engine Components - 2021.14.0.1748
+	Dell Command | Update - 4.5.0
+	HP Support Assistant - 9.12.205.0
+	Microsoft Office Professional Plus 2010 - 14.0.4763.1000
+	Microsoft Office Access MUI (English) 2010 - 14.0.4763.1000
+	Microsoft Office Excel MUI (English) 2010 - 14.0.4763.1000
+	Microsoft Office PowerPoint MUI (English) 2010 - 14.0.4763.1000
+	Microsoft Office Word MUI (English) 2010 - 14.0.4763.1000
+	Microsoft Office Outlook MUI (English) 2010 - 14.0.4763.1000
+	Microsoft Teams - 1.6.00.32159
+	Zoom - 5.16.10.25689
+Current User:
+	Microsoft OneDrive - 24.166.0818.0003
+
+Process List:
+	System
+	Registry
+	smss.exe
+	csrss.exe
+	wininit.exe
+	csrss.exe
+	winlogon.exe
+	services.exe
+	lsass.exe
+	fontdrvhost.exe
+	fontdrvhost.exe
+	dwm.exe
+	Memory Compression
+	spoolsv.exe
+	sihost.exe
+	taskhostw.exe
+	explorer.exe
+	ctfmon.exe
+	SearchHost.exe
+	StartMenuExperienceHost.exe
+	RuntimeBroker.exe
+	RuntimeBroker.exe
+	SearchIndexer.exe
+	TextInputHost.exe
+	SecurityHealthSystray.exe
+	SecurityHealthService.exe
+	audiodg.exe
+	svchost.exe
+	OUTLOOK.EXE
+	msedgewebview2.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	msedgewebview2.exe
+	svchost.exe
+	msedgewebview2.exe
+	svchost.exe
+	svchost.exe
+	msedgewebview2.exe
+	Zoom.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	OneDrive.exe
+	msedge.exe
+	svchost.exe
+	msedge.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	msedge.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	msedge.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	explorer.exe
+	svchost.exe
+	msedge.exe
+	Teams.exe
+	svchost.exe
+	msedgewebview2.exe
+	msedge.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
