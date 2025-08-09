@@ -1,0 +1,29 @@
+PersonaIDs selected for Vidar:
+P010,P012,P027,P028,P029,P030,P041,P048,P052,P053,P055,P056,P062,P063,P064,P065,P066,P067,P074,P075,P079,P082,P084,P095
+
+Details:
+P010: James Sparkle (Remote_Worker)
+P012: João Sandwich (Remote_Worker)
+P027: Aleksandr Popcorn (Gaming_Enthusiast)
+P028: Chen Dinosaur (Gaming_Enthusiast)
+P029: Marco Snowflake (Gaming_Enthusiast)
+P030: Kevin Coconut (Gaming_Enthusiast)
+P041: Isabella Donut (Student)
+P048: Lucas Trumpet (Student)
+P052: Benjamin Giraffe (Student)
+P053: Amelia Octopus (Student)
+P055: Harper Seashell (Student)
+P056: Robert Teapot (Small_Business_Owner)
+P062: Carlos Whistle (Small_Business_Owner)
+P063: Linda Shoelace (Small_Business_Owner)
+P064: Ahmed Lightning (Small_Business_Owner)
+P065: Sarah Blanket (Small_Business_Owner)
+P066: Raj Umbrella (Small_Business_Owner)
+P067: Ana Feather (Small_Business_Owner)
+P074: Michael Envelope (Corporate_Executive)
+P075: Hiroshi Bubblewand (Corporate_Executive)
+P079: James Typewriter (Corporate_Executive)
+P082: Kim Turtle (Corporate_Executive)
+P084: Thomas Dragonfly (Corporate_Executive)
+P095: Priya Shorebird (Freelancer)
+
