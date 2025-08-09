@@ -1,0 +1,31 @@
+CLOUD LOGS - @FATECLOUD | SHOP - @LOGSFATE_BOT | SUPPORT - @EZFATE
+
+Build ID: premium logs by fate
+IP: 92.40.15.117
+FileLocation: C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe
+UserName: Zoe
+MachineName: DESKTOP-ULLF4N1J
+Country: GB
+Zip Code: OQ98 3LW
+Location: Manchester, Manchester
+HWID: A804AD28A81BA1C2788F64D2C804DF91
+Current Language: English (United Kingdom)
+ScreenSize: {Width=1920, Height=1080}
+TimeZone: (UTC+00:00) Coordinated Universal Time
+Operation System: Windows_10_Home x64
+UAC: Disabled
+Log date: 7/29/2025 2:27:03 PM
+
+Available KeyboardLayouts: 
+English (United Kingdom)
+English (United States)
+
+
+Hardwares: 
+Name: Total of RAM, 8192.00 MB or 8589934592 bytes
+Name: Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz, 2 Cores
+Name: AMD Radeon Vega 8, 4294967296 bytes
+
+
+Anti-Viruses: 
+Windows Defender

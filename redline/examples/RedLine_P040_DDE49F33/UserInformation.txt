@@ -1,0 +1,37 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+Build ID: premium logs by fate
+IP: 207.81.192.104
+FileLocation: C:\Users\Liam\AppData\Local\Temp\955362\dfsvc.exe
+UserName: Liam
+MachineName: DESKTOP-DCR01WPQ
+Country: CA
+Zip Code: Z7Y 1D3
+Location: Toronto, Ontario
+HWID: 7396D08062450CB851363291E0FBF266
+Current Language: English (Canada)
+ScreenSize: {Width=2560, Height=1440}
+TimeZone: (UTC+00:00) Coordinated Universal Time
+Operation System: Windows_11_Home x64
+Log date: 7/29/2025 2:27:03 PM
+
+Available KeyboardLayouts: 
+English (United States)
+
+
+Hardwares: 
+Name: Total of RAM, 16384.00 Mb or 17179869184 bytes
+Name: Intel(R) Core(TM) i5-11400F CPU @ 2.60GHz, 6 Cores
+Name: NVIDIA GeForce GTX 1660 Ti, 6442450944 bytes
+
+
+Anti-Viruses: 
+Windows Defender
+Avast Free Antivirus

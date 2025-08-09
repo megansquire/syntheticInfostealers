@@ -1,0 +1,12 @@
+META_DATA
+user[email]: connor.waffle@syntheticmail.fake
+email: connor.waffle@syntheticmail.fake
+login[email]: connor.waffle@syntheticmail.fake
+email: connor.waffle@syntheticmail.fake
+login[email]: connor.waffle@syntheticmail.fake
+email: connor.waffle@syntheticmail.fake
+email: connor.waffle@syntheticmail.fake
+user[email]: connor.waffle@syntheticmail.fake
+email: connor.waffle@syntheticmail.fake
+email: connor.waffle@syntheticmail.fake
+email: connor.waffle@syntheticmail.fake
