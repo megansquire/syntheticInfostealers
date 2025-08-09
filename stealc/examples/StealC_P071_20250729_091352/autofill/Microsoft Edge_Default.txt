@@ -1,0 +1,55 @@
+shipping_address 9501 Main St
+cardexp 12/28
+q netflix shows
+q quarterly earnings
+q timer
+email catherine.paperclip@workshopdata.demo
+cardexp 12/28
+cardExpiry 07 / 26
+lname Paperclip
+address 9501 Main St
+cardname Catherine Paperclip
+cardexp 12/28
+city New York
+lname Paperclip
+fname Catherine
+cardnumber 5960492697579630
+q calculator
+cardExpiry 07 / 26
+state New York
+cardname Catherine Paperclip
+phone (668) 241-5137
+lname Paperclip
+address 9501 Main St
+q metamask extension
+q binance login
+cardExpiry 07 / 26
+q investor relations
+q amazon prime
+zip 41944
+q nft marketplace
+state New York
+lname Paperclip
+cardExpiry 07 / 26
+country US
+q board meeting agenda
+q crypto news
+q eth gas fees
+city New York
+address 9501 Main St
+cardnumber 5960492697579630
+shipping_address 9501 Main St
+billing_state New York
+cardexp 12/28
+shipping_address 9501 Main St
+email catherine.paperclip@workshopdata.demo
+cvv 377
+shipping_address 9501 Main St
+city New York
+q youtube
+q best crypto wallet
+cardnumber 5960492697579630
+q translate
+q facebook login
+cvv 377
+zip 41944
