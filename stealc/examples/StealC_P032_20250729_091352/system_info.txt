@@ -1,0 +1,162 @@
+ ______     ______   ______     ______     __         ______
+/\  ___\   /\__  _\ /\  ___\   /\  __ \   /\ \       /\  ___\
+\ \___  \  \/_/\ \/ \ \  __\   \ \  __ \  \ \ \____  \ \ \____
+ \/\_____\    \ \_\  \ \_____\  \ \_\ \_\  \ \_____\  \ \_____\
+  \/_____/     \/_/   \/_____/   \/_/\/_/   \/_____/   \/_____/
+
+                       stealc stealer
+
+powerful native stealer based on C lang
+
+forum topics:
+	- https://forum.exploit.in/topic/220340/
+	- https://xss.is/threads/79592/
+	- https://bhf.im/threads/666154/
+
+buy:
+	- telegram: t.me/plym0uth
+
+----------------------------------------------------------------
+FATE CHANNEL - @FATETRAFFIC | SHOP - @FATEPRODUCT_BOT | SUPPORT - @GGFATE
+----------------------------------------------------------------
+
+Network Info:
+	- IP: 12.65.166.86
+	- Country: NL
+
+System Summary:
+	- HWID: FR04F05T2TKSVRV5JZKAM
+	- OS: Windows_11_Pro
+	- Architecture: x64
+	- UserName: Andre
+	- Computer Name: PREDATOR-A557
+	- Local Time: 2025/07/29 09:13:52
+	- UTC: +1
+	- Language: en-US
+	- Keyboards: English (United States)
+	- Laptop: FALSE
+	- Running Path: C:\Users\Andre\AppData\Local\Temp\Setup.exe
+	- CPU: Intel Core i9-14900K @ 3.20GHz
+	- Cores: 16
+	- Threads: 32
+	- RAM: 32768 MB
+	- Display Resolution: 2560x1440
+	- GPU:
+		-AMD Radeon RX 7900 XTX
+
+User Agents:
+	Google Chrome - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.6613.84 Safari/537.36
+	Mozilla Firefox - Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0
+
+Installed Apps:
+All Users:
+	Microsoft Visual C++ 2022 X86 Additional Runtime - 14.30.30423 - 14.30.30423
+	Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.21005 - 12.0.21005.1
+	Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.30.30423 - 14.30.30423
+	Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.30.30423 - 14.30.30423.0
+	Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.30.30423 - 14.30.30423.0
+	Microsoft .NET Framework 4.8 - 4.8.09037
+	Microsoft .NET Framework 4.7.2 - 4.7.03190
+	Google Chrome - 128.0.6613.84
+	Mozilla Firefox - 130.0
+	NVIDIA GeForce Experience - 3.28.0.417
+	Razer Synapse 3 - 1.0.158.0
+	Corsair iCUE 4 - 4.33.138
+	MSI Afterburner - 4.6.5
+	Steam - 1718904078
+	Discord - 1.0.9151
+	OBS Studio - 30.0.2
+	Logitech G HUB - 2023.11.461760
+Current User:
+	Microsoft OneDrive - 24.166.0818.0003
+	CapCut - 4.0.0.1539
+
+Process List:
+	System
+	Registry
+	smss.exe
+	csrss.exe
+	wininit.exe
+	csrss.exe
+	winlogon.exe
+	services.exe
+	lsass.exe
+	fontdrvhost.exe
+	fontdrvhost.exe
+	dwm.exe
+	Memory Compression
+	spoolsv.exe
+	sihost.exe
+	taskhostw.exe
+	explorer.exe
+	ctfmon.exe
+	SearchHost.exe
+	StartMenuExperienceHost.exe
+	RuntimeBroker.exe
+	RuntimeBroker.exe
+	SearchIndexer.exe
+	TextInputHost.exe
+	SecurityHealthSystray.exe
+	SecurityHealthService.exe
+	audiodg.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	chrome.exe
+	chrome.exe
+	svchost.exe
+	chrome.exe
+	firefox.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	GameOverlayUI.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	chrome.exe
+	svchost.exe
+	chrome.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	chrome.exe
+	chrome.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	explorer.exe
+	chrome.exe
+	chrome.exe
+	chrome.exe
+	svchost.exe
+	svchost.exe
+	steamwebhelper.exe
+	svchost.exe
+	svchost.exe
+	Discord.exe
+	Steam.exe
+	chrome.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
