@@ -1,0 +1,173 @@
+-- VIDAR STEALER - ЛУЧШИЙ STEALER НА РЫНКЕ!!!!
+-- Контакты для связи Telegram: @vidar
+-- ПОМНИТЕ ОПЛАТА ТОЛЬКО НА САЙТЕ ПРОЕКТА В АВТОМАТИЧЕСКОМ РЕЖИМЕ! 
+
+Chat Public: https://t.me/vidarchatopen
+Channel: https://t.me/vidarnews
+
+
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+FATE CLOUD - @FATETRAFFIC | SUPPORT - @GGFATE | SH0P - @FATEPRODUCT_BOT
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+
+Ip: 98.162.42.37
+Country: US
+Version: 10.1
+
+Date: 30/07/2025 13:42:43
+MachineID: 6c4068db-f2ca-b873-40a1-495859fe7dde
+GUID: {dd3fcffd-f822}
+HWID: 20E6FA30A6D89D644-dd3fcffd-f822
+
+Path: C:\Users\Benjamin\AppData\Local\Temp\CUF.au3
+Work Dir: In memory
+
+Windows: Windows 10 Home
+Install Date: 04/02/2024 13:42:43
+AV: Norton
+Computer Name: LAPTOP-IR01E9MW
+User Name: Benjamin
+Display Resolution: 1600x900
+Keyboard Languages: English (United States)
+Local Time: 30/07/2025 13:42:43
+TimeZone: 0
+
+[Hardware]
+Processor: AMD Ryzen 5 5600X 6-Core Processor
+Cores: 4
+Threads: 4
+RAM: 16384 MB
+VideoCard: NVIDIA GeForce GTX 1660
+
+[Processes]
+System
+Registry
+smss.exe
+csrss.exe
+wininit.exe
+services.exe
+lsass.exe
+fontdrvhost.exe
+winlogon.exe
+dwm.exe
+sihost.exe
+taskhostw.exe
+explorer.exe
+ctfmon.exe
+SearchApp.exe
+RuntimeBroker.exe
+TextInputHost.exe
+SecurityHealthSystray.exe
+spoolsv.exe
+SearchIndexer.exe
+audiodg.exe
+Memory Compression
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+msedge.exe
+MicrosoftEdgeUpdate.exe
+msedge.exe
+MicrosoftEdgeUpdate.exe
+msedge.exe
+MicrosoftEdgeUpdate.exe
+msedge.exe
+MicrosoftEdgeUpdate.exe
+msedge.exe
+MicrosoftEdgeUpdate.exe
+msedge.exe
+MicrosoftEdgeUpdate.exe
+msedge.exe
+MicrosoftEdgeUpdate.exe
+NVDisplay.Container.exe
+nvcontainer.exe
+NVIDIA Web Helper.exe
+NvBackend.exe
+NortonSecurity.exe
+nsWscSvc.exe
+Setup.exe
+SearchProtocolHost.exe
+SearchFilterHost.exe
+WmiPrvSE.exe
+conhost.exe
+dllhost.exe
+
+[Software]
+Microsoft Edge - 127.0.2651.74
+Microsoft Edge Update - 1.3.192.36
+Microsoft Edge WebView2 Runtime - 126.0.2592.102
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 - 12.0.30501.0
+Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29334 - 14.28.29334
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005 - 12.0.21005
+Microsoft Visual C++ 2019 X86 Additional Runtime - 14.28.29334 - 14.28.29334
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 - 11.0.61030.0
+Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.28.29334 - 14.28.29334.0
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030 - 11.0.61030
+Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.28.29334 - 14.28.29334.0
+Google Chrome - 126.0.6478.127
+Zoom - 5.16.10
+Microsoft Office 365 - 16.0.16327.20214
+Adobe Acrobat Reader DC - 23.006.20380
+7-Zip 23.01
+WinRAR archiver
+VLC media player - 3.0.20
+WhatsApp - 2.2418.0
+Telegram Desktop - 5.1.7
+Norton Security - 22.24.1.6

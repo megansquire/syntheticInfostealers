@@ -1,0 +1,22 @@
+q invoice template
+q netflix
+cardExpiry 05 / 25
+email sarah.blanket@workshopdata.demo
+billing_state Dublin
+city Dublin
+zip 72491
+zip 72491
+q news
+city Dublin
+q weather today
+email sarah.blanket@workshopdata.demo
+q vacation photos beach
+address 192 Park Rd
+cardHolder Mr S Blanket
+q facebook
+q microsoft teams
+city Dublin
+cardExpiry 05 / 25
+q linkedin
+billing_state Dublin
+q youtube
