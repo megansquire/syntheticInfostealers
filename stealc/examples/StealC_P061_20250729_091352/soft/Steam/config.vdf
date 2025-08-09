@@ -1,0 +1,17 @@
+
+"InstallConfigStore"
+{{
+    "Software"
+    {{
+        "Valve"
+        {{
+            "Steam"
+            {{
+                "AutoUpdateWindowEnabled"		"1"
+                "StartupState.Friends"		"0"
+                "SkinV5"		"Default"
+                "SteamPath"		"C:/Program Files (x86)/Steam"
+            }}
+        }}
+    }}
+}}
