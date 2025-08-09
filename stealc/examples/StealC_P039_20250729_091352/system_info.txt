@@ -1,0 +1,153 @@
+ ______     ______   ______     ______     __         ______
+/\  ___\   /\__  _\ /\  ___\   /\  __ \   /\ \       /\  ___\
+\ \___  \  \/_/\ \/ \ \  __\   \ \  __ \  \ \ \____  \ \ \____
+ \/\_____\    \ \_\  \ \_____\  \ \_\ \_\  \ \_____\  \ \_____\
+  \/_____/     \/_/   \/_____/   \/_/\/_/   \/_____/   \/_____/
+
+                       stealc stealer
+
+powerful native stealer based on C lang
+
+forum topics:
+	- https://forum.exploit.in/topic/220340/
+	- https://xss.is/threads/79592/
+	- https://bhf.im/threads/666154/
+
+buy:
+	- telegram: t.me/plym0uth
+
+----------------------------------------------------------------
+FATE CHANNEL - @FATETRAFFIC | SHOP - @FATEPRODUCT_BOT | SUPPORT - @GGFATE
+----------------------------------------------------------------
+
+Network Info:
+	- IP: 98.210.26.118
+	- Country: US
+
+System Summary:
+	- HWID: X1F90LYAV57YXVDRLB73H
+	- OS: Windows_10_Home
+	- Architecture: x64
+	- UserName: Emma
+	- Computer Name: HP-PAVILION-B404
+	- Local Time: 2025/07/29 09:13:52
+	- UTC: -5
+	- Language: en-US
+	- Keyboards: English (United States)
+	- Laptop: TRUE
+	- Running Path: C:\Windows\SysWOW64\explorer.exe
+	- CPU: AMD Ryzen 3 5300U with Radeon Graphics
+	- Cores: 2
+	- Threads: 4
+	- RAM: 8192 MB
+	- Display Resolution: 1366x768
+	- GPU:
+		-Intel(R) UHD Graphics
+		-Intel(R) UHD Graphics
+
+User Agents:
+	Google Chrome - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.6613.84 Safari/537.36
+	Mozilla Firefox - Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0
+
+Installed Apps:
+All Users:
+	Microsoft Visual C++ 2022 X86 Additional Runtime - 14.30.30423 - 14.30.30423
+	Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.21005 - 12.0.21005.1
+	Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.30.30423 - 14.30.30423
+	Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.30.30423 - 14.30.30423.0
+	Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.30.30423 - 14.30.30423.0
+	Microsoft .NET Framework 4.8 - 4.8.09037
+	Microsoft .NET Framework 4.7.2 - 4.7.03190
+	Google Chrome - 128.0.6613.84
+	Mozilla Firefox - 130.0
+	Realtek Ethernet Controller Driver - 10.42.526.2020
+	Realtek PC Camera - 6.2.9200.10264
+	Intel(R) Processor Graphics - 20.19.15.4835
+	Battery Limiter - 1.0.7
+	Synaptics Pointing Device Driver - 19.5.10.75
+Current User:
+	Microsoft OneDrive - 24.166.0818.0003
+	YouTube - 1.0
+	Google Drive - 1.0
+	CapCut - 4.0.0.1539
+
+Process List:
+	System
+	Registry
+	smss.exe
+	csrss.exe
+	wininit.exe
+	csrss.exe
+	winlogon.exe
+	services.exe
+	lsass.exe
+	fontdrvhost.exe
+	fontdrvhost.exe
+	dwm.exe
+	Memory Compression
+	spoolsv.exe
+	sihost.exe
+	taskhostw.exe
+	explorer.exe
+	ctfmon.exe
+	SearchHost.exe
+	StartMenuExperienceHost.exe
+	RuntimeBroker.exe
+	RuntimeBroker.exe
+	SearchIndexer.exe
+	TextInputHost.exe
+	SecurityHealthSystray.exe
+	SecurityHealthService.exe
+	audiodg.exe
+	svchost.exe
+	svchost.exe
+	chrome.exe
+	svchost.exe
+	chrome.exe
+	svchost.exe
+	svchost.exe
+	chrome.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	chrome.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	chrome.exe
+	svchost.exe
+	svchost.exe
+	WhatsApp.exe
+	chrome.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	chrome.exe
+	svchost.exe
+	svchost.exe
+	chrome.exe
+	chrome.exe
+	Telegram.exe
+	svchost.exe
+	svchost.exe
+	explorer.exe
+	firefox.exe
+	svchost.exe
+	chrome.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	chrome.exe
+	chrome.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
