@@ -1,0 +1,31 @@
+PersonaIDs marked for StealC infection:
+P001,P006,P009,P013,P014,P022,P024,P032,P033,P034,P036,P039,P042,P045,P050,P061,P071,P076,P077,P080,P083,P092,P094,P098
+
+Details:
+P001: Sarah Moonbeam (Remote_Worker)
+P006: Robert Elephant (Remote_Worker)
+P009: Maria Horsefeather (Remote_Worker)
+P013: Anastasia Muffin (Remote_Worker)
+P014: Alejandro Pickle (Remote_Worker)
+P022: Kai Volcano (Gaming_Enthusiast)
+P024: Lucas Asteroid (Gaming_Enthusiast)
+P032: Andre Penguin (Gaming_Enthusiast)
+P033: Dmitri Subway (Gaming_Enthusiast)
+P034: Santiago Marshmallow (Gaming_Enthusiast)
+P036: Aiden Helicopter (Student)
+P039: Emma Cactus (Student)
+P042: Mason Pretzel (Student)
+P045: Olivia Rocket (Student)
+P050: Jackson Bison (Student)
+P061: Jennifer Diner (Small_Business_Owner)
+P071: Catherine Paperclip (Corporate_Executive)
+P076: Isabella Keychain (Corporate_Executive)
+P077: David Lampshade (Corporate_Executive)
+P080: Marco Kaleidoscope (Corporate_Executive)
+P083: Amanda Shovel (Corporate_Executive)
+P092: Ahmad Sprinkles (Freelancer)
+P094: Carlos Snail (Freelancer)
+P098: IMPOSSIBLE HARDWARE (Fake_Log)
+
+
+Total: 24 personas
