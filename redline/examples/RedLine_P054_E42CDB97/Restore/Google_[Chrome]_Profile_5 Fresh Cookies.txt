@@ -1,0 +1,6 @@
+accounts.google.com	TRUE	/	FALSE	1878542870	SID	vCStpWmTFUB7BonaOo2IcVLWVs8ABd0JL6PnzgEa_T9GmQUTd3WuTnHqgHnE2GxuawRDzl2n
+.kraken.com	TRUE	/	FALSE	1825060167	cf_clearance	9lNjJEOMkkfPSkbZJAHY0Hd6vx0V8QS7_jdMVmd6Ld5H29OPilDqnwcsNlYSLOOKqOV9_tIbyZQtI6cz3cmZHDYA5tQrfPOVSO04ggcZmihfNpA4BpkA1xTmMxHO9F2hNmLWG
+.kraken.com	TRUE	/	TRUE	1862863357	session	6Dhwmph-31zblyAZoji4UDGS5Fq0KXc1frcEn71tzC1m1xsjaFewlfYi-Um1wi2rnIfxe
+.facebook.com	TRUE	/	TRUE	1883538355	xs	4JFPZxz97UsZFKHrj6ad7atzBW5q-6mtaDbe8fHGpy1vb1Nmt1-GZ8VXiRbR_M4nnm7l7P
+.facebook.com	TRUE	/	TRUE	1803577626	c_user	_NTtnSKSfrPD3SDaWBL307ngAZaKPVTXexgEO9fCGBurlmmBEZrlmaNbnVMyT0PtVZ11J7ohclKev37ybc_XhXd3NRdV9Ps7qNohD_f17QKdu-7Of7ankmlDavgMqm3bsya
+.coinbase.com	TRUE	/	TRUE	1814095827	__cf_bm	jFh7h1KbkOjeWi4Weavcmb07TPZA9MjPNsf_mTa6hJ5zZIEoPV-u9M9SSGFKUPKkO

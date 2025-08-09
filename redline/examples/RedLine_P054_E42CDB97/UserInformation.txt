@@ -1,0 +1,32 @@
+CLOUD LOGS - @FATECLOUD | SHOP - @LOGSFATE_BOT | SUPPORT - @EZFATE
+
+Build ID: @redline_official
+IP: 217.237.201.192
+FileLocation: C:\Users\William\AppData\Local\Temp\375409\AddInProcess.exe
+UserName: William
+MachineName: DESKTOP-MHM0TS52
+Country: DE
+Zip Code: 95619
+Location: Munich, Munich
+HWID: 9300BDAA326B1F2D2D0B621B44880BD8
+Current Language: German (Germany)
+ScreenSize: {Width=2560, Height=1440}
+TimeZone: (UTC+00:00) Coordinated Universal Time
+Operation System: Windows_11_Home x64
+UAC: RequireAdmin
+Log date: 7/29/2025 2:27:03 PM
+
+Available KeyboardLayouts: 
+German (Germany)
+English (United States)
+
+
+Hardwares: 
+Name: Total of RAM, 16384.00 MB or 17179869184 bytes
+Name: AMD Ryzen 5 5500, 6 Cores
+Name: AMD Radeon RX 6600, 4294967296 bytes
+
+
+Anti-Viruses: 
+Windows Defender
+Avira

@@ -1,0 +1,31 @@
+CLOUD LOGS - @FATECLOUD | SHOP - @LOGSFATE_BOT | SUPPORT - @EZFATE
+
+Build ID: @redline_official
+IP: 14.217.84.173
+FileLocation: C:\Users\Giuseppe\AppData\Local\Temp\972335\AppLaunch.exe
+UserName: Giuseppe
+MachineName: DESKTOP-TC6K43TE
+Country: IT
+Zip Code: 48108
+Location: Milan, Milan
+HWID: FEF6D4EE7F9EC2A9F7215A25FF5A3D5B
+Current Language: Italian (Italy)
+ScreenSize: {Width=1920, Height=1080}
+TimeZone: (UTC+00:00) Coordinated Universal Time
+Operation System: Windows_10_Home x64
+UAC: AllowAll
+Log date: 7/29/2025 2:27:03 PM
+
+Available KeyboardLayouts: 
+English (United States)
+
+
+Hardwares: 
+Name: Total of RAM, 16384.00 Mb or 17179869184 bytes
+Name: Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz, 4 Cores
+Name: NVIDIA GeForce GTX 1650, 4294967296 bytes
+
+
+Anti-Viruses: 
+Windows Defender
+Avast

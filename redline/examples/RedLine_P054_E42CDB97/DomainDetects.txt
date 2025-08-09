@@ -1,0 +1,4 @@
+PDD: 
+Shop amazon.com (8), Social facebook.com (12), Social google.com (15)
+CDD: 
+Shop amazon.com (16), Social facebook.com (13), Social google.com (11)

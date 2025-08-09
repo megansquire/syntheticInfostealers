@@ -1,0 +1,19 @@
+META_DATA
+login[email]: giuseppe@romanos-pizza.sim
+user[email]: giuseppe@romanos-pizza.sim
+email: giuseppe@romanos-pizza.sim
+email: giuseppe.compass@defconlab.fake
+user[email]: giuseppe.compass@defconlab.fake
+login[email]: giuseppe.compass@defconlab.fake
+email: giuseppe@romanos-pizza.sim
+user[email]: giuseppe.compass@defconlab.fake
+login[email]: giuseppe@romanos-pizza.sim
+email: giuseppe.compass@defconlab.fake
+user[email]: giuseppe@romanos-pizza.sim
+email: giuseppe@romanos-pizza.sim
+login[email]: giuseppe@romanos-pizza.sim
+login[email]: giuseppe@romanos-pizza.sim
+user[email]: giuseppe@romanos-pizza.sim
+email: giuseppe.compass@defconlab.fake
+email: giuseppe.compass@defconlab.fake
+email: giuseppe@romanos-pizza.sim

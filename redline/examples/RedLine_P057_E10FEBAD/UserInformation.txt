@@ -1,0 +1,29 @@
+CLOUD LOGS - @REDLINECLOUD | SHOP - @LOGSREDLINE_BOT | SUPPORT - @EZREDLINE
+
+Build ID: @premium_logs
+IP: 10.0.117.167
+FileLocation: C:\Users\Maria\AppData\Local\Temp\321104\dfsvc.exe
+UserName: Maria
+MachineName: DESKTOP-FP46ZZQK
+Country: US
+Zip Code: 12560
+Location: San Antonio, San Antonio
+HWID: AA5F0C85E5C288C449182731C9E48FED
+Current Language: English (United States)
+ScreenSize: {Width=1920, Height=1080}
+TimeZone: (UTC+00:00) Coordinated Universal Time
+Operation System: Windows_10_Home x64
+Log date: 7/29/2025 2:27:03 PM
+
+Available KeyboardLayouts: 
+English (United States)
+
+
+Hardwares: 
+Name: Total of RAM, 16384.00 MB or 17179869184 bytes
+Name: Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz, 6 Cores
+Name: NVIDIA GeForce GTX 1650, 4294967296 bytes
+
+
+Anti-Viruses: 
+Windows Defender
