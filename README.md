@@ -18,3 +18,6 @@ The config files within each infostealer family directory contain various syneth
 
 ### Example Files
 The example files are samples created with the software, so you can see the types of files it makes. There are 4 Atomic samples, 24 Lumma samples, 24 Redline samples, 16 Stealc samples, and 24 Vidar samples. There are only 16 Stealc examples (and not 24) because Github refused to upload some of the Stealc samples for an unknown security reason (error message did not match reality - will fix later).
+
+### Assessment Worksheet
+This is a sample assessment worksheet to help keep you organized as you are using an infostealer for a red teaming assignment.
