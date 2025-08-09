@@ -1,0 +1,32 @@
+CLOUD LOGS - @FATECLOUD | SHOP - @LOGSFATE_BOT | SUPPORT - @EZFATE
+
+Build ID: @darknet2024
+IP: 114.182.242.37
+FileLocation: C:\Windows\Microsoft.NET\Framework\v4.0.30319\RegAsm.exe
+UserName: Artem
+MachineName: DESKTOP-7JK159K1
+Country: UA
+Zip Code: UNKNOWN
+Location: Kyiv, Kyiv
+HWID: C5F9045AFDA44CE71C433E3B7A620D38
+Current Language: English (United States)
+ScreenSize: {Width=3840, Height=2160}
+TimeZone: (UTC+00:00) Coordinated Universal Time
+Operation System: Windows_11_Pro x64
+Process Elevation: True
+Log date: 7/29/2025 2:27:03 PM
+
+Available KeyboardLayouts: 
+English (United States)
+
+
+Hardwares: 
+Name: Total of RAM, 131072.00 MB or 137438953472 bytes
+Name: AMD Ryzen 9 7950X, 12 Cores
+Name: NVIDIA GeForce RTX 4090, 25769803776 bytes
+
+
+Anti-Viruses: 
+Windows Defender
+Kaspersky
+Kaspersky Network Protection

@@ -1,0 +1,33 @@
+================================================
+=                REDLINE STEALER                =
+=          Telegram: @redline_support           =
+================================================
+
+Build ID: @cloud_logs_shop
+IP: 86.185.80.61
+FileLocation: C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe
+UserName: Emma
+MachineName: DESKTOP-AJHXYX52
+Country: GB
+Zip Code: FU59 7NZ
+Location: Birmingham, Birmingham
+HWID: 69A5A44832E2D89F9CD86B101A1B0F0E
+Current Language: English (United Kingdom)
+ScreenSize: {Width=2560, Height=1440}
+TimeZone: (UTC+00:00) Coordinated Universal Time
+Operation System: Windows_11_Home x64
+Log date: 7/29/2025 2:27:03 PM
+
+Available KeyboardLayouts: 
+English (United Kingdom)
+English (United States)
+
+
+Hardwares: 
+Name: Total of RAM, 32768.00 Mb or 34359738368 bytes
+Name: AMD Ryzen 7 5800X, 8 Cores
+Name: NVIDIA GeForce RTX 3070, 8589934592 bytes
+
+
+Anti-Viruses: 
+Windows Defender

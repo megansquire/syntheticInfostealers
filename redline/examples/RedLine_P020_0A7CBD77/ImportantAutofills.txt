@@ -1,0 +1,17 @@
+META_DATA
+email: athunder@cloudcompany.sim
+login[email]: athunder@cloudcompany.sim
+user[email]: artem.thunder@syntheticmail.fake
+login[email]: athunder@cloudcompany.sim
+login[email]: artem.thunder@syntheticmail.fake
+email: athunder@cloudcompany.sim
+user[email]: artem.thunder@syntheticmail.fake
+email: artem.thunder@syntheticmail.fake
+user[email]: artem.thunder@syntheticmail.fake
+user[email]: artem.thunder@syntheticmail.fake
+login[email]: athunder@cloudcompany.sim
+login[email]: artem.thunder@syntheticmail.fake
+login[email]: athunder@cloudcompany.sim
+email: artem.thunder@syntheticmail.fake
+user[email]: athunder@cloudcompany.sim
+login[email]: athunder@cloudcompany.sim

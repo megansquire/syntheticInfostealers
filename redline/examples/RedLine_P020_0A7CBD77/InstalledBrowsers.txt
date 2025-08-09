@@ -1,0 +1,5 @@
+META_DATA
+1) Microsoft Edge | Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe | Version: 125.0.2535.92
+2) Internet Explorer | Path: C:\Program Files\Internet Explorer\iexplore.exe | Version: 11.0.19041.4355
+3) Google Chrome | Path: C:\Program Files\Google\Chrome\Application\chrome.exe | Version: 125.0.6422.142
+4) Mozilla Firefox | Path: C:\Program Files\Mozilla Firefox\firefox.exe | Version: 125.0.3
