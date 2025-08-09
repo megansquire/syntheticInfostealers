@@ -1,0 +1,33 @@
+================================================
+=                REDLINE STEALER                =
+=          Telegram: @redline_support           =
+================================================
+
+Build ID: @stealer_market
+IP: 174.91.36.53
+FileLocation: C:\Windows\Microsoft.NET\Framework\v4.0.30319\RegAsm.exe
+UserName: Charlotte
+MachineName: DESKTOP-DA2ALYW8
+Country: CA
+Zip Code: R5D 1C5
+Location: Vancouver, British Columbia
+HWID: B85B563433EE7ADDA2689962CDABC275
+Current Language: English (Canada)
+ScreenSize: {Width=1920, Height=1080}
+TimeZone: (UTC+00:00) Coordinated Universal Time
+Operation System: Windows_11_Home x64
+UAC: Default
+Log date: 7/29/2025 2:27:03 PM
+
+Available KeyboardLayouts: 
+English (United States)
+
+
+Hardwares: 
+Name: Total of RAM, 8192.00 Mb or 8589934592 bytes
+Name: AMD Ryzen 3 3200G, 4 Cores
+Name: Intel(R) UHD Graphics 630, 4294967296 bytes
+
+
+Anti-Viruses: 
+Windows Defender
