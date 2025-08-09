@@ -1,0 +1,174 @@
+ ______     ______   ______     ______     __         ______
+/\  ___\   /\__  _\ /\  ___\   /\  __ \   /\ \       /\  ___\
+\ \___  \  \/_/\ \/ \ \  __\   \ \  __ \  \ \ \____  \ \ \____
+ \/\_____\    \ \_\  \ \_____\  \ \_\ \_\  \ \_____\  \ \_____\
+  \/_____/     \/_/   \/_____/   \/_/\/_/   \/_____/   \/_____/
+
+                       stealc stealer
+
+powerful native stealer based on C lang
+
+forum topics:
+	- https://forum.exploit.in/topic/220340/
+	- https://xss.is/threads/79592/
+	- https://bhf.im/threads/666154/
+
+buy:
+	- telegram: t.me/plym0uth
+
+----------------------------------------------------------------
+FATE CHANNEL - @FATETRAFFIC | SHOP - @FATEPRODUCT_BOT | SUPPORT - @GGFATE
+----------------------------------------------------------------
+
+Network Info:
+	- IP: 94.26.127.246
+	- Country: RU
+
+System Summary:
+	- HWID: SXSR3TM7CCFZAP3V00O7D
+	- OS: Windows_10_Pro
+	- Architecture: x64
+	- UserName: Anastasia
+	- Computer Name: CORP-B381
+	- Local Time: 2025/07/29 09:13:51
+	- UTC: +3
+	- Language: ru-RU
+	- Keyboards: Russian (Russia)
+	- Laptop: TRUE
+	- Running Path: C:\Temp\RarSFX0\Setup.exe
+	- CPU: Intel Core i5-1235U @ 1.30GHz
+	- Cores: 6
+	- Threads: 12
+	- RAM: 8192 MB
+	- Display Resolution: 1920x1080
+	- GPU:
+		-Intel(R) UHD Graphics
+
+User Agents:
+	Google Chrome - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.127 Safari/537.36
+	Microsoft Edge - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.2651.74 Safari/537.36 Edg/127.0.2651.74
+
+Installed Apps:
+All Users:
+	Microsoft Visual C++ 2022 X86 Additional Runtime - 14.30.30423 - 14.30.30423
+	Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.21005 - 12.0.21005.1
+	Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.30.30423 - 14.30.30423
+	Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.30.30423 - 14.30.30423.0
+	Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.30.30423 - 14.30.30423.0
+	Microsoft .NET Framework 4.8 - 4.8.09037
+	Microsoft .NET Framework 4.7.2 - 4.7.03190
+	Google Chrome - 128.0.6613.84
+	Microsoft Edge - 128.0.2739.42
+	Realtek Ethernet Controller Driver - 10.49.823.2021
+	Intel(R) Management Engine Components - 2021.14.0.1748
+	Dell Command | Update - 4.5.0
+	HP Support Assistant - 9.12.205.0
+	Microsoft Office Professional Plus 2010 - 14.0.4763.1000
+	Microsoft Office Access MUI (English) 2010 - 14.0.4763.1000
+	Microsoft Office Excel MUI (English) 2010 - 14.0.4763.1000
+	Microsoft Office PowerPoint MUI (English) 2010 - 14.0.4763.1000
+	Microsoft Office Word MUI (English) 2010 - 14.0.4763.1000
+	Microsoft Office Outlook MUI (English) 2010 - 14.0.4763.1000
+	Microsoft Teams - 1.6.00.32159
+	Zoom - 5.16.10.25689
+Current User:
+	Microsoft OneDrive - 24.166.0818.0003
+	YouTube - 1.0
+	Google Drive - 1.0
+
+Process List:
+	System
+	Registry
+	smss.exe
+	csrss.exe
+	wininit.exe
+	csrss.exe
+	winlogon.exe
+	services.exe
+	lsass.exe
+	fontdrvhost.exe
+	fontdrvhost.exe
+	dwm.exe
+	Memory Compression
+	spoolsv.exe
+	sihost.exe
+	taskhostw.exe
+	explorer.exe
+	ctfmon.exe
+	SearchHost.exe
+	StartMenuExperienceHost.exe
+	RuntimeBroker.exe
+	RuntimeBroker.exe
+	SearchIndexer.exe
+	TextInputHost.exe
+	SecurityHealthSystray.exe
+	SecurityHealthService.exe
+	audiodg.exe
+	msedgewebview2.exe
+	msedgewebview2.exe
+	OUTLOOK.EXE
+	chrome.exe
+	msedge.exe
+	msedge.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	WhatsApp.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	Zoom.exe
+	chrome.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	msedge.exe
+	svchost.exe
+	svchost.exe
+	chrome.exe
+	msedge.exe
+	svchost.exe
+	svchost.exe
+	msedge.exe
+	svchost.exe
+	OneDrive.exe
+	svchost.exe
+	svchost.exe
+	chrome.exe
+	msedge.exe
+	svchost.exe
+	svchost.exe
+	msedgewebview2.exe
+	msedgewebview2.exe
+	svchost.exe
+	svchost.exe
+	Teams.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	msedge.exe
+	svchost.exe
+	Signal.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	chrome.exe
+	svchost.exe
+	svchost.exe
+	msedge.exe
+	svchost.exe
+	chrome.exe
+	chrome.exe
+	svchost.exe
+	svchost.exe
+	msedgewebview2.exe
+	chrome.exe
+	explorer.exe
+	svchost.exe
