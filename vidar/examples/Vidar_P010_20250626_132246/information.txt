@@ -1,0 +1,161 @@
+-- VIDAR STEALER - ЛУЧШИЙ STEALER НА РЫНКЕ!!!!
+-- Контакты для связи Telegram: @vidar
+-- ПОМНИТЕ ОПЛАТА ТОЛЬКО НА САЙТЕ ПРОЕКТА В АВТОМАТИЧЕСКОМ РЕЖИМЕ! 
+
+Chat Public: https://t.me/vidarchatopen
+Channel: https://t.me/vidarnews
+
+
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+Подбор паролей к криптокошелькам.
+Беру в работу Metamask, Ronin, Phantom, Daedalus Mainnet, Nami, Exodus, Electrum, Rabby, Unisat
+Беру логи с балансом от 3000$
+
+В процессе брута задействую более 10 аттак.
+Возьмусь за лог после других брутеров.
+Срок брута зависит от сложности пароля.
+
+Telegram: @brute
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+
+Ip: 98.33.206.111
+Country: US
+Version: 10.1
+
+Date: 26/6/2025 13:22:46
+MachineID: f0876c87-ddba-3b65-3c8b-7bd2ef3c25ba
+GUID: {62dec0e9-e3df-76a6-5440-d1faf56c4f68}
+HWID: BDE8CA3F077A6DDFF3-62dec0e9-e3df-76a6-5440-d1faf56c4f68
+
+Path: C:\Users\James\Downloads\setup.exe
+Work Dir: In memory
+
+Windows: Windows 11 Home
+Install Date: 16/2/2024 13:22:46
+AV: Norton
+Computer Name: WORK-YD3A4Y4
+User Name: James
+Display Resolution: 1600x900
+Keyboard Languages: English (United States)
+Local Time: 26/6/2025 13:22:46
+TimeZone: 0
+
+[Hardware]
+Processor: Intel(R) Core(TM) i7-1265U @ 1.80GHz
+Cores: 4
+Threads: 4
+RAM: 8192 MB
+VideoCard: NVIDIA GeForce GTX 1650
+
+[Processes]
+System
+Registry
+smss.exe
+csrss.exe
+wininit.exe
+services.exe
+lsass.exe
+fontdrvhost.exe
+winlogon.exe
+dwm.exe
+sihost.exe
+taskhostw.exe
+explorer.exe
+ctfmon.exe
+SearchApp.exe
+RuntimeBroker.exe
+TextInputHost.exe
+SecurityHealthSystray.exe
+spoolsv.exe
+SearchIndexer.exe
+audiodg.exe
+Memory Compression
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+msedge.exe
+msedge.exe
+msedge.exe
+msedge.exe
+msedge.exe
+msedge.exe
+msedge.exe
+msedge.exe
+msedge.exe
+MicrosoftEdgeUpdate.exe
+NortonSecurity.exe
+nsWscSvc.exe
+coml.au3
+SearchProtocolHost.exe
+SearchFilterHost.exe
+WmiPrvSE.exe
+conhost.exe
+dllhost.exe
+
+[Software]
+Microsoft Edge - 127.0.2651.74
+Microsoft Edge Update - 1.3.192.47
+Microsoft Edge WebView2 Runtime - 127.0.2651.74
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 - 12.0.30501.0
+Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29334 - 14.28.29334
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005 - 12.0.21005
+Microsoft Visual C++ 2019 X86 Additional Runtime - 14.28.29334 - 14.28.29334
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 - 11.0.61030.0
+Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.28.29334 - 14.28.29334.0
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030 - 11.0.61030
+Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.28.29334 - 14.28.29334.0
+Google Chrome - 128.0.6613.84
+7-Zip 23.01
+Malwarebytes - 4.6.0
+WinRAR archiver
+CCleaner - 6.18
+Norton Security - 22.24.1.6
