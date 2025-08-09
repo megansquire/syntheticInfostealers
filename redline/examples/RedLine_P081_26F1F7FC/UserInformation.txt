@@ -1,0 +1,37 @@
+================================================
+=                REDLINE STEALER                =
+=          Telegram: @redline_support           =
+================================================
+
+Build ID: @hitok4111
+IP: 178.248.89.228
+FileLocation: C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe
+UserName: Elena
+MachineName: DESKTOP-UPRL1F0U
+Country: RU
+Zip Code: 51643
+Location: Moscow, Moscow
+HWID: AF18BE925EA869E6474BD6B5CEFE5CFF
+Current Language: Russian (Russia)
+ScreenSize: {Width=1920, Height=1080}
+TimeZone: (UTC+00:00) Coordinated Universal Time
+Operation System: Windows_11_Pro x64
+UAC: Default
+Process Elevation: True
+Log date: 7/29/2025 2:27:03 PM
+
+Available KeyboardLayouts: 
+Russian (Russia)
+English (United States)
+
+
+Hardwares: 
+Name: Total of RAM, 8192.00 MB or 8589934592 bytes
+Name: Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz, 4 Cores
+Name: Intel(R) UHD Graphics 630, 4294967296 bytes
+
+
+Anti-Viruses: 
+Windows Defender
+Kaspersky
+Kaspersky Network Protection

@@ -1,0 +1,34 @@
+CLOUD LOGS - @FATECLOUD | SHOP - @LOGSFATE_BOT | SUPPORT - @EZFATE
+
+Build ID: @cloud_logs_shop
+IP: 84.159.150.251
+FileLocation: C:\Users\Richard\AppData\Local\Temp\311178\AddInProcess.exe
+UserName: Richard
+MachineName: DESKTOP-N142V5AH
+Country: DE
+Zip Code: 50372
+Location: Stuttgart, Stuttgart
+HWID: 8B2B1F1C4DBDD80BB96635DA5C273E03
+Current Language: German (Germany)
+ScreenSize: {Width=3840, Height=2160}
+TimeZone: (UTC+00:00) Coordinated Universal Time
+Operation System: Windows_11_Pro x64
+UAC: RequireAdmin
+Log date: 7/29/2025 2:27:03 PM
+
+Available KeyboardLayouts: 
+German (Germany)
+English (United States)
+
+
+Hardwares: 
+Name: Total of RAM, 131072.00 Mb or 137438953472 bytes
+Name: AMD Ryzen 9 7950X, 12 Cores
+Name: NVIDIA GeForce RTX 4090, 25769803776 bytes
+
+
+Anti-Viruses: 
+Windows Defender
+Bitdefender
+Bitdefender Firewall
+Kaspersky Security
