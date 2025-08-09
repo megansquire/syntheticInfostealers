@@ -1,0 +1,23 @@
+C:\Users\Thomas\Downloads\Chrome Setup.exe
+https://www.google.com/chrome/
+
+C:\Users\Thomas\Downloads\Firefox Installer.exe
+https://www.mozilla.org/en-US/firefox/download/thanks/
+
+C:\Users\Thomas\Downloads\7z2301-x64.exe
+https://www.7-zip.org/download.html
+
+C:\Users\Thomas\Downloads\2635263864_93265192a9_z.jpg
+https://www.google.com/search?q=car+wallpaper&client=firefox-b-d&sca_esv=df358a12fb64829c
+
+C:\Users\Thomas\Downloads\Discord-Setup.exe
+https://discord.com/download
+
+C:\Users\Thomas\Downloads\qbittorrent_4.6.5_x64_setup.exe
+https://www.qbittorrent.org/download.php
+
+C:\Users\Thomas\Downloads\quarterly_report_template.xlsx
+https://templates.office.com/en-us/quarterly-report
+
+C:\Users\Thomas\Downloads\winrar-x64-623.exe
+https://www.win-rar.com/download.html

@@ -1,0 +1,155 @@
+-- VIDAR STEALER - ЛУЧШИЙ STEALER НА РЫНКЕ!!!!
+-- Контакты для связи Telegram: @vidar
+-- ПОМНИТЕ ОПЛАТА ТОЛЬКО НА САЙТЕ ПРОЕКТА В АВТОМАТИЧЕСКОМ РЕЖИМЕ! 
+
+Chat Public: https://t.me/vidarchatopen
+Channel: https://t.me/vidarnews
+
+
+Ip: 200.164.178.66
+Country: BR
+Version: 10.1
+
+Date: 30/07/2025 13:42:43
+MachineID: e87d3062-69bf-5c98-36b3-8d9cac13aabf
+GUID: {b26070e2-ccb5-7b8a-c7be-b793e8ec0c4c}
+HWID: 4A61FA09674ED4A255-b26070e2-ccb5-7b8a-c7be-b793e8ec0c4c
+
+Path: C:\Users\Ana\Downloads\setup.exe
+Work Dir: In memory
+
+Windows: Windows 10 Home
+Install Date: 15/10/2023 13:42:43
+AV: Avast
+Computer Name: PC-YK4WCL
+User Name: Ana
+Display Resolution: 1920x1080
+Keyboard Languages: Portuguese (Brazil)
+Local Time: 30/07/2025 13:42:43
+TimeZone: 0
+
+[Hardware]
+Processor: Intel(R) Core(TM) i5-10400 @ 2.90GHz
+Cores: 4
+Threads: 4
+RAM: 16335 MB
+VideoCard: NVIDIA GeForce GTX 1650
+
+[Processes]
+System
+Registry
+smss.exe
+csrss.exe
+wininit.exe
+services.exe
+lsass.exe
+fontdrvhost.exe
+winlogon.exe
+dwm.exe
+sihost.exe
+taskhostw.exe
+explorer.exe
+ctfmon.exe
+SearchApp.exe
+RuntimeBroker.exe
+TextInputHost.exe
+SecurityHealthSystray.exe
+spoolsv.exe
+SearchIndexer.exe
+audiodg.exe
+Memory Compression
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+firefox.exe
+firefox.exe
+firefox.exe
+firefox.exe
+firefox.exe
+firefox.exe
+firefox.exe
+firefox.exe
+firefox.exe
+NVDisplay.Container.exe
+nvcontainer.exe
+NVIDIA Web Helper.exe
+NvBackend.exe
+OUTLOOK.EXE
+OneDrive.exe
+Teams.exe
+AvastSvc.exe
+AvastUI.exe
+Setup.exe
+SearchProtocolHost.exe
+SearchFilterHost.exe
+WmiPrvSE.exe
+conhost.exe
+dllhost.exe
+
+[Software]
+Microsoft Edge - 126.0.2592.102
+Microsoft Edge Update - 1.3.195.44
+Microsoft Edge WebView2 Runtime - 127.0.2651.74
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 - 12.0.30501.0
+Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29334 - 14.28.29334
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005 - 12.0.21005
+Microsoft Visual C++ 2019 X86 Additional Runtime - 14.28.29334 - 14.28.29334
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 - 11.0.61030.0
+Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.28.29334 - 14.28.29334.0
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030 - 11.0.61030
+Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.28.29334 - 14.28.29334.0
+Google Chrome - 128.0.6613.84
+Mozilla Firefox - 129.0
+Microsoft Office Professional Plus 2021 - 16.0.14332.20435
+Microsoft Teams - 1.6.00.24078
+Adobe Acrobat DC - 23.006.20380
+Avast Update Helper - 1.8.1697.6
+Avast - 23.7.6074

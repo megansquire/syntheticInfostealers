@@ -1,0 +1,168 @@
+-- VIDAR STEALER - ЛУЧШИЙ STEALER НА РЫНКЕ!!!!
+-- Контакты для связи Telegram: @vidar
+-- ПОМНИТЕ ОПЛАТА ТОЛЬКО НА САЙТЕ ПРОЕКТА В АВТОМАТИЧЕСКОМ РЕЖИМЕ! 
+
+Chat Public: https://t.me/vidarchatopen
+Channel: https://t.me/vidarnews
+
+
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+FATE CLOUD - @FATETRAFFIC | SUPPORT - @GGFATE | SH0P - @FATEPRODUCT_BOT
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+
+Ip: 66.126.255.157
+Country: KR
+Version: 11
+
+Date: 30/7/2025 13:42:43
+MachineID: 07452295-f8ed-fc9e-c2db-74d983bcca4e
+GUID: {35f0c5a6-b00d-d93e-92ed-e5f369b2e4c2}
+HWID: 3B4E8F0B6C7BB15F59-35f0c5a6-b00d-d93e-92ed-e5f369b2e4c2
+
+Path: C:\Users\Kim\AppData\Local\Temp\installer.exe
+Work Dir: In memory
+
+Windows: Windows 11 Home
+Install Date: 27/1/2024 13:42:43
+AV: V3
+Computer Name: GAMING-PC-WQN9IV
+User Name: Kim
+Display Resolution: 1920x1080
+Keyboard Languages: English (United States)
+Local Time: 30/7/2025 13:42:43
+TimeZone: 0
+
+[Hardware]
+Processor: Intel(R) Core(TM) i7-13700K @ 3.40GHz
+Cores: 16
+Threads: 16
+RAM: 32702 MB
+VideoCard: NVIDIA GeForce RTX 4080
+
+[Processes]
+System
+Registry
+smss.exe
+csrss.exe
+wininit.exe
+services.exe
+lsass.exe
+fontdrvhost.exe
+winlogon.exe
+dwm.exe
+sihost.exe
+taskhostw.exe
+explorer.exe
+ctfmon.exe
+SearchApp.exe
+RuntimeBroker.exe
+TextInputHost.exe
+SecurityHealthSystray.exe
+spoolsv.exe
+SearchIndexer.exe
+audiodg.exe
+Memory Compression
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+firefox.exe
+firefox.exe
+firefox.exe
+firefox.exe
+firefox.exe
+firefox.exe
+firefox.exe
+firefox.exe
+NVDisplay.Container.exe
+nvcontainer.exe
+NVIDIA Web Helper.exe
+NvBackend.exe
+OUTLOOK.EXE
+OneDrive.exe
+Teams.exe
+coml.au3
+SearchProtocolHost.exe
+SearchFilterHost.exe
+WmiPrvSE.exe
+conhost.exe
+dllhost.exe
+
+[Software]
+Microsoft Edge - 126.0.2592.102
+Microsoft Edge Update - 1.3.186.39
+Microsoft Edge WebView2 Runtime - 127.0.2651.74
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 - 12.0.30501.0
+Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29334 - 14.28.29334
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005 - 12.0.21005
+Microsoft Visual C++ 2019 X86 Additional Runtime - 14.28.29334 - 14.28.29334
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 - 11.0.61030.0
+Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.28.29334 - 14.28.29334.0
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030 - 11.0.61030
+Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.28.29334 - 14.28.29334.0
+Google Chrome - 129.0.6668.71
+Mozilla Firefox - 129.0
+Microsoft Office Professional Plus 2021 - 16.0.14332.20435
+Microsoft Teams - 1.6.00.24078
+Adobe Acrobat DC - 23.006.20380
+CCleaner - 6.18
+VLC media player - 3.0.20
+7-Zip 23.01
+qBittorrent - 4.6.5
+VirtualBox - 7.0.12
+Node.js - 20.9.0
+VMware Workstation 17
+Git - 2.42.0
